@@ -80,6 +80,25 @@ def extract_location_details(filename):
 
     return coords, alt, location
 
+def process_single_location(filename, args):
+    """Process a single location's data"""
+    try:
+        logger.info(f"\nProcessing {filename}")
+        coords, alt, location = extract_location_details(filename)
+
+        SITE, FOLDER = config(location, start_year=args.start_year, end_year=args.end_year, 
+                            alt=alt, coords=coords, datadir=args.datadir)
+        
+        icestupa = Icestupa(SITE, FOLDER)
+        icestupa.sim_air(test=False)
+        icestupa.summary_figures()
+        
+        logger.info(f"Completed processing {filename}")
+        return True
+    except Exception as e:
+        logger.error(f"Error processing {filename}: {str(e)}")
+        return False
+
 def consolidate_results(filenames, output_dir):
     """
     Consolidate results from multiple locations into a single JSON file.
@@ -132,37 +151,7 @@ def consolidate_results(filenames, output_dir):
     return consolidated_results
 
 
-# if __name__ == "__main__":
-#
-#     # Main logger
-#     logger = logging.getLogger(__name__)
-#     # logger.setLevel("ERROR")
-#     logger.setLevel("WARNING")
-#     st = time.time()
-#
-#     args = parse_args()
-#     # Get all filenames from data directory
-#     filenames = get_data_filenames(args.datadir)
-#     logger.info(f"Found {len(filenames)} CSV files to process")
-#
-#     for filename in filenames:
-#         logger.info(f"\nProcessing {filename}")
-#         coords, alt, location = extract_location_details(filename)
-#
-#         SITE, FOLDER = config(location, start_year=args.start_year, end_year=args.end_year, alt=alt,
-#                             coords=coords, datadir = args.datadir)
-#         icestupa = Icestupa(SITE, FOLDER)
-#         icestupa.sim_air(test=False)
-#         # icestupa.read_output()
-#         # icestupa.summary_figures()
-#         et = time.time()
-#
-#         # get the execution time
-#         elapsed_time = (et - st)/60
-#         print('\n\tExecution time:', round(elapsed_time,2), 'min\n')
-# # In your main script after processing all files:
-#     consolidated_results = consolidate_results(filenames, args.datadir)
-#
+
 def process_single_result(filename, datadir):
     """
     Process a single location's results.
