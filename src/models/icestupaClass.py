@@ -415,11 +415,11 @@ class Icestupa:
         results_dict = {}
         results = [
             "iceV_max",
-            "iceV_sum",
+            # "iceV_sum",
             "survival_days",
         ]
         iceV_max = self.df["iceV"].max()
-        iceV_sum = self.df["iceV"].sum()
+        # iceV_sum = self.df["iceV"].sum()
         survival_days= self.df.iceV.gt(0).sum()/24
 
         for var in results:
