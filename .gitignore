@@ -90,6 +90,7 @@ target/
 media/
 sdcard/
 data/tests/
+data/Ladakh/
 src/logs/
 archive/
 *.pdf
