@@ -92,7 +92,7 @@ def config(location=None, start_year=None, end_year=None, coords=None, alt=None,
         )
     else:
         FOLDER = dict(
-            raw=datadir + "/era5/",
+            raw=datadir + "era5/",
             input=datadir + location + "/interim/",
             output=datadir + location + "/processed/",
             fig=datadir +  location + "/figs/",
