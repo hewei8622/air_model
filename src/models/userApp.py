@@ -269,7 +269,7 @@ if __name__ == "__main__":
     logger.info(f"Found {len(filenames)} CSV files to process")
 
     # Process all locations in parallel
-    # process_locations_parallel(filenames, args)
+    process_locations_parallel(filenames, args)
     
     # Consolidate results after parallel processing
     logger.info("Consolidating results from all locations...")
