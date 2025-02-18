@@ -28,7 +28,7 @@ if __name__ == "__main__":
     logger = logging.getLogger(__name__)
     # logger.setLevel("ERROR")
     logger.setLevel("WARNING")
-    region = "Ladakh"
+    region = "Peru"
     # Load the Ladakh boundary GeoJSON
     with open('data/' + region + '/map.geojson', 'r') as f:
         ladakh_geojson = json.load(f)
@@ -55,6 +55,8 @@ if __name__ == "__main__":
 
 # Create figure
     fig, ax = plt.subplots(1, 1, figsize=(15, 10))
+    # Remove axes
+    ax.set_axis_off()
 
 # Plot Ladakh boundary
     ladakh.plot(ax=ax, alpha=0.4, color='lightgray')
@@ -69,14 +71,23 @@ if __name__ == "__main__":
         alpha=0.7
     )
 
+    if region == 'Ladakh':
 # Add cities
-    cities = {
-        'Leh': (77.58, 34.17),
-        'Kargil': (76.13, 34.57),
-        'Pangong Lake': (78.67, 33.83),
-        'Nubra Valley': (77.27, 34.62),
-        'Zanskar': (76.83, 33.72)
-    }
+        cities = {
+            'Leh': (77.58, 34.17),
+            'Kargil': (76.13, 34.57),
+            'Pangong Lake': (78.67, 33.83),
+            'Nubra Valley': (77.27, 34.62),
+            'Zanskar': (76.83, 33.72)
+        }
+    elif region =='Peru':
+        cities = {
+            'Cusco': (-71.98, -13.52),
+            'Huaraz': (-77.53, -9.53),
+            'Puno': (-70.02, -15.84),
+            'Cerro de Pasco': (-76.27, -10.69),
+            'Juliaca': (-70.13, -15.50)
+        }
 
 # Convert city coordinates to Web Mercator and plot
     for city, coords in cities.items():
@@ -119,7 +130,7 @@ if __name__ == "__main__":
                     zoom=8)
 
 # Set title and labels
-    plt.title('Ice Volume Distribution in ', pad=20, fontsize=14)
+    plt.title('Ice Volume Potential in '+ region, pad=20, fontsize=14)
 
 # Adjust layout
     plt.tight_layout()
