@@ -37,7 +37,7 @@ def load_countries():
     
     try:
         # Check if the shape file exists
-        shapefile_path = 'data/shp/ne_110m_admin_0_countries.zip'
+        shapefile_path = 'data/ne_110m_admin_0_countries.zip'
         if not os.path.exists(shapefile_path):
             logger.error(f"Country shapefile not found at {shapefile_path}")
             logger.info("Please download from https://www.naturalearthdata.com/downloads/110m-cultural-vectors/")

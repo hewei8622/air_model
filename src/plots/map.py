@@ -40,7 +40,7 @@ def get_cities_from_dataset(region, country_gdf, max_cities=10):
     
     try:
         # Load the populated places dataset
-        cities_gdf = gpd.read_file('data/shp/ne_110m_populated_places_simple.zip')
+        cities_gdf = gpd.read_file('data/ne_110m_populated_places_simple.zip')
         logger.info(f"Loaded {len(cities_gdf)} cities from dataset")
         
         # Make sure country_gdf is valid
@@ -153,7 +153,7 @@ def plot_icestupa_map(region, output_path=None, max_cities=10):
     logger.info(f"\nMapping {region}")
     
     # Load country boundaries
-    country = gpd.read_file('data/shp/ne_110m_admin_0_countries.zip', 
+    country = gpd.read_file('data/ne_110m_admin_0_countries.zip', 
                             engine='pyogrio', 
                             use_arrow=True,
                             where=f"ADMIN = '{region}'")
