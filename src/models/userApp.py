@@ -236,7 +236,7 @@ def consolidate_results_parallel(filenames, datadir, num_processes=None):
         "location_results": consolidated_results
     }
     
-    output_file = os.path.join(datadir, "consolidated_results.json")
+    output_file = os.path.join(datadir, "/consolidated_results.json")
     with open(output_file, "w") as f:
         json.dump(output_data, f, indent=4, sort_keys=True)
     
