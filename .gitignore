@@ -90,6 +90,8 @@ target/
 media/
 sdcard/
 data/*/
+!data/*/*.json
+!data/*/*.png
 src/logs/
 archive/
 *.pdf
@@ -98,5 +100,3 @@ archive/
 *.ipynb
 .python-version
 .tasks
-!*.png
-!*.json
