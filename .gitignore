@@ -76,7 +76,13 @@ target/
 .ipynb_checkpoints/
 
 # exclude data from source control by default
-#/data/
+# First ignore everything in data directory
+data/*
+# Then explicitly include only .json and .png files in all data subfolders
+!data/
+!data/*/
+!data/**/*.json
+!data/**/*.png
 
 # Mac OS-specific storage files
 .DS_Store
@@ -87,11 +93,10 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# Project-specific
 media/
 sdcard/
-data/*/
-!data/*/*.json
-!data/*/*.png
 src/logs/
 archive/
 *.pdf
