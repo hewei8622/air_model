@@ -118,14 +118,15 @@ def classify_by_country(input_folder, output_base_folder, min_alt=None, bounding
                     if point_gdf.within(country.geometry).values[0]:
                         country_name = country['ADMIN']  # Use ADMIN field for country name
                         
-                        # Create country folder if it doesn't exist
+                        # Create country folder and era5 subfolder if they don't exist
                         country_folder = os.path.join(output_base_folder, country_name)
-                        if not os.path.exists(country_folder):
-                            os.makedirs(country_folder)
-                            logger.info(f"Created folder for {country_name}")
+                        era5_folder = os.path.join(country_folder, "era5")
+                        if not os.path.exists(era5_folder):
+                            os.makedirs(era5_folder)
+                            logger.info(f"Created era5 folder for {country_name}")
                         
-                        # Copy file to country folder
-                        output_path = os.path.join(country_folder, filename)
+                        # Copy file to country/era5 folder
+                        output_path = os.path.join(era5_folder, filename)
                         shutil.copy2(file, output_path)
                         
                         # Update statistics
