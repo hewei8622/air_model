@@ -236,7 +236,7 @@ def consolidate_results_parallel(filenames, datadir, num_processes=None):
         "location_results": consolidated_results
     }
     
-    output_file = os.path.join(datadir, "/consolidated_results.json")
+    output_file = os.path.join(datadir, "consolidated_results.json")
     with open(output_file, "w") as f:
         json.dump(output_data, f, indent=4, sort_keys=True)
     
@@ -258,7 +258,7 @@ if __name__ == "__main__":
     logger.info(f"Found {len(filenames)} CSV files to process")
 
     # Process all locations in parallel
-    process_locations_parallel(filenames, args)
+    # process_locations_parallel(filenames, args)
     
     # Consolidate results after parallel processing
     logger.info("Consolidating results from all locations...")

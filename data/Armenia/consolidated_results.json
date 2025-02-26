@@ -1,0 +1,26 @@
+{
+    "location_results": [
+        {
+            "altitude": 1629.94,
+            "iceV_max": 12134.4,
+            "latitude": 39.5,
+            "longitude": 45.5,
+            "survival_days": 499.3
+        },
+        {
+            "altitude": 1937.44,
+            "iceV_max": 13960.0,
+            "latitude": 40.5,
+            "longitude": 44.5,
+            "survival_days": 436.2
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1783.69,
+        "average_iceV": 13047.2,
+        "average_survival_days": 467.75,
+        "max_iceV": 13960.0,
+        "min_iceV": 12134.4,
+        "total_locations": 2
+    }
+}

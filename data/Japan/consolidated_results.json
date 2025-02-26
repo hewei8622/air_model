@@ -1,0 +1,54 @@
+{
+    "location_results": [
+        {
+            "altitude": 709.35,
+            "iceV_max": 1711.2,
+            "latitude": 35.5,
+            "longitude": 137.5,
+            "survival_days": 216.2
+        },
+        {
+            "altitude": 960.27,
+            "iceV_max": 3181.5,
+            "latitude": 35.5,
+            "longitude": 138.5,
+            "survival_days": 444.5
+        },
+        {
+            "altitude": 723.8,
+            "iceV_max": 3497.3,
+            "latitude": 36.5,
+            "longitude": 138.5,
+            "survival_days": 439.5
+        },
+        {
+            "altitude": 711.25,
+            "iceV_max": 3681.3,
+            "latitude": 36.5,
+            "longitude": 137.5,
+            "survival_days": 447.0
+        },
+        {
+            "altitude": 381.15,
+            "iceV_max": 2678.9,
+            "latitude": 37.5,
+            "longitude": 139.5,
+            "survival_days": 414.1
+        },
+        {
+            "altitude": 582.0,
+            "iceV_max": 14072.9,
+            "latitude": 43.5,
+            "longitude": 142.5,
+            "survival_days": 347.4
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 677.97,
+        "average_iceV": 4803.849999999999,
+        "average_survival_days": 384.78333333333336,
+        "max_iceV": 14072.9,
+        "min_iceV": 1711.2,
+        "total_locations": 6
+    }
+}
