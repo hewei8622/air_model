@@ -1,86 +1,197 @@
 import geopandas as gpd
 import pandas as pd
+import matplotlib
 import matplotlib.pyplot as plt
+matplotlib.use('Agg')  # Use non-GUI backend
 import numpy as np
-import pandas as pd
-from shapely.geometry import Point, Polygon
-from shapely.geometry import Polygon
+from shapely.geometry import Point
 import json
 import contextily as ctx
-from shapely.ops import unary_union
-
-# External modules
-import os, sys
-import matplotlib.pyplot as plt
+import os
+import sys
+import logging
+import argparse
 
 # Locals
 dirname = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 sys.path.append(dirname)
-from src.models.icestupaClass import Icestupa
-from src.utils.settings import config
 from src.utils import setup_logger
 import logging, coloredlogs
 
-if __name__ == "__main__":
-
-    # Main logger
+def get_cities_from_dataset(region, country_gdf, max_cities=10):
+    """
+    Extract cities for the specified region by manually loading and filtering the populated places dataset.
+    Uses the 'name' column for city names with appropriate fallbacks.
+    
+    Parameters:
+    -----------
+    region : str
+        The name of the region/country
+    country_gdf : GeoDataFrame
+        The GeoDataFrame containing the country/region to intersect with
+    max_cities : int
+        Maximum number of cities to return
+        
+    Returns:
+    --------
+    dict: Dictionary with city names as keys and (longitude, latitude) tuples as values
+    """
     logger = logging.getLogger(__name__)
-    # logger.setLevel("ERROR")
+    
+    try:
+        # Load the populated places dataset
+        cities_gdf = gpd.read_file('data/shp/ne_110m_populated_places_simple.zip')
+        logger.info(f"Loaded {len(cities_gdf)} cities from dataset")
+        
+        # Make sure country_gdf is valid
+        if country_gdf.empty:
+            logger.error("Country GeoDataFrame is empty")
+            return {}
+            
+        # Make sure we're working in the correct CRS for spatial operations
+        if cities_gdf.crs != country_gdf.crs:
+            logger.debug(f"Converting cities from {cities_gdf.crs} to {country_gdf.crs}")
+            cities_gdf = cities_gdf.to_crs(country_gdf.crs)
+        
+        # Create a unified country geometry for more efficient operations
+        country_shape = country_gdf.unary_union
+        logger.debug("Created unified country geometry for spatial filtering")
+        
+        # Now find cities within the country boundary
+        logger.debug("Filtering cities by spatial relationship with country boundary")
+        within_cities = cities_gdf[cities_gdf.geometry.within(country_shape)]
+        
+        if len(within_cities) > 0:
+            logger.info(f"Found {len(within_cities)} cities within country boundaries")
+            filtered_cities = within_cities
+        else:
+            logger.warning("No cities found within country boundaries, trying with intersects")
+            intersect_cities = cities_gdf[cities_gdf.geometry.intersects(country_shape)]
+            if len(intersect_cities) > 0:
+                logger.info(f"Found {len(intersect_cities)} cities intersecting country boundaries")
+                filtered_cities = intersect_cities
+            else:
+                # Try a bounding box approach
+                logger.warning("No cities found with spatial operations, trying bounding box")
+                # Get the bounding box of the country
+                minx, miny, maxx, maxy = country_gdf.total_bounds
+                logger.info(f"Country bounding box: {minx}, {miny}, {maxx}, {maxy}")
+                
+                # Convert cities to same CRS as country
+                cities_bbox = cities_gdf.copy()
+                
+                # Filter by bounding box
+                bbox_cities = cities_bbox[
+                    (cities_bbox.geometry.x >= minx) & 
+                    (cities_bbox.geometry.x <= maxx) & 
+                    (cities_bbox.geometry.y >= miny) & 
+                    (cities_bbox.geometry.y <= maxy)
+                ]
+                
+                if len(bbox_cities) > 0:
+                    logger.info(f"Found {len(bbox_cities)} cities within country bounding box")
+                    filtered_cities = bbox_cities
+                else:
+                    logger.error(f"No cities found for {region} using any method")
+                    return {}
+        
+        # Sort by population if available
+        population_columns = ['pop_max', 'pop_min', 'pop_other']
+        for pop_col in population_columns:
+            if pop_col in filtered_cities.columns:
+                logger.debug(f"Sorting cities by {pop_col}")
+                filtered_cities = filtered_cities.sort_values(pop_col, ascending=False)
+                break
+        
+        # Limit to max_cities
+        filtered_cities = filtered_cities.head(max_cities)
+        
+        # Create dictionary with city names and coordinates
+        cities_dict = {}
+        
+        # Check if 'name' column exists
+        if 'name' not in filtered_cities.columns:
+            logger.error("'name' column not found in dataset")
+            return {}
+            
+        # Extract city names and coordinates
+        for _, city in filtered_cities.iterrows():
+            # Get the coordinates in EPSG:4326 (lat/lon)
+            point_gdf = gpd.GeoDataFrame(geometry=[city.geometry], crs=filtered_cities.crs)
+            point_4326 = point_gdf.to_crs(epsg=4326)
+            coords = (point_4326.geometry.x.iloc[0], point_4326.geometry.y.iloc[0])
+            
+            # Use the 'name' column for city names
+            city_name = str(city['name'])
+            cities_dict[city_name] = coords
+            logger.info(f"Found city: {city_name} at coordinates: {coords}")
+        
+        logger.info(f"Extracted {len(cities_dict)} cities for {region}: {list(cities_dict.keys())}")
+        return cities_dict
+        
+    except Exception as e:
+        logger.error(f"Error extracting cities: {str(e)}")
+        return {}
+
+def plot_icestupa_map(region, output_path=None, max_cities=10):
+    """
+    Generate and save a map of ice volume potential for the specified region.
+    
+    Parameters:
+    -----------
+    region : str
+        The name of the region to map
+    output_path : str, optional
+        Path to save the output image. If None, uses default path.
+    max_cities : int, optional
+        Maximum number of cities to display on the map (default: 10)
+    """
+    # Set up logging
+    logger = logging.getLogger(__name__)
     logger.setLevel("INFO")
-    # Define region
-    # region = "Peru"
-    # region = "Tajikistan"
-    # region = "Ladakh"
-    region = "Tajikistan"
+    
     logger.info(f"\nMapping {region}")
     
+    # Load country boundaries
     country = gpd.read_file('data/shp/ne_110m_admin_0_countries.zip', 
                             engine='pyogrio', 
                             use_arrow=True,
                             where=f"ADMIN = '{region}'")
-
-    # world = gpd.read_file('data/shp/ne_countries.shp')
-    # country = gpd.read_file('data/shp/ne_map_units.shp', 
-    #                             engine='pyogrio', 
-    #                             use_arrow=True,
-    #                             where="NAME = 'Netherlands'")
-    # Print available column names in the shapefile
-    # logger.info("Available columns in shapefile: %s", world.columns.tolist())
-    
-    # Filter for the specific country
-    # country = world[world['ADMIN'] == region]
     
     if country.empty:
         logger.error(f"Country '{region}' not found in Natural Earth Data")
-        sys.exit(1)
+        return False
     
-# Load and process the data
-    with open('data/'+region+'/consolidated_results.json', 'r') as f:
-        data = json.load(f)
+    # Load and process the data
+    try:
+        with open(f'data/{region}/consolidated_results.json', 'r') as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        logger.error(f"Results file not found for {region}")
+        return False
 
-# Create DataFrame from location results
+    # Create DataFrame from location results
     df = pd.DataFrame(data['location_results'])
 
-# Convert ice volume to million litres
+    # Convert ice volume to million liters
     df['iceV_litres'] = df['iceV_max'] * 1000 / 1000000
 
-# Create geometry for points
+    # Create geometry for points
     geometry = [Point(xy) for xy in zip(df['longitude'], df['latitude'])]
     gdf = gpd.GeoDataFrame(df, geometry=geometry, crs="EPSG:4326")
 
-# Reproject to Web Mercator for contextily basemap
+    # Reproject to Web Mercator for contextily basemap
     country = country.to_crs(epsg=3857)
     gdf = gdf.to_crs(epsg=3857)
 
-# Create figure
+    # Create figure
     fig, ax = plt.subplots(1, 1, figsize=(15, 10))
-    # Remove axes
     ax.set_axis_off()
 
-# Plot Ladakh boundary
+    # Plot country boundary
     country.plot(ax=ax, alpha=0.4, color='lightgray')
 
-# Create a custom colormap for ice volume
+    # Create a custom colormap for ice volume
     scatter = ax.scatter(
         gdf.geometry.x,
         gdf.geometry.y,
@@ -90,58 +201,36 @@ if __name__ == "__main__":
         alpha=0.7
     )
 
-
-    cities_gdf = gpd.read_file('data/shp/ne_110m_populated_places_simple.zip')
-
-    if region == 'Ladakh':
-# Add cities
-        cities = {
-            'Leh': (77.58, 34.17),
-            'Kargil': (76.13, 34.57),
-            'Pangong Lake': (78.67, 33.83),
-            'Nubra Valley': (77.27, 34.62),
-            'Zanskar': (76.83, 33.72)
-        }
-    elif region =='Peru':
-        cities = {
-            'Cusco': (-71.98, -13.52),
-            'Huaraz': (-77.53, -9.53),
-            'Puno': (-70.02, -15.84),
-            'Cerro de Pasco': (-76.27, -10.69),
-            'Juliaca': (-70.13, -15.50)
-        }
-    elif region =='Tajikistan':
-        cities = {
-            'Dushanbe': (68.78, 38.54),      # Capital city, elevation ~800m
-            'Khujand': (69.62, 40.28),       # Major northern city
-            'Khorog': (71.55, 37.49),        # High altitude city in GBAO, ~2200m
-            'Murghab': (73.97, 38.17),       # Highest town in Tajikistan, ~3650m
-            'Panjakent': (67.61, 39.50),     # Historical city near Zarafshan mountains
-            'Kulob': (69.78, 37.91),         # Major southern city
-            'Rushon': (71.56, 37.95),        # High mountain district center
-            'Vanj': (71.75, 38.31),          # Mountain valley town
-            'Ishkoshim': (71.61, 36.72),     # Border town in high Pamirs
-            'Rangkul': (74.25, 38.57)        # High altitude village, ~3800m
-        }
-
-# Convert city coordinates to Web Mercator and plot
-    for city, coords in cities.items():
+    # Get cities by intersecting with country geometry
+    cities = get_cities_from_dataset(region, country, max_cities)
+    
+    # Plot cities - make them more visible
+    for city_name, coords in cities.items():
+        logger.debug(f"Plotting city: {city_name} at {coords}")
+        
+        # Convert to Web Mercator for display
         point = gpd.GeoDataFrame(
             geometry=[Point(coords[0], coords[1])], 
             crs="EPSG:4326"
         ).to_crs(epsg=3857)
-        ax.plot(point.geometry.x, point.geometry.y, 'ro', markersize=8)
+        
+        # Larger, more visible markers
+        ax.plot(point.geometry.x, point.geometry.y, 'ro', markersize=10, 
+                markeredgecolor='black', markeredgewidth=1.5)
+        
+        # Clearer labels with background
         ax.annotate(
-            city,
+            city_name,
             (point.geometry.x.iloc[0], point.geometry.y.iloc[0]),
-            xytext=(5, 5),
+            xytext=(7, 7),  # Offset text slightly more
             textcoords="offset points",
-            fontsize=10,
+            fontsize=12,  # Larger font
             color='black',
-            weight='bold'
+            weight='bold',
+            bbox=dict(boxstyle="round,pad=0.3", fc="white", ec="black", alpha=0.8)
         )
 
-# Add value labels
+    # Add value labels for ice volumes
     for idx, row in gdf.iterrows():
         ax.annotate(
             f'{row.iceV_litres:.0f}',
@@ -149,27 +238,72 @@ if __name__ == "__main__":
             xytext=(0, -20),
             textcoords="offset points",
             ha='center',
-            fontsize=8,
+            fontsize=10,  # Slightly larger font
             color='black',
-            weight='bold'
+            weight='bold',
+            bbox=dict(boxstyle="round,pad=0.2", fc="white", ec="none", alpha=0.7)
         )
 
-# Add colorbar
+    # Add colorbar
     plt.colorbar(scatter, label='Ice Volume (Million Litres)')
 
-# # Add basemap
-#     ctx.add_basemap(ax, source=ctx.providers.OpenTopoMap)
-# Add basemap using CartoDB Positron (light, minimal style)
+    # Add basemap using CartoDB Positron (light, minimal style)
     ctx.add_basemap(ax, 
-                    source=ctx.providers.CartoDB.Positron,
-                    zoom=8)
+                   source=ctx.providers.CartoDB.Positron,
+                   zoom=8)
 
-# Set title and labels
-    plt.title('Ice Volume Potential in '+ region, pad=20, fontsize=14)
+    # Set title
+    plt.title(f'Ice Volume Potential in {region}', pad=20, fontsize=16)
 
-# Adjust layout
+    # Adjust layout
     plt.tight_layout()
 
-# Save the map
-    plt.savefig('data/'+region+'/'+region+'.png', dpi=300, bbox_inches='tight')
+    # Save the map
+    if output_path is None:
+        output_path = f'data/{region}/{region}.png'
+    
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    logger.info(f"Map saved to {output_path}")
+    
+    # Also display city list in console for reference
+    print(f"\nCities shown on the map for {region}:")
+    for city_name in cities.keys():
+        print(f"  - {city_name}")
+    
     plt.close()
+    return True
+
+def parse_args():
+    """Parse command line arguments."""
+    parser = argparse.ArgumentParser(description="Generate ice volume potential maps for different regions")
+    
+    parser.add_argument("--region", 
+                        required=False, 
+                        default="Tajikistan",
+                        help="Region/country to map (e.g., Tajikistan, Peru, India)")
+    
+    parser.add_argument("--output", 
+                        required=False, 
+                        help="Output file path for the map")
+    
+    parser.add_argument("--max-cities",
+                        type=int,
+                        default=10,
+                        help="Maximum number of cities to display on the map")
+    
+    return parser.parse_args()
+
+if __name__ == "__main__":
+    # Set up logging
+    logger = logging.getLogger(__name__)
+    logger.setLevel("INFO")
+    
+    # Parse command line arguments
+    args = parse_args()
+    
+    # Add a command line parameter for the max number of cities
+    logger.info(f"Mapping region: {args.region}")
+    logger.info(f"Maximum cities to show: {args.max_cities}")
+    
+    # Update function call to include max_cities parameter
+    plot_icestupa_map(args.region, args.output, args.max_cities)
