@@ -91,7 +91,7 @@ def process_single_location(filename, args):
         
         icestupa = Icestupa(SITE, FOLDER)
         icestupa.sim_air(test=False)
-        icestupa.summary_figures()
+        # icestupa.summary_figures()
         
         logger.info(f"Completed processing {filename}")
         return True

@@ -69,14 +69,6 @@ class Icestupa:
 
         self.self_attributes()
 
-        # with open(self.output + "/results.json", "r") as read_file:
-        #     results_dict = json.load(read_file)
-
-        # # Initialise all variables of dictionary
-        # for key in results_dict:
-        #     setattr(self, key, results_dict[key])
-        #     logger.warning(f"%s -> %s" % (key, str(results_dict[key])))
-
 
     # @Timer(text="Simulation executed in {:.2f} seconds", logger=logging.NOTSET)
     def sim_air(self, test=False):
@@ -120,28 +112,9 @@ class Icestupa:
         # logger.error(f"Min TOA {self.df.SW_extra.min():.2f}\n")
         self.df["SW_direct"] = self.df["SW_global"] - self.df["SW_diffuse"]
 
-        # self.df["SW_diffuse"] = self.df["tcc"] * self.df["SW_global"]
-        # self.df= self.df.rename(columns={"ghi": "SW_global"})
-        # plot_input(self.df, self.fig, self.name)
-        # logger.warning(f"Estimated global solar from pvlib\n")
-        # self.df["SW_direct"] = (1- self.df["tcc"]) * self.df["SW_global"]
-        # self.df["SW_diffuse"] = self.df["tcc"] * self.df["SW_global"]
-        # logger.error(f"Estimated solar components with average cloudiness of {self.df.tcc.mean():.2f}\n")
-        # logger.warning(f"Estimated solar components with constant cloudiness of {self.cld}\n")
-        # self.df["SW_direct"] = self.df["tau_atm"] * self.df["SW_global"]
-        # self.df["SW_diffuse"] = self.df["SW_global"] - self.df["SW_direct"]
-
         """Pressure"""
         self.df["press"] = atmosphere.alt2pres(self.alt) / 100
         logger.warning(f"Estimated pressure from altitude\n")
-
-        # """Albedo"""
-        # self.A_DECAY = self.A_DECAY * 24 * 60 * 60 / self.DT
-        # s = 0
-        # f = 1
-        # for row in self.df.itertuples():
-        #     i = row.Index
-        #     s, f = self.get_albedo(i, s, f)
 
         self.df = self.df.round(3)
 
@@ -207,6 +180,21 @@ class Icestupa:
                 current_period = 0
 
         logger.warning(f"Cold windows: {start_date_list}")
+
+        if not start_date_list:
+            logger.warning("No cold windows found. Setting iceV_max to -99.")
+            results_dict = {
+                "iceV_max": 0,
+                "survival_days": 0
+            }
+            print("Summary of results for %s :" %(self.name))
+            for var in sorted(results_dict.keys()):
+                print("\t%s: %r" % (var, results_dict[var]))
+
+            with open(self.output + "results.json", "w") as f:
+                json.dump(results_dict, f, sort_keys=True, indent=4)
+            return  # Exit the method early
+
         self.self_attributes()
 
         day_index = self.df.index[self.df['time'].dt.strftime('%Y-%m-%d')==start_date_list[0].strftime('%Y-%m-%d')][0]
