@@ -13,7 +13,6 @@ from shapely.ops import unary_union
 import os, sys
 import matplotlib.pyplot as plt
 
-
 # Locals
 dirname = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 sys.path.append(dirname)
@@ -28,16 +27,33 @@ if __name__ == "__main__":
     logger = logging.getLogger(__name__)
     # logger.setLevel("ERROR")
     logger.setLevel("INFO")
+    # Define region
     # region = "Peru"
-    region = "Tajikistan"
+    # region = "Tajikistan"
     # region = "Ladakh"
+    region = "Tajikistan"
     logger.info(f"\nMapping {region}")
-    # Load the Ladakh boundary GeoJSON
-    with open('data/' + region + '/map.geojson', 'r') as f:
-        ladakh_geojson = json.load(f)
-        
-# Convert GeoJSON to GeoDataFrame
-    ladakh = gpd.GeoDataFrame.from_features(ladakh_geojson["features"], crs="EPSG:4326")
+    
+    country = gpd.read_file('data/shp/ne_110m_admin_0_countries.zip', 
+                            engine='pyogrio', 
+                            use_arrow=True,
+                            where=f"ADMIN = '{region}'")
+
+    # world = gpd.read_file('data/shp/ne_countries.shp')
+    # country = gpd.read_file('data/shp/ne_map_units.shp', 
+    #                             engine='pyogrio', 
+    #                             use_arrow=True,
+    #                             where="NAME = 'Netherlands'")
+    # Print available column names in the shapefile
+    # logger.info("Available columns in shapefile: %s", world.columns.tolist())
+    
+    # Filter for the specific country
+    # country = world[world['ADMIN'] == region]
+    
+    if country.empty:
+        logger.error(f"Country '{region}' not found in Natural Earth Data")
+        sys.exit(1)
+    
 # Load and process the data
     with open('data/'+region+'/consolidated_results.json', 'r') as f:
         data = json.load(f)
@@ -53,7 +69,7 @@ if __name__ == "__main__":
     gdf = gpd.GeoDataFrame(df, geometry=geometry, crs="EPSG:4326")
 
 # Reproject to Web Mercator for contextily basemap
-    ladakh = ladakh.to_crs(epsg=3857)
+    country = country.to_crs(epsg=3857)
     gdf = gdf.to_crs(epsg=3857)
 
 # Create figure
@@ -62,7 +78,7 @@ if __name__ == "__main__":
     ax.set_axis_off()
 
 # Plot Ladakh boundary
-    ladakh.plot(ax=ax, alpha=0.4, color='lightgray')
+    country.plot(ax=ax, alpha=0.4, color='lightgray')
 
 # Create a custom colormap for ice volume
     scatter = ax.scatter(
@@ -73,6 +89,9 @@ if __name__ == "__main__":
         s=200,
         alpha=0.7
     )
+
+
+    cities_gdf = gpd.read_file('data/shp/ne_110m_populated_places_simple.zip')
 
     if region == 'Ladakh':
 # Add cities
