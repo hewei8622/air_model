@@ -78,11 +78,14 @@ target/
 # exclude data from source control by default
 # First ignore everything in data directory
 data/*
-# Then explicitly include only .json and .png files in all data subfolders
+# Then explicitly include the first level of directories
 !data/
 !data/*/
-!data/**/*.json
-!data/**/*.png
+# Only include png and json files that are exactly one level deep
+!data/*/*.json
+!data/*/*.png
+# But ignore everything else in deeper subdirectories
+data/*/*/
 
 # Mac OS-specific storage files
 .DS_Store
