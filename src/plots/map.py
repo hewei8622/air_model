@@ -27,8 +27,11 @@ if __name__ == "__main__":
     # Main logger
     logger = logging.getLogger(__name__)
     # logger.setLevel("ERROR")
-    logger.setLevel("WARNING")
-    region = "Peru"
+    logger.setLevel("INFO")
+    # region = "Peru"
+    region = "Tajikistan"
+    # region = "Ladakh"
+    logger.info(f"\nMapping {region}")
     # Load the Ladakh boundary GeoJSON
     with open('data/' + region + '/map.geojson', 'r') as f:
         ladakh_geojson = json.load(f)
@@ -42,8 +45,8 @@ if __name__ == "__main__":
 # Create DataFrame from location results
     df = pd.DataFrame(data['location_results'])
 
-# Convert ice volume to lakh litres
-    df['iceV_lakh_litres'] = df['iceV_max'] * 1000 / 100000
+# Convert ice volume to million litres
+    df['iceV_litres'] = df['iceV_max'] * 1000 / 1000000
 
 # Create geometry for points
     geometry = [Point(xy) for xy in zip(df['longitude'], df['latitude'])]
@@ -65,7 +68,7 @@ if __name__ == "__main__":
     scatter = ax.scatter(
         gdf.geometry.x,
         gdf.geometry.y,
-        c=gdf['iceV_lakh_litres'],
+        c=gdf['iceV_litres'],
         cmap='Blues',
         s=200,
         alpha=0.7
@@ -88,6 +91,19 @@ if __name__ == "__main__":
             'Cerro de Pasco': (-76.27, -10.69),
             'Juliaca': (-70.13, -15.50)
         }
+    elif region =='Tajikistan':
+        cities = {
+            'Dushanbe': (68.78, 38.54),      # Capital city, elevation ~800m
+            'Khujand': (69.62, 40.28),       # Major northern city
+            'Khorog': (71.55, 37.49),        # High altitude city in GBAO, ~2200m
+            'Murghab': (73.97, 38.17),       # Highest town in Tajikistan, ~3650m
+            'Panjakent': (67.61, 39.50),     # Historical city near Zarafshan mountains
+            'Kulob': (69.78, 37.91),         # Major southern city
+            'Rushon': (71.56, 37.95),        # High mountain district center
+            'Vanj': (71.75, 38.31),          # Mountain valley town
+            'Ishkoshim': (71.61, 36.72),     # Border town in high Pamirs
+            'Rangkul': (74.25, 38.57)        # High altitude village, ~3800m
+        }
 
 # Convert city coordinates to Web Mercator and plot
     for city, coords in cities.items():
@@ -109,7 +125,7 @@ if __name__ == "__main__":
 # Add value labels
     for idx, row in gdf.iterrows():
         ax.annotate(
-            f'{row.iceV_lakh_litres:.0f}',
+            f'{row.iceV_litres:.0f}',
             (row.geometry.x, row.geometry.y),
             xytext=(0, -20),
             textcoords="offset points",
@@ -120,7 +136,7 @@ if __name__ == "__main__":
         )
 
 # Add colorbar
-    plt.colorbar(scatter, label='Ice Volume (Lakh Litres)')
+    plt.colorbar(scatter, label='Ice Volume (Million Litres)')
 
 # # Add basemap
 #     ctx.add_basemap(ax, source=ctx.providers.OpenTopoMap)
