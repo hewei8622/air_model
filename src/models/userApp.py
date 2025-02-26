@@ -45,7 +45,7 @@ def get_data_filenames(datadir=None):
         datadir = os.path.join(dirname, 'data')
     
     # Look for CSV files in the data directory
-    csv_files = [f for f in os.listdir(datadir+"era5/") if f.endswith('.csv')]
+    csv_files = [f for f in os.listdir(datadir+"/era5/") if f.endswith('.csv')]
     
     if not csv_files:
         raise FileNotFoundError("No CSV files found in the data directory")
