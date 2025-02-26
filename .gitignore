@@ -98,3 +98,5 @@ archive/
 *.ipynb
 .python-version
 .tasks
+!*.png
+!*.json
