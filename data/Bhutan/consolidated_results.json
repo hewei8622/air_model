@@ -2,25 +2,25 @@
     {
         "altitude": 3300.54,
         "country": "Bhutan",
-        "iceV_max": 23019.1,
+        "iceV_max": 30894.7,
         "latitude": 27.5,
         "longitude": 89.5,
-        "survival_days": 532.0
+        "survival_days": 571.0
     },
     {
         "altitude": 3118.76,
         "country": "Bhutan",
-        "iceV_max": 29565.6,
+        "iceV_max": 28650.6,
         "latitude": 27.5,
         "longitude": 91.5,
-        "survival_days": 520.1
+        "survival_days": 572.3
     },
     {
         "altitude": 2780.87,
         "country": "Bhutan",
-        "iceV_max": 12821.3,
+        "iceV_max": 12503.3,
         "latitude": 27.5,
         "longitude": 90.5,
-        "survival_days": 553.3
+        "survival_days": 563.3
     }
 ]

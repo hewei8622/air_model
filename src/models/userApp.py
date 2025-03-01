@@ -503,7 +503,7 @@ def print_country_stats(country, country_data):
 if __name__ == "__main__":
     # Main logger
     logger = logging.getLogger(__name__)
-    logger.setLevel("INFO")
+    logger.setLevel("WARNING")
     st = time.time()
 
     args = parse_args()

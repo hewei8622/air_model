@@ -42,7 +42,7 @@ class Icestupa:
                 logger.info(f"%s -> %s" % (key, str(dictionary[key])))
 
         # Initialize input dataset
-        self.df = pd.read_csv(self.input + "aws.csv", sep=",", header=0, parse_dates=["time"])
+        self.df = pd.read_csv(self.input + "typical.csv", sep=",", header=0, parse_dates=["time"])
         self.start_date = self.df.time[0]
         self.expiry_date = self.df.time[self.df.shape[0]-1]
 
