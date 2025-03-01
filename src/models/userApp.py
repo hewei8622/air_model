@@ -149,6 +149,9 @@ def process_single_location(filename, args):
         SITE, FOLDER = config(location, start_year=args.start_year, end_year=args.end_year, 
                             alt=alt, coords=coords, datadir=country_dir)
         
+        # Ensure the processed directory exists
+        os.makedirs(FOLDER['output'], exist_ok=True)
+        
         icestupa = Icestupa(SITE, FOLDER)
         icestupa.sim_air(test=False)
         
