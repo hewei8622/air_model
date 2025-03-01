@@ -1,138 +1,146 @@
-{
-    "location_results": [
-        {
-            "altitude": 4910.83,
-            "iceV_max": 89827.4,
-            "latitude": 32.5,
-            "longitude": 79.5,
-            "survival_days": 377.7
-        },
-        {
-            "altitude": 2857.27,
-            "iceV_max": 39217.9,
-            "latitude": 32.5,
-            "longitude": 76.5,
-            "survival_days": 499.4
-        },
-        {
-            "altitude": 4688.73,
-            "iceV_max": 97759.7,
-            "latitude": 32.5,
-            "longitude": 77.5,
-            "survival_days": 444.0
-        },
-        {
-            "altitude": 5153.87,
-            "iceV_max": 115809.4,
-            "latitude": 32.5,
-            "longitude": 78.5,
-            "survival_days": 377.2
-        },
-        {
-            "altitude": 4821.25,
-            "iceV_max": 156574.5,
-            "latitude": 33.5,
-            "longitude": 79.5,
-            "survival_days": 377.5
-        },
-        {
-            "altitude": 5006.9,
-            "iceV_max": 121012.7,
-            "latitude": 33.5,
-            "longitude": 78.5,
-            "survival_days": 408.1
-        },
-        {
-            "altitude": 2964.05,
-            "iceV_max": 50832.0,
-            "latitude": 33.5,
-            "longitude": 75.5,
-            "survival_days": 496.5
-        },
-        {
-            "altitude": 4924.27,
-            "iceV_max": 223097.5,
-            "latitude": 33.5,
-            "longitude": 77.5,
-            "survival_days": 496.4
-        },
-        {
-            "altitude": 4247.89,
-            "iceV_max": 81849.8,
-            "latitude": 33.5,
-            "longitude": 76.5,
-            "survival_days": 475.2
-        },
-        {
-            "altitude": 5475.57,
-            "iceV_max": 36113.7,
-            "latitude": 34.5,
-            "longitude": 79.5,
-            "survival_days": 342.9
-        },
-        {
-            "altitude": 5354.33,
-            "iceV_max": 30316.0,
-            "latitude": 34.5,
-            "longitude": 78.5,
-            "survival_days": 287.6
-        },
-        {
-            "altitude": 4974.57,
-            "iceV_max": 96129.9,
-            "latitude": 34.5,
-            "longitude": 77.5,
-            "survival_days": 483.3
-        },
-        {
-            "altitude": 3812.46,
-            "iceV_max": 53001.1,
-            "latitude": 34.5,
-            "longitude": 75.5,
-            "survival_days": 540.4
-        },
-        {
-            "altitude": 5288.31,
-            "iceV_max": 58738.7,
-            "latitude": 35.5,
-            "longitude": 78.5,
-            "survival_days": 353.7
-        },
-        {
-            "altitude": 4068.03,
-            "iceV_max": 119255.3,
-            "latitude": 35.5,
-            "longitude": 75.5,
-            "survival_days": 530.0
-        },
-        {
-            "altitude": 4896.06,
-            "iceV_max": 160677.2,
-            "latitude": 35.5,
-            "longitude": 76.5,
-            "survival_days": 358.8
-        },
-        {
-            "altitude": 5420.06,
-            "iceV_max": 38109.0,
-            "latitude": 35.5,
-            "longitude": 77.5,
-            "survival_days": 256.4
-        },
-        {
-            "altitude": 5318.61,
-            "iceV_max": 44500.3,
-            "latitude": 35.5,
-            "longitude": 79.5,
-            "survival_days": 398.4
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 4676.836666666666,
-        "average_iceV": 89601.22777777778,
-        "average_survival_days": 416.8611111111111,
-        "max_iceV": 223097.5,
-        "min_iceV": 30316.0,
-        "total_locations": 18
+[
+    {
+        "altitude": 5288.31,
+        "country": "Ladakh",
+        "iceV_max": 42017.7,
+        "latitude": 35.5,
+        "longitude": 78.5,
+        "survival_days": 500.9
+    },
+    {
+        "altitude": 4821.25,
+        "country": "Ladakh",
+        "iceV_max": 138553.8,
+        "latitude": 33.5,
+        "longitude": 79.5,
+        "survival_days": 622.3
+    },
+    {
+        "altitude": 4910.83,
+        "country": "Ladakh",
+        "iceV_max": 48678.7,
+        "latitude": 32.5,
+        "longitude": 79.5,
+        "survival_days": 653.5
+    },
+    {
+        "altitude": 5475.57,
+        "country": "Ladakh",
+        "iceV_max": 36518.7,
+        "latitude": 34.5,
+        "longitude": 79.5,
+        "survival_days": 476.8
+    },
+    {
+        "altitude": 2857.27,
+        "country": "Ladakh",
+        "iceV_max": 35023.7,
+        "latitude": 32.5,
+        "longitude": 76.5,
+        "survival_days": 581.4
+    },
+    {
+        "altitude": 5354.33,
+        "country": "Ladakh",
+        "iceV_max": 80220.3,
+        "latitude": 34.5,
+        "longitude": 78.5,
+        "survival_days": 439.4
+    },
+    {
+        "altitude": 5006.9,
+        "country": "Ladakh",
+        "iceV_max": 114622.2,
+        "latitude": 33.5,
+        "longitude": 78.5,
+        "survival_days": 575.5
+    },
+    {
+        "altitude": 4974.57,
+        "country": "Ladakh",
+        "iceV_max": 99551.9,
+        "latitude": 34.5,
+        "longitude": 77.5,
+        "survival_days": 553.4
+    },
+    {
+        "altitude": 4688.73,
+        "country": "Ladakh",
+        "iceV_max": 90941.9,
+        "latitude": 32.5,
+        "longitude": 77.5,
+        "survival_days": 595.2
+    },
+    {
+        "altitude": 2964.05,
+        "country": "Ladakh",
+        "iceV_max": 61877.0,
+        "latitude": 33.5,
+        "longitude": 75.5,
+        "survival_days": 731.0
+    },
+    {
+        "altitude": 4068.03,
+        "country": "Ladakh",
+        "iceV_max": 188031.3,
+        "latitude": 35.5,
+        "longitude": 75.5,
+        "survival_days": 576.9
+    },
+    {
+        "altitude": 4924.27,
+        "country": "Ladakh",
+        "iceV_max": 116227.7,
+        "latitude": 33.5,
+        "longitude": 77.5,
+        "survival_days": 656.7
+    },
+    {
+        "altitude": 4896.06,
+        "country": "Ladakh",
+        "iceV_max": 174477.2,
+        "latitude": 35.5,
+        "longitude": 76.5,
+        "survival_days": 397.1
+    },
+    {
+        "altitude": 4247.89,
+        "country": "Ladakh",
+        "iceV_max": 86611.2,
+        "latitude": 33.5,
+        "longitude": 76.5,
+        "survival_days": 589.7
+    },
+    {
+        "altitude": 5153.87,
+        "country": "Ladakh",
+        "iceV_max": 62517.9,
+        "latitude": 32.5,
+        "longitude": 78.5,
+        "survival_days": 481.4
+    },
+    {
+        "altitude": 5420.06,
+        "country": "Ladakh",
+        "iceV_max": 58368.9,
+        "latitude": 35.5,
+        "longitude": 77.5,
+        "survival_days": 160.7
+    },
+    {
+        "altitude": 3812.46,
+        "country": "Ladakh",
+        "iceV_max": 57710.0,
+        "latitude": 34.5,
+        "longitude": 75.5,
+        "survival_days": 712.8
+    },
+    {
+        "altitude": 5318.61,
+        "country": "Ladakh",
+        "iceV_max": 42304.9,
+        "latitude": 35.5,
+        "longitude": 79.5,
+        "survival_days": 493.4
     }
-}
+]

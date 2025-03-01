@@ -18,6 +18,62 @@ sys.path.append(dirname)
 from src.utils import setup_logger
 import logging, coloredlogs
 
+def get_country_geometry(country, use_geojson=False):
+    """
+    Retrieve country geometry from either Natural Earth Data or a local GeoJSON file.
+    
+    Parameters:
+    -----------
+    country : str
+        Name of the country
+    use_geojson : bool, optional
+        Flag to prefer local GeoJSON over Natural Earth Data
+        
+    Returns:
+    --------
+    GeoDataFrame: Country geometry or empty GeoDataFrame if not found
+    """
+    logger = logging.getLogger(__name__)
+    
+    # Option 1: Try local GeoJSON if use_geojson is True or Natural Earth fails
+    if use_geojson:
+        geojson_path = os.path.join('data', country, f'{country}.geojson')
+        if os.path.exists(geojson_path):
+            try:
+                logger.info(f"Loading country geometry from local GeoJSON: {geojson_path}")
+                country_gdf = gpd.read_file(geojson_path)
+                if not country_gdf.empty:
+                    return country_gdf
+            except Exception as e:
+                logger.warning(f"Error reading local GeoJSON: {e}")
+    
+    # Option 2: Try Natural Earth Data
+    try:
+        country_gdf = gpd.read_file('data/ne_110m_admin_0_countries.zip', 
+                                    engine='pyogrio', 
+                                    use_arrow=True,
+                                    where=f"ADMIN = '{country}'")
+        
+        if not country_gdf.empty:
+            logger.info(f"Found country in Natural Earth Data: {country}")
+            return country_gdf
+    except Exception as e:
+        logger.error(f"Error retrieving country from Natural Earth Data: {e}")
+    
+    # Fallback: Check map.geojson in country folder
+    geojson_path = os.path.join('data', country, 'map.geojson')
+    if os.path.exists(geojson_path):
+        try:
+            logger.info(f"Loading country geometry from map.geojson: {geojson_path}")
+            country_gdf = gpd.read_file(geojson_path)
+            if not country_gdf.empty:
+                return country_gdf
+        except Exception as e:
+            logger.warning(f"Error reading map.geojson: {e}")
+    
+    logger.error(f"Country '{country}' not found in any source")
+    return gpd.GeoDataFrame()
+
 def get_cities_from_dataset(region, country_gdf, max_cities=10):
     """
     Extract cities for the specified region by manually loading and filtering the populated places dataset.
@@ -133,14 +189,14 @@ def get_cities_from_dataset(region, country_gdf, max_cities=10):
         logger.error(f"Error extracting cities: {str(e)}")
         return {}
 
-def plot_icestupa_map(region, output_path=None, max_cities=10):
+def plot_icestupa_map(country, output_path=None, max_cities=10):
     """
-    Generate and save a map of ice volume potential for the specified region.
+    Generate and save a map of ice volume potential for the specified country.
     
     Parameters:
     -----------
-    region : str
-        The name of the region to map
+    country : str
+        The name of the country to map
     output_path : str, optional
         Path to save the output image. If None, uses default path.
     max_cities : int, optional
@@ -150,28 +206,54 @@ def plot_icestupa_map(region, output_path=None, max_cities=10):
     logger = logging.getLogger(__name__)
     logger.setLevel("INFO")
     
-    logger.info(f"\nMapping {region}")
+    logger.info(f"\nMapping {country}")
     
-    # Load country boundaries
-    country = gpd.read_file('data/ne_110m_admin_0_countries.zip', 
-                            engine='pyogrio', 
-                            use_arrow=True,
-                            where=f"ADMIN = '{region}'")
+    # Load country boundaries with fallback to local sources
+    country_gdf = get_country_geometry(country)
     
-    if country.empty:
-        logger.error(f"Country '{region}' not found in Natural Earth Data")
-        return False
+    if country_gdf.empty:
+        # Try with GeoJSON source if Natural Earth Data fails
+        country_gdf = get_country_geometry(country, use_geojson=True)
+        
+        if country_gdf.empty:
+            logger.error(f"Country '{country}' not found in any data source")
+            return False
     
     # Load and process the data
     try:
-        with open(f'data/{region}/consolidated_results.json', 'r') as f:
+        with open(f'data/{country}/consolidated_results.json', 'r') as f:
             data = json.load(f)
     except FileNotFoundError:
-        logger.error(f"Results file not found for {region}")
+        logger.error(f"Results file not found for {country}")
         return False
 
-    # Create DataFrame from location results
-    df = pd.DataFrame(data['location_results'])
+    # Determine the structure of the data and load location results
+    if isinstance(data, list):
+        # If data is a list, use it directly
+        df = pd.DataFrame(data)
+    elif isinstance(data, dict):
+        # If data is a dictionary, try to get location results
+        if 'location_results' in data:
+            df = pd.DataFrame(data['location_results'])
+        else:
+            # If no location_results, try to find a key that contains list of dictionaries
+            for key, value in data.items():
+                if isinstance(value, list) and len(value) > 0 and isinstance(value[0], dict):
+                    df = pd.DataFrame(value)
+                    break
+            else:
+                logger.error(f"Could not find suitable location data in JSON for {country}")
+                return False
+    else:
+        logger.error(f"Unexpected data type in JSON for {country}")
+        return False
+
+    # Ensure required columns exist
+    required_columns = ['iceV_max', 'longitude', 'latitude']
+    for col in required_columns:
+        if col not in df.columns:
+            logger.error(f"Missing required column: {col}")
+            return False
 
     # Convert ice volume to million liters
     df['iceV_litres'] = df['iceV_max'] * 1000 / 1000000
@@ -181,7 +263,7 @@ def plot_icestupa_map(region, output_path=None, max_cities=10):
     gdf = gpd.GeoDataFrame(df, geometry=geometry, crs="EPSG:4326")
 
     # Reproject to Web Mercator for contextily basemap
-    country = country.to_crs(epsg=3857)
+    country_gdf = country_gdf.to_crs(epsg=3857)
     gdf = gdf.to_crs(epsg=3857)
 
     # Create figure
@@ -189,7 +271,7 @@ def plot_icestupa_map(region, output_path=None, max_cities=10):
     ax.set_axis_off()
 
     # Plot country boundary
-    country.plot(ax=ax, alpha=0.4, color='lightgray')
+    country_gdf.plot(ax=ax, alpha=0.4, color='lightgray')
 
     # Create a custom colormap for ice volume
     scatter = ax.scatter(
@@ -202,7 +284,7 @@ def plot_icestupa_map(region, output_path=None, max_cities=10):
     )
 
     # Get cities by intersecting with country geometry
-    cities = get_cities_from_dataset(region, country, max_cities)
+    cities = get_cities_from_dataset(country, country_gdf, max_cities)
     
     # Plot cities - make them more visible
     for city_name, coords in cities.items():
@@ -253,20 +335,20 @@ def plot_icestupa_map(region, output_path=None, max_cities=10):
                    zoom=8)
 
     # Set title
-    plt.title(f'Ice Volume Potential in {region}', pad=20, fontsize=16)
+    plt.title(f'Ice Volume Potential in {country}', pad=20, fontsize=16)
 
     # Adjust layout
     plt.tight_layout()
 
     # Save the map
     if output_path is None:
-        output_path = f'data/{region}/{region}.png'
+        output_path = f'data/{country}/{country}.png'
     
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     logger.info(f"Map saved to {output_path}")
     
     # Also display city list in console for reference
-    print(f"\nCities shown on the map for {region}:")
+    print(f"\nCities shown on the map for {country}:")
     for city_name in cities.keys():
         print(f"  - {city_name}")
     
@@ -275,12 +357,12 @@ def plot_icestupa_map(region, output_path=None, max_cities=10):
 
 def parse_args():
     """Parse command line arguments."""
-    parser = argparse.ArgumentParser(description="Generate ice volume potential maps for different regions")
+    parser = argparse.ArgumentParser(description="Generate ice volume potential maps for different countries")
     
-    parser.add_argument("--region", 
+    parser.add_argument("--country", 
                         required=False, 
                         default="Tajikistan",
-                        help="Region/country to map (e.g., Tajikistan, Peru, India)")
+                        help="Country to map (e.g., Tajikistan, Peru, India)")
     
     parser.add_argument("--output", 
                         required=False, 
@@ -302,8 +384,8 @@ if __name__ == "__main__":
     args = parse_args()
     
     # Add a command line parameter for the max number of cities
-    logger.info(f"Mapping region: {args.region}")
+    logger.info(f"Mapping country: {args.country}")
     logger.info(f"Maximum cities to show: {args.max_cities}")
     
     # Update function call to include max_cities parameter
-    plot_icestupa_map(args.region, args.output, args.max_cities)
+    plot_icestupa_map(args.country, args.output, args.max_cities)
