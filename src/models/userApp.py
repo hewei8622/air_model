@@ -18,6 +18,37 @@ from src.utils import setup_logger
 from src.utils.eff_criterion import nse
 import logging, coloredlogs
 
+def get_available_countries():
+    """
+    Get a list of available countries by looking at directories
+    
+    Returns:
+        list: List of country names (directories)
+    """
+    data_base_dir = os.path.join(dirname, 'data')
+    
+    if not os.path.exists(data_base_dir):
+        logger.warning(f"Data directory not found at {data_base_dir}")
+        return []
+    
+    # Get all directories in the data folder
+    return [d for d in os.listdir(data_base_dir) 
+            if os.path.isdir(os.path.join(data_base_dir, d)) and d != "world"]
+
+def sanitize_country_name(country):
+    """
+    Sanitize country name for use in file paths and filenames
+    
+    Args:
+        country (str): Country name
+    
+    Returns:
+        str: Sanitized country name
+    """
+    # Replace any unsafe characters
+    safe_name = country.replace(' ', '_').replace('/', '_').replace('\\', '_')
+    return safe_name
+
 
 def process_locations_parallel(filenames, args, num_processes=None):
     """
@@ -73,8 +104,21 @@ def parse_args():
     parser.add_argument("--start_year", required=False, help="Specify the start year (e.g., 2019)")
     parser.add_argument("--end_year", required=False, help="Specify the end year (e.g., 2020)")
     parser.add_argument("--country", required=True, help="Specify the country name (used as data/country)")
+    parser.add_argument("--list_countries", action="store_true", help="List all available countries")
 
     return parser.parse_args()
+
+def list_available_countries():
+    """List all available countries by checking existing directories"""
+    countries = get_available_countries()
+    
+    if countries:
+        print("\nAvailable countries:")
+        for i, country in enumerate(sorted(countries), 1):
+            print(f"  {i}. {country}")
+        print(f"\nTotal: {len(countries)} countries\n")
+    else:
+        print("No country directories found in data folder")
 
 def extract_location_details(filename):
     # Strip the file extension if present
@@ -137,12 +181,21 @@ def process_single_result(filename, country):
         lon = float(lon)
         alt = float(alt)
         
+        # Get just the country name without path
+        country_name = os.path.basename(country)
+        
         # Build data path from country
-        data_dir = os.path.join(dirname, 'data', country)
+        data_dir = os.path.join(dirname, 'data', country_name)
         
         # Read the individual results.json for this location
         location_dir = os.path.join(data_dir, location, "processed")
-        with open(os.path.join(location_dir, "results.json"), "r") as f:
+        results_file = os.path.join(location_dir, "results.json")
+        
+        if not os.path.exists(results_file):
+            logger.error(f"Results file not found: {results_file}")
+            return None
+            
+        with open(results_file, "r") as f:
             location_results = json.load(f)
         
         # Create consolidated entry
@@ -150,7 +203,7 @@ def process_single_result(filename, country):
             "latitude": lat,
             "longitude": lon,
             "altitude": alt,
-            "country": country,
+            "country": country_name,
             "iceV_max": location_results["iceV_max"],
             "survival_days": location_results["survival_days"]
         }
@@ -253,15 +306,16 @@ def consolidate_results_parallel(filenames, country, num_processes=None):
             "average_altitude": sum(r['altitude'] for r in valid_results) / len(valid_results)
         }
         
+        country_name = os.path.basename(country)
         # Prepare country output data
         output_data = {
-            "country": country,
+            "country": country_name,
             "summary_statistics": summary_stats,
             "location_results": valid_results
         }
         
         # Create safe filename
-        safe_filename = country.replace(" ", "_").replace("/", "_").replace("\\", "_")
+        safe_filename = country_name.replace(" ", "_").replace("/", "_").replace("\\", "_")
         
         # Save to country JSON file in world_dir
         country_file = os.path.join(world_dir, f"{safe_filename}.json")
@@ -279,7 +333,7 @@ def consolidate_results_parallel(filenames, country, num_processes=None):
         logger.info(f"Processed {len(valid_results)} locations for {country}")
         
         # Return a simple dictionary with just this country
-        return {country: valid_results}
+        return {country_name: valid_results}
     else:
         logger.warning(f"No valid results found for {country}")
         return {}
@@ -426,8 +480,10 @@ def create_country_summary_figures():
 
 def print_country_stats(country, country_data):
     """Print statistics for a country"""
-    if country in country_data and country_data[country]:
-        locations = country_data[country]
+    country_name = os.path.basename(country)
+    
+    if country_name in country_data and country_data[country_name]:
+        locations = country_data[country_name]
         avg_survival = sum(r['survival_days'] for r in locations) / len(locations)
         max_icev = max(r['iceV_max'] for r in locations)
         avg_alt = sum(r['altitude'] for r in locations) / len(locations)
@@ -438,31 +494,39 @@ def print_country_stats(country, country_data):
         print(f"  Average altitude: {avg_alt:.2f} m")
         
         world_dir = os.path.join(dirname, 'data', 'world')
-        safe_filename = country.replace(' ', '_').replace('/', '_').replace('\\', '_')
+        safe_filename = sanitize_country_name(country_name)
         print(f"\nResults saved to: {os.path.join(world_dir, f'{safe_filename}.json')}")
         return True
     else:
-        print("  No valid results found or processing failed")
         return False
 
 if __name__ == "__main__":
     # Main logger
     logger = logging.getLogger(__name__)
-    logger.setLevel("WARNING")
+    logger.setLevel("INFO")
     st = time.time()
 
     args = parse_args()
     
+    # Check if we should list countries and exit
+    if args.list_countries:
+        list_available_countries()
+        sys.exit(0)
+    
     # Build data path from country
     data_base_dir = os.path.join(dirname, 'data')
     country_dir = os.path.join(data_base_dir, args.country)
+    if not os.path.exists(country_dir):
+        print(f"Error: Country directory not found: {country_dir}")
+        print("Run with --list_countries to see all available countries")
+        sys.exit(1)
     
     # Get all filenames from data directory for this country
     filenames, data_dir = get_data_filenames(args.country)
     logger.info(f"Found {len(filenames)} CSV files to process for {args.country}")
 
     # Process all locations in parallel
-    # process_locations_parallel(filenames, args)
+    process_locations_parallel(filenames, args)
     
     # Consolidate results for this country
     logger.info(f"Consolidating results for {args.country}...")
@@ -471,10 +535,10 @@ if __name__ == "__main__":
     # Update the world summary file
     all_countries = update_world_summary()
     
-    # Create summary figures comparing countries if we have data for multiple countries
-    if len(all_countries) > 1:
-        logger.info("Creating country comparison figures...")
-        create_country_summary_figures()
+    # # Create summary figures comparing countries if we have data for multiple countries
+    # if len(all_countries) > 1:
+    #     logger.info("Creating country comparison figures...")
+    #     create_country_summary_figures()
     
     # Print summary of results
     print(f"\nProcessed results for country: {args.country}")

@@ -34,9 +34,39 @@ def parse_args():
 
     parser.add_argument("--start_year", required=False, help="Specify the start year (e.g., 2019)")
     parser.add_argument("--end_year", required=False, help="Specify the end year (e.g., 2020)")
-    parser.add_argument("--datadir", required=True, help="Specify the data folder")
+    parser.add_argument("--country", required=True, help="Specify the country name")
+    parser.add_argument("--list_countries", action="store_true", help="List all available countries")
 
     return parser.parse_args()
+
+def get_available_countries():
+    """
+    Get a list of available countries by looking at directories
+    
+    Returns:
+        list: List of country names (directories)
+    """
+    data_base_dir = os.path.join(dirname, 'data')
+    
+    if not os.path.exists(data_base_dir):
+        logger.warning(f"Data directory not found at {data_base_dir}")
+        return []
+    
+    # Get all directories in the data folder
+    return [d for d in os.listdir(data_base_dir) 
+            if os.path.isdir(os.path.join(data_base_dir, d)) and d != "world"]
+
+def list_available_countries():
+    """List all available countries by checking existing directories"""
+    countries = get_available_countries()
+    
+    if countries:
+        print("\nAvailable countries:")
+        for i, country in enumerate(sorted(countries), 1):
+            print(f"  {i}. {country}")
+        print(f"\nTotal: {len(countries)} countries\n")
+    else:
+        print("No country directories found in data folder")
 
 def process_datasets_parallel(filenames, args, num_processes=None):
     """
@@ -45,7 +75,7 @@ def process_datasets_parallel(filenames, args, num_processes=None):
     if num_processes is None:
         num_processes = mp.cpu_count()
 
-    logger.info(f"Starting parallel processing with {num_processes} processes")
+    logger.info(f"Starting parallel processing with {num_processes} processes for country: {args.country}")
     
     # Create a partial function with fixed args
     process_func = partial(process_single_dataset, args=args)
@@ -56,7 +86,7 @@ def process_datasets_parallel(filenames, args, num_processes=None):
     
     # Count successful processes
     successful = sum(1 for r in results if r)
-    logger.info(f"Processed {successful} out of {len(filenames)} datasets successfully")
+    logger.info(f"Processed {successful} out of {len(filenames)} datasets successfully for {args.country}")
 
 def extract_location_details(filename):
     # Strip the file extension if present
@@ -75,18 +105,26 @@ def extract_location_details(filename):
 
     return coords, alt, location
 
-def get_data_filenames(datadir=None):
-    """Find all CSV files in the data directory"""
-    if datadir is None:
-        datadir = os.path.join(dirname, 'data')
+def get_data_filenames(country=None):
+    """Find all CSV files in the data directory for the specified country"""
+    if country is None:
+        raise ValueError("Country must be specified")
+    
+    data_base_dir = os.path.join(dirname, 'data')
+    country_dir = os.path.join(data_base_dir, country)
+    era5_dir = os.path.join(country_dir, 'era5')
+    
+    # Check if the directory exists
+    if not os.path.exists(era5_dir):
+        raise FileNotFoundError(f"Era5 directory not found: {era5_dir}")
     
     # Look for CSV files in the data directory
-    csv_files = [f for f in os.listdir(datadir+"/era5/") if f.endswith('.csv')]
+    csv_files = [f for f in os.listdir(era5_dir) if f.endswith('.csv')]
     
     if not csv_files:
-        raise FileNotFoundError("No CSV files found in the data directory")
+        raise FileNotFoundError(f"No CSV files found in {era5_dir}")
     
-    return csv_files
+    return csv_files, country_dir
 
 def process_single_dataset(filename, args):
     """Process a single location's dataset"""
@@ -94,13 +132,16 @@ def process_single_dataset(filename, args):
         logger.info(f"\nProcessing {filename}")
         coords, alt, location = extract_location_details(filename)
 
+        # Build the data directory path from country
+        country_dir = os.path.join(dirname, 'data', args.country)
+
         with open("constants.json") as f:
             CONSTANTS = json.load(f)
 
         SITE, FOLDER = config(location, start_year=args.start_year, end_year=args.end_year, 
-                            alt=alt, coords=coords, datadir=args.datadir)
+                              alt=alt, coords=coords, datadir=country_dir)
 
-        loc= location
+        loc = location
         df = pd.read_csv(
             FOLDER["raw"] + loc + ".csv",
             sep=",",
@@ -127,7 +168,6 @@ def process_single_dataset(filename, args):
         df = df.drop(['u10', 'v10', 't2m_RH', 'd2m_RH', 'd2m'], axis=1)
         df = df.reset_index()
 
-
         # CSV output
         df.rename(
             columns={
@@ -138,9 +178,6 @@ def process_single_dataset(filename, args):
         )
 
         df = df.round(3)
-
-        # logger.error(df.ssrd.mean())
-        # logger.error(df.ssrd.max())
         df["Discharge"] = 1000000
 
         cols = [
@@ -165,12 +202,17 @@ def process_single_dataset(filename, args):
         logger.info(df_out.head())
         logger.info(df_out.tail())
         
-        # Create folders if they don't exist
-        if not os.path.exists(args.datadir + loc):
+        # Create necessary directories
+        location_dir = os.path.join(country_dir, loc)
+        interim_dir = os.path.join(location_dir, "interim")
+        processed_dir = os.path.join(location_dir, "processed")
+        figs_dir = os.path.join(location_dir, "figs")
+        
+        if not os.path.exists(location_dir):
             logger.warning(f"Creating folders for {loc}")
-            os.makedirs(args.datadir + loc + "/interim/", exist_ok=True)
-            os.makedirs(args.datadir + loc + "/processed/", exist_ok=True)
-            os.makedirs(args.datadir + loc + "/figs/", exist_ok=True)
+            os.makedirs(interim_dir, exist_ok=True)
+            os.makedirs(processed_dir, exist_ok=True)
+            os.makedirs(figs_dir, exist_ok=True)
 
         df_out.to_csv(FOLDER["input"] + "aws.csv", index=False)
         plot_input(df_out, FOLDER['fig'], SITE["name"])
@@ -187,10 +229,31 @@ if __name__ == "__main__":
     logger.setLevel("INFO")
 
     args = parse_args()
+    
+    # Check if we should list countries and exit
+    if args.list_countries:
+        list_available_countries()
+        sys.exit(0)
+    
+    # Check if the country directory exists
+    data_base_dir = os.path.join(dirname, 'data')
+    country_dir = os.path.join(data_base_dir, args.country)
+    
+    if not os.path.exists(country_dir):
+        print(f"Error: Country directory not found: {country_dir}")
+        print("Run with --list_countries to see all available countries")
+        sys.exit(1)
+    
+    try:
+        # Get all filenames from data directory for this country
+        filenames, _ = get_data_filenames(args.country)
+        logger.info(f"Found {len(filenames)} CSV files to process for {args.country}")
 
-    # Get all filenames from data directory
-    filenames = get_data_filenames(args.datadir)
-    logger.info(f"Found {len(filenames)} CSV files to process")
-
-    # Process all datasets in parallel
-    process_datasets_parallel(filenames, args)
+        # Process all datasets in parallel
+        process_datasets_parallel(filenames, args)
+        
+        print(f"\nSuccessfully processed data for country: {args.country}")
+        
+    except FileNotFoundError as e:
+        print(f"Error: {str(e)}")
+        sys.exit(1)
