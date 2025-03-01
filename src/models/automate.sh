@@ -5,7 +5,7 @@
 BASE_DIR="data"
 
 # Log file
-LOG_FILE="icestupa_automation.log"
+LOG_FILE="auto_world.log"
 
 # Function to log messages
 log_message() {
