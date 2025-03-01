@@ -1,96 +1,98 @@
-{
-    "location_results": [
-        {
-            "altitude": 391.01,
-            "iceV_max": 0,
-            "latitude": 12.5,
-            "longitude": 108.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 655.23,
-            "iceV_max": 0,
-            "latitude": 14.5,
-            "longitude": 107.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 488.5,
-            "iceV_max": 0,
-            "latitude": 14.5,
-            "longitude": 108.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 613.22,
-            "iceV_max": 0,
-            "latitude": 15.5,
-            "longitude": 107.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 749.56,
-            "iceV_max": 0,
-            "latitude": 19.5,
-            "longitude": 104.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 506.78,
-            "iceV_max": 0,
-            "latitude": 21.5,
-            "longitude": 104.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 879.81,
-            "iceV_max": 0,
-            "latitude": 21.5,
-            "longitude": 103.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1096.27,
-            "iceV_max": 0,
-            "latitude": 22.5,
-            "longitude": 102.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 402.01,
-            "iceV_max": 0,
-            "latitude": 22.5,
-            "longitude": 106.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 570.43,
-            "iceV_max": 0,
-            "latitude": 22.5,
-            "longitude": 104.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 873.08,
-            "iceV_max": 0,
-            "latitude": 22.5,
-            "longitude": 103.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 507.36,
-            "iceV_max": 0,
-            "latitude": 22.5,
-            "longitude": 105.5,
-            "survival_days": 0
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 644.4383333333334,
-        "average_iceV": 0.0,
-        "average_survival_days": 0.0,
-        "max_iceV": 0,
-        "min_iceV": 0,
-        "total_locations": 12
+[
+    {
+        "altitude": 749.56,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 19.5,
+        "longitude": 104.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 506.78,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 21.5,
+        "longitude": 104.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 655.23,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 14.5,
+        "longitude": 107.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1096.27,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 22.5,
+        "longitude": 102.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 879.81,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 21.5,
+        "longitude": 103.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 402.01,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 22.5,
+        "longitude": 106.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 570.43,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 22.5,
+        "longitude": 104.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 613.22,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 15.5,
+        "longitude": 107.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 391.01,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 12.5,
+        "longitude": 108.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 488.5,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 14.5,
+        "longitude": 108.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 873.08,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 22.5,
+        "longitude": 103.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 507.36,
+        "country": "Vietnam",
+        "iceV_max": 0,
+        "latitude": 22.5,
+        "longitude": 105.5,
+        "survival_days": 0
     }
-}
+]

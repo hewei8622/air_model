@@ -1,0 +1,21 @@
+{
+    "country": "United_Kingdom",
+    "location_results": [
+        {
+            "altitude": 343.74,
+            "country": "United_Kingdom",
+            "iceV_max": 606.6,
+            "latitude": 56.5,
+            "longitude": -4.5,
+            "survival_days": 152.4
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 343.74,
+        "average_iceV": 606.6,
+        "average_survival_days": 152.4,
+        "max_iceV": 606.6,
+        "min_iceV": 606.6,
+        "total_locations": 1
+    }
+}

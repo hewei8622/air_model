@@ -1,0 +1,7 @@
+timestamp,country,filename,error
+2025-03-01 07:47:21,Afghanistan,35.50_64.50_2026.81.csv,No columns to parse from file
+2025-03-01 08:00:50,Brazil,-27.50_-52.50_521.61.csv,'Index' object has no attribute 'month'
+2025-03-01 08:25:47,China,29.50_108.50_913.85.csv,'Index' object has no attribute 'month'
+2025-03-01 08:58:53,Guyana,5.50_-60.50_836.70.csv,'utf-8' codec can't decode byte 0x8f in position 196609: invalid start byte
+2025-03-01 09:00:29,India,34.50_76.50_4352.96.csv,'Index' object has no attribute 'month'
+2025-03-01 09:31:39,Papua_New_Guinea,-7.50_146.50_1159.67.csv,unsupported operand type(s) for ** or pow(): 'str' and 'int'

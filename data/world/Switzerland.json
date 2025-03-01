@@ -1,0 +1,69 @@
+{
+    "country": "Switzerland",
+    "location_results": [
+        {
+            "altitude": 589.45,
+            "country": "Switzerland",
+            "iceV_max": 2824.2,
+            "latitude": 47.5,
+            "longitude": 7.5,
+            "survival_days": 182.2
+        },
+        {
+            "altitude": 987.09,
+            "country": "Switzerland",
+            "iceV_max": 10710.2,
+            "latitude": 46.5,
+            "longitude": 6.5,
+            "survival_days": 424.3
+        },
+        {
+            "altitude": 2088.15,
+            "country": "Switzerland",
+            "iceV_max": 35291.3,
+            "latitude": 46.5,
+            "longitude": 8.5,
+            "survival_days": 592.4
+        },
+        {
+            "altitude": 1650.94,
+            "country": "Switzerland",
+            "iceV_max": 22233.1,
+            "latitude": 46.5,
+            "longitude": 7.5,
+            "survival_days": 507.9
+        },
+        {
+            "altitude": 589.18,
+            "country": "Switzerland",
+            "iceV_max": 2760.8,
+            "latitude": 47.5,
+            "longitude": 8.5,
+            "survival_days": 191.6
+        },
+        {
+            "altitude": 790.19,
+            "country": "Switzerland",
+            "iceV_max": 10354.4,
+            "latitude": 47.5,
+            "longitude": 9.5,
+            "survival_days": 425.8
+        },
+        {
+            "altitude": 2095.73,
+            "country": "Switzerland",
+            "iceV_max": 41278.2,
+            "latitude": 46.5,
+            "longitude": 9.5,
+            "survival_days": 499.7
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1255.8185714285714,
+        "average_iceV": 17921.742857142857,
+        "average_survival_days": 403.4142857142857,
+        "max_iceV": 41278.2,
+        "min_iceV": 2760.8,
+        "total_locations": 7
+    }
+}

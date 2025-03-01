@@ -1,19 +1,10 @@
-{
-    "location_results": [
-        {
-            "altitude": 637.13,
-            "iceV_max": 0,
-            "latitude": 34.5,
-            "longitude": 36.5,
-            "survival_days": 0
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 637.13,
-        "average_iceV": 0.0,
-        "average_survival_days": 0.0,
-        "max_iceV": 0,
-        "min_iceV": 0,
-        "total_locations": 1
+[
+    {
+        "altitude": 637.13,
+        "country": "Syria",
+        "iceV_max": 0,
+        "latitude": 34.5,
+        "longitude": 36.5,
+        "survival_days": 0
     }
-}
+]

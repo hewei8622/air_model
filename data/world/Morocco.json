@@ -1,0 +1,141 @@
+{
+    "country": "Morocco",
+    "location_results": [
+        {
+            "altitude": 1308.68,
+            "country": "Morocco",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": -7.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1171.36,
+            "country": "Morocco",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": -6.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1672.86,
+            "country": "Morocco",
+            "iceV_max": 3150.7,
+            "latitude": 33.5,
+            "longitude": -4.5,
+            "survival_days": 731.0
+        },
+        {
+            "altitude": 669.15,
+            "country": "Morocco",
+            "iceV_max": 0,
+            "latitude": 34.5,
+            "longitude": -3.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1641.04,
+            "country": "Morocco",
+            "iceV_max": 2854.1,
+            "latitude": 32.5,
+            "longitude": -5.5,
+            "survival_days": 601.6
+        },
+        {
+            "altitude": 1401.48,
+            "country": "Morocco",
+            "iceV_max": 0,
+            "latitude": 32.5,
+            "longitude": -3.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1843.71,
+            "country": "Morocco",
+            "iceV_max": 1999.8,
+            "latitude": 32.5,
+            "longitude": -4.5,
+            "survival_days": 451.0
+        },
+        {
+            "altitude": 1641.57,
+            "country": "Morocco",
+            "iceV_max": 1410.3,
+            "latitude": 31.5,
+            "longitude": -5.5,
+            "survival_days": 234.8
+        },
+        {
+            "altitude": 1206.96,
+            "country": "Morocco",
+            "iceV_max": 0,
+            "latitude": 33.5,
+            "longitude": -5.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 737.43,
+            "country": "Morocco",
+            "iceV_max": 0,
+            "latitude": 29.5,
+            "longitude": -9.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 869.89,
+            "country": "Morocco",
+            "iceV_max": 0,
+            "latitude": 29.5,
+            "longitude": -8.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1300.99,
+            "country": "Morocco",
+            "iceV_max": 2814.9,
+            "latitude": 31.5,
+            "longitude": -7.5,
+            "survival_days": 616.8
+        },
+        {
+            "altitude": 1258.71,
+            "country": "Morocco",
+            "iceV_max": 930.7,
+            "latitude": 32.5,
+            "longitude": -1.5,
+            "survival_days": 158.2
+        },
+        {
+            "altitude": 2045.64,
+            "country": "Morocco",
+            "iceV_max": 7899.5,
+            "latitude": 31.5,
+            "longitude": -6.5,
+            "survival_days": 539.5
+        },
+        {
+            "altitude": 635.36,
+            "country": "Morocco",
+            "iceV_max": 0,
+            "latitude": 34.5,
+            "longitude": -4.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 763.96,
+            "country": "Morocco",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": -8.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1260.5493749999998,
+        "average_iceV": 1316.25,
+        "average_survival_days": 208.30624999999998,
+        "max_iceV": 7899.5,
+        "min_iceV": 0,
+        "total_locations": 16
+    }
+}

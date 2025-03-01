@@ -1,0 +1,61 @@
+{
+    "country": "Austria",
+    "location_results": [
+        {
+            "altitude": 1182.71,
+            "country": "Austria",
+            "iceV_max": 22328.0,
+            "latitude": 47.5,
+            "longitude": 12.5,
+            "survival_days": 556.4
+        },
+        {
+            "altitude": 1171.38,
+            "country": "Austria",
+            "iceV_max": 15184.0,
+            "latitude": 47.5,
+            "longitude": 11.5,
+            "survival_days": 492.4
+        },
+        {
+            "altitude": 920.72,
+            "country": "Austria",
+            "iceV_max": 8690.0,
+            "latitude": 46.5,
+            "longitude": 14.5,
+            "survival_days": 466.8
+        },
+        {
+            "altitude": 1209.4,
+            "country": "Austria",
+            "iceV_max": 19189.9,
+            "latitude": 47.5,
+            "longitude": 14.5,
+            "survival_days": 556.8
+        },
+        {
+            "altitude": 1298.53,
+            "country": "Austria",
+            "iceV_max": 18449.0,
+            "latitude": 47.5,
+            "longitude": 13.5,
+            "survival_days": 607.4
+        },
+        {
+            "altitude": 849.77,
+            "country": "Austria",
+            "iceV_max": 7978.3,
+            "latitude": 47.5,
+            "longitude": 15.5,
+            "survival_days": 453.6
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1105.4183333333333,
+        "average_iceV": 15303.199999999999,
+        "average_survival_days": 522.2333333333332,
+        "max_iceV": 22328.0,
+        "min_iceV": 7978.3,
+        "total_locations": 6
+    }
+}

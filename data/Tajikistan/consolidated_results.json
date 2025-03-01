@@ -1,117 +1,122 @@
-{
-    "location_results": [
-        {
-            "altitude": 4448.24,
-            "iceV_max": 122834.0,
-            "latitude": 37.5,
-            "longitude": 73.5,
-            "survival_days": 488.7
-        },
-        {
-            "altitude": 4270.5,
-            "iceV_max": 142736.3,
-            "latitude": 37.5,
-            "longitude": 72.5,
-            "survival_days": 543.7
-        },
-        {
-            "altitude": 4529.86,
-            "iceV_max": 48583.4,
-            "latitude": 37.5,
-            "longitude": 74.5,
-            "survival_days": 449.4
-        },
-        {
-            "altitude": 3741.92,
-            "iceV_max": 47299.7,
-            "latitude": 37.5,
-            "longitude": 71.5,
-            "survival_days": 510.5
-        },
-        {
-            "altitude": 4219.01,
-            "iceV_max": 160797.4,
-            "latitude": 38.5,
-            "longitude": 72.5,
-            "survival_days": 450.4
-        },
-        {
-            "altitude": 1592.23,
-            "iceV_max": 8283.6,
-            "latitude": 38.5,
-            "longitude": 69.5,
-            "survival_days": 492.7
-        },
-        {
-            "altitude": 4418.05,
-            "iceV_max": 93467.9,
-            "latitude": 38.5,
-            "longitude": 74.5,
-            "survival_days": 399.3
-        },
-        {
-            "altitude": 4409.0,
-            "iceV_max": 147796.2,
-            "latitude": 38.5,
-            "longitude": 73.5,
-            "survival_days": 411.4
-        },
-        {
-            "altitude": 3586.58,
-            "iceV_max": 58256.6,
-            "latitude": 38.5,
-            "longitude": 71.5,
-            "survival_days": 601.0
-        },
-        {
-            "altitude": 2529.16,
-            "iceV_max": 25934.4,
-            "latitude": 38.5,
-            "longitude": 70.5,
-            "survival_days": 529.5
-        },
-        {
-            "altitude": 1243.61,
-            "iceV_max": 6403.7,
-            "latitude": 38.5,
-            "longitude": 68.5,
-            "survival_days": 550.1
-        },
-        {
-            "altitude": 3160.24,
-            "iceV_max": 39691.4,
-            "latitude": 39.5,
-            "longitude": 69.5,
-            "survival_days": 532.2
-        },
-        {
-            "altitude": 2367.66,
-            "iceV_max": 23352.5,
-            "latitude": 39.5,
-            "longitude": 68.5,
-            "survival_days": 531.0
-        },
-        {
-            "altitude": 3499.19,
-            "iceV_max": 76558.3,
-            "latitude": 39.5,
-            "longitude": 70.5,
-            "survival_days": 497.6
-        },
-        {
-            "altitude": 665.7,
-            "iceV_max": 2829.3,
-            "latitude": 40.5,
-            "longitude": 69.5,
-            "survival_days": 214.3
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 3245.3966666666665,
-        "average_iceV": 66988.31333333334,
-        "average_survival_days": 480.12000000000006,
-        "max_iceV": 160797.4,
-        "min_iceV": 2829.3,
-        "total_locations": 15
+[
+    {
+        "altitude": 4219.01,
+        "country": "Tajikistan",
+        "iceV_max": 132005.8,
+        "latitude": 38.5,
+        "longitude": 72.5,
+        "survival_days": 656.1
+    },
+    {
+        "altitude": 1592.23,
+        "country": "Tajikistan",
+        "iceV_max": 8349.5,
+        "latitude": 38.5,
+        "longitude": 69.5,
+        "survival_days": 482.7
+    },
+    {
+        "altitude": 4418.05,
+        "country": "Tajikistan",
+        "iceV_max": 125267.6,
+        "latitude": 38.5,
+        "longitude": 74.5,
+        "survival_days": 528.3
+    },
+    {
+        "altitude": 3160.24,
+        "country": "Tajikistan",
+        "iceV_max": 45256.6,
+        "latitude": 39.5,
+        "longitude": 69.5,
+        "survival_days": 712.2
+    },
+    {
+        "altitude": 4409.0,
+        "country": "Tajikistan",
+        "iceV_max": 134364.0,
+        "latitude": 38.5,
+        "longitude": 73.5,
+        "survival_days": 561.4
+    },
+    {
+        "altitude": 4448.24,
+        "country": "Tajikistan",
+        "iceV_max": 66779.6,
+        "latitude": 37.5,
+        "longitude": 73.5,
+        "survival_days": 562.8
+    },
+    {
+        "altitude": 4270.5,
+        "country": "Tajikistan",
+        "iceV_max": 114278.8,
+        "latitude": 37.5,
+        "longitude": 72.5,
+        "survival_days": 587.7
+    },
+    {
+        "altitude": 3586.58,
+        "country": "Tajikistan",
+        "iceV_max": 86084.7,
+        "latitude": 38.5,
+        "longitude": 71.5,
+        "survival_days": 695.0
+    },
+    {
+        "altitude": 4529.86,
+        "country": "Tajikistan",
+        "iceV_max": 83223.6,
+        "latitude": 37.5,
+        "longitude": 74.5,
+        "survival_days": 467.5
+    },
+    {
+        "altitude": 3741.92,
+        "country": "Tajikistan",
+        "iceV_max": 64695.5,
+        "latitude": 37.5,
+        "longitude": 71.5,
+        "survival_days": 654.9
+    },
+    {
+        "altitude": 2367.66,
+        "country": "Tajikistan",
+        "iceV_max": 28949.0,
+        "latitude": 39.5,
+        "longitude": 68.5,
+        "survival_days": 591.8
+    },
+    {
+        "altitude": 2529.16,
+        "country": "Tajikistan",
+        "iceV_max": 28554.9,
+        "latitude": 38.5,
+        "longitude": 70.5,
+        "survival_days": 542.9
+    },
+    {
+        "altitude": 665.7,
+        "country": "Tajikistan",
+        "iceV_max": 1272.8,
+        "latitude": 40.5,
+        "longitude": 69.5,
+        "survival_days": 175.3
+    },
+    {
+        "altitude": 1243.61,
+        "country": "Tajikistan",
+        "iceV_max": 9415.4,
+        "latitude": 38.5,
+        "longitude": 68.5,
+        "survival_days": 495.8
+    },
+    {
+        "altitude": 3499.19,
+        "country": "Tajikistan",
+        "iceV_max": 108533.9,
+        "latitude": 39.5,
+        "longitude": 70.5,
+        "survival_days": 609.3
     }
-}
+]

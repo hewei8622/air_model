@@ -1,0 +1,45 @@
+{
+    "country": "Azerbaijan",
+    "location_results": [
+        {
+            "altitude": 865.16,
+            "country": "Azerbaijan",
+            "iceV_max": 5559.6,
+            "latitude": 40.5,
+            "longitude": 46.5,
+            "survival_days": 460.2
+        },
+        {
+            "altitude": 380.55,
+            "country": "Azerbaijan",
+            "iceV_max": 1251.0,
+            "latitude": 40.5,
+            "longitude": 48.5,
+            "survival_days": 192.2
+        },
+        {
+            "altitude": 1523.72,
+            "country": "Azerbaijan",
+            "iceV_max": 12001.9,
+            "latitude": 39.5,
+            "longitude": 46.5,
+            "survival_days": 482.7
+        },
+        {
+            "altitude": 1874.12,
+            "country": "Azerbaijan",
+            "iceV_max": 16599.8,
+            "latitude": 40.5,
+            "longitude": 45.5,
+            "survival_days": 475.2
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1160.8875,
+        "average_iceV": 8853.075,
+        "average_survival_days": 402.575,
+        "max_iceV": 16599.8,
+        "min_iceV": 1251.0,
+        "total_locations": 4
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "country": "Italy",
+    "location_results": [
+        {
+            "altitude": 1060.94,
+            "country": "Italy",
+            "iceV_max": 5282.9,
+            "latitude": 46.5,
+            "longitude": 13.5,
+            "survival_days": 216.2
+        },
+        {
+            "altitude": 1234.71,
+            "country": "Italy",
+            "iceV_max": 25423.5,
+            "latitude": 44.5,
+            "longitude": 7.5,
+            "survival_days": 559.0
+        },
+        {
+            "altitude": 396.38,
+            "country": "Italy",
+            "iceV_max": 0,
+            "latitude": 37.5,
+            "longitude": 14.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1465.59,
+            "country": "Italy",
+            "iceV_max": 20853.3,
+            "latitude": 46.5,
+            "longitude": 12.5,
+            "survival_days": 598.0
+        },
+        {
+            "altitude": 1341.35,
+            "country": "Italy",
+            "iceV_max": 46935.9,
+            "latitude": 45.5,
+            "longitude": 7.5,
+            "survival_days": 544.5
+        },
+        {
+            "altitude": 447.58,
+            "country": "Italy",
+            "iceV_max": 1643.8,
+            "latitude": 43.5,
+            "longitude": 12.5,
+            "survival_days": 210.5
+        },
+        {
+            "altitude": 1736.01,
+            "country": "Italy",
+            "iceV_max": 32815.9,
+            "latitude": 46.5,
+            "longitude": 11.5,
+            "survival_days": 576.8
+        },
+        {
+            "altitude": 1957.72,
+            "country": "Italy",
+            "iceV_max": 34781.7,
+            "latitude": 46.5,
+            "longitude": 10.5,
+            "survival_days": 567.5
+        },
+        {
+            "altitude": 461.15,
+            "country": "Italy",
+            "iceV_max": 673.2,
+            "latitude": 40.5,
+            "longitude": 15.5,
+            "survival_days": 249.6
+        },
+        {
+            "altitude": 476.76,
+            "country": "Italy",
+            "iceV_max": 2906.2,
+            "latitude": 44.5,
+            "longitude": 10.5,
+            "survival_days": 198.8
+        },
+        {
+            "altitude": 535.23,
+            "country": "Italy",
+            "iceV_max": 1684.6,
+            "latitude": 41.5,
+            "longitude": 14.5,
+            "survival_days": 563.5
+        },
+        {
+            "altitude": 635.6,
+            "country": "Italy",
+            "iceV_max": 8347.7,
+            "latitude": 42.5,
+            "longitude": 13.5,
+            "survival_days": 490.9
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 979.0849999999999,
+        "average_iceV": 15112.39166666667,
+        "average_survival_days": 397.9416666666666,
+        "max_iceV": 46935.9,
+        "min_iceV": 0,
+        "total_locations": 12
+    }
+}

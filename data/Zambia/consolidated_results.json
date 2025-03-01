@@ -1,26 +1,18 @@
-{
-    "location_results": [
-        {
-            "altitude": 808.77,
-            "iceV_max": 0,
-            "latitude": -14.5,
-            "longitude": 30.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1140.78,
-            "iceV_max": 0,
-            "latitude": -13.5,
-            "longitude": 30.5,
-            "survival_days": 0
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 974.775,
-        "average_iceV": 0.0,
-        "average_survival_days": 0.0,
-        "max_iceV": 0,
-        "min_iceV": 0,
-        "total_locations": 2
+[
+    {
+        "altitude": 1140.78,
+        "country": "Zambia",
+        "iceV_max": 0,
+        "latitude": -13.5,
+        "longitude": 30.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 808.77,
+        "country": "Zambia",
+        "iceV_max": 0,
+        "latitude": -14.5,
+        "longitude": 30.5,
+        "survival_days": 0
     }
-}
+]

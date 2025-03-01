@@ -1,0 +1,653 @@
+{
+    "country": "Mexico",
+    "location_results": [
+        {
+            "altitude": 1746.55,
+            "country": "Mexico",
+            "iceV_max": 867.0,
+            "latitude": 28.5,
+            "longitude": -108.5,
+            "survival_days": 710.0
+        },
+        {
+            "altitude": 1544.2,
+            "country": "Mexico",
+            "iceV_max": 449.5,
+            "latitude": 30.5,
+            "longitude": -108.5,
+            "survival_days": 171.0
+        },
+        {
+            "altitude": 1411.52,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": -98.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2197.19,
+            "country": "Mexico",
+            "iceV_max": 3771.7,
+            "latitude": 26.5,
+            "longitude": -106.5,
+            "survival_days": 563.5
+        },
+        {
+            "altitude": 899.22,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": -100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 515.19,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": -101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1736.37,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 21.5,
+            "longitude": -100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2028.09,
+            "country": "Mexico",
+            "iceV_max": 970.6,
+            "latitude": 27.5,
+            "longitude": -107.5,
+            "survival_days": 720.0
+        },
+        {
+            "altitude": 1220.5,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": -102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1759.01,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 21.5,
+            "longitude": -103.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 662.7,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 16.5,
+            "longitude": -95.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 385.43,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": -115.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1615.95,
+            "country": "Mexico",
+            "iceV_max": 2543.7,
+            "latitude": 29.5,
+            "longitude": -108.5,
+            "survival_days": 563.0
+        },
+        {
+            "altitude": 2204.45,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": -97.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1598.1,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 20.5,
+            "longitude": -103.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 290.22,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 29.5,
+            "longitude": -114.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1633.42,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": -101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1979.39,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": -101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1342.74,
+            "country": "Mexico",
+            "iceV_max": 403.1,
+            "latitude": 30.5,
+            "longitude": -109.5,
+            "survival_days": 162.7
+        },
+        {
+            "altitude": 744.13,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": -104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2041.53,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": -105.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2251.9,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": -100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 810.86,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 29.5,
+            "longitude": -102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 651.49,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 22.5,
+            "longitude": -99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1231.28,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 16.5,
+            "longitude": -92.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1283.75,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": -99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1639.38,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": -102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1106.18,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": -99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 879.22,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": -109.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1140.09,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 29.5,
+            "longitude": -104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1196.71,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 17.5,
+            "longitude": -100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1984.72,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 20.5,
+            "longitude": -99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1384.83,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 22.5,
+            "longitude": -104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 804.24,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": -101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1201.45,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": -108.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 181.15,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": -113.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1024.17,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": -110.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 937.05,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 29.5,
+            "longitude": -109.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1395.1,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": -103.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1613.22,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": -97.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1575.2,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": -105.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 729.43,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 16.5,
+            "longitude": -93.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 553.33,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 31.5,
+            "longitude": -115.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1928.88,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 22.5,
+            "longitude": -103.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2487.14,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": -98.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2519.99,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": -99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1860.36,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": -106.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1288.16,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 17.5,
+            "longitude": -96.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2130.76,
+            "country": "Mexico",
+            "iceV_max": 1281.6,
+            "latitude": 29.5,
+            "longitude": -107.5,
+            "survival_days": 589.7
+        },
+        {
+            "altitude": 1342.88,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": -102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1672.75,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": -104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1231.5,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 20.5,
+            "longitude": -98.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 580.14,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": -100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1165.4,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": -100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2003.63,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": -105.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1132.49,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 21.5,
+            "longitude": -104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1935.34,
+            "country": "Mexico",
+            "iceV_max": 2933.9,
+            "latitude": 25.5,
+            "longitude": -106.5,
+            "survival_days": 629.7
+        },
+        {
+            "altitude": 2140.98,
+            "country": "Mexico",
+            "iceV_max": 710.5,
+            "latitude": 28.5,
+            "longitude": -107.5,
+            "survival_days": 706.0
+        },
+        {
+            "altitude": 1138.22,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": -106.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1939.27,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 21.5,
+            "longitude": -102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1846.29,
+            "country": "Mexico",
+            "iceV_max": 347.3,
+            "latitude": 27.5,
+            "longitude": -106.5,
+            "survival_days": 141.8
+        },
+        {
+            "altitude": 990.9,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 15.5,
+            "longitude": -92.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1403.68,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 20.5,
+            "longitude": -104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1287.81,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": -102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1709.32,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 17.5,
+            "longitude": -99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1229.08,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": -103.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1903.6,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 17.5,
+            "longitude": -97.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1027.41,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": -101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 897.48,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": -96.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1614.6,
+            "country": "Mexico",
+            "iceV_max": 2678.4,
+            "latitude": 26.5,
+            "longitude": -107.5,
+            "survival_days": 569.6
+        },
+        {
+            "altitude": 1464.19,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 22.5,
+            "longitude": -100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2231.81,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": -105.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1051.04,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 16.5,
+            "longitude": -91.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 974.45,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 21.5,
+            "longitude": -99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1081.86,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": -102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1092.67,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 16.5,
+            "longitude": -97.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 480.21,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 32.5,
+            "longitude": -116.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2338.52,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": -104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1772.61,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 17.5,
+            "longitude": -98.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1501.73,
+            "country": "Mexico",
+            "iceV_max": 0,
+            "latitude": 16.5,
+            "longitude": -96.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1394.0974999999999,
+        "average_iceV": 211.96625,
+        "average_survival_days": 69.0875,
+        "max_iceV": 3771.7,
+        "min_iceV": 0,
+        "total_locations": 80
+    }
+}

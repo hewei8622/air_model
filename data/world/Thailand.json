@@ -1,0 +1,77 @@
+{
+    "country": "Thailand",
+    "location_results": [
+        {
+            "altitude": 594.26,
+            "country": "Thailand",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": 99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 474.67,
+            "country": "Thailand",
+            "iceV_max": 0,
+            "latitude": 17.5,
+            "longitude": 98.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 421.73,
+            "country": "Thailand",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": 99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 471.62,
+            "country": "Thailand",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": 100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 534.57,
+            "country": "Thailand",
+            "iceV_max": 0,
+            "latitude": 17.5,
+            "longitude": 101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 799.1,
+            "country": "Thailand",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": 98.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 613.33,
+            "country": "Thailand",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": 98.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 592.55,
+            "country": "Thailand",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": 100.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 562.72875,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 8
+    }
+}

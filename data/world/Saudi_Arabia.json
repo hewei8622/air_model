@@ -1,0 +1,125 @@
+{
+    "country": "Saudi_Arabia",
+    "location_results": [
+        {
+            "altitude": 637.25,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 38.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 729.05,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 908.76,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1394.71,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": 42.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 665.59,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 555.51,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 22.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 743.25,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 20.5,
+            "longitude": 40.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 692.0,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 925.6,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1509.43,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": 42.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 301.44,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 877.57,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 21.5,
+            "longitude": 40.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 715.86,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 38.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 812.65,
+            "country": "Saudi_Arabia",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": 41.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 819.1907142857143,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 14
+    }
+}

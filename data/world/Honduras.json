@@ -1,0 +1,61 @@
+{
+    "country": "Honduras",
+    "location_results": [
+        {
+            "altitude": 703.55,
+            "country": "Honduras",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": -86.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 993.81,
+            "country": "Honduras",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": -87.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 446.32,
+            "country": "Honduras",
+            "iceV_max": 0,
+            "latitude": 15.5,
+            "longitude": -85.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 687.36,
+            "country": "Honduras",
+            "iceV_max": 0,
+            "latitude": 15.5,
+            "longitude": -86.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 407.09,
+            "country": "Honduras",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": -85.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1211.01,
+            "country": "Honduras",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": -88.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 741.5233333333334,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 6
+    }
+}

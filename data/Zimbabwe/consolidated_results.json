@@ -1,40 +1,34 @@
-{
-    "location_results": [
-        {
-            "altitude": 902.76,
-            "iceV_max": 0,
-            "latitude": -19.5,
-            "longitude": 32.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1176.05,
-            "iceV_max": 0,
-            "latitude": -18.5,
-            "longitude": 32.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 959.43,
-            "iceV_max": 0,
-            "latitude": -17.5,
-            "longitude": 32.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1251.51,
-            "iceV_max": 0,
-            "latitude": -17.5,
-            "longitude": 31.5,
-            "survival_days": 0
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 1072.4375,
-        "average_iceV": 0.0,
-        "average_survival_days": 0.0,
-        "max_iceV": 0,
-        "min_iceV": 0,
-        "total_locations": 4
+[
+    {
+        "altitude": 902.76,
+        "country": "Zimbabwe",
+        "iceV_max": 0,
+        "latitude": -19.5,
+        "longitude": 32.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 959.43,
+        "country": "Zimbabwe",
+        "iceV_max": 0,
+        "latitude": -17.5,
+        "longitude": 32.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1176.05,
+        "country": "Zimbabwe",
+        "iceV_max": 0,
+        "latitude": -18.5,
+        "longitude": 32.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1251.51,
+        "country": "Zimbabwe",
+        "iceV_max": 0,
+        "latitude": -17.5,
+        "longitude": 31.5,
+        "survival_days": 0
     }
-}
+]

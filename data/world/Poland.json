@@ -1,0 +1,45 @@
+{
+    "country": "Poland",
+    "location_results": [
+        {
+            "altitude": 424.86,
+            "country": "Poland",
+            "iceV_max": 1996.0,
+            "latitude": 50.5,
+            "longitude": 16.5,
+            "survival_days": 177.2
+        },
+        {
+            "altitude": 426.31,
+            "country": "Poland",
+            "iceV_max": 3449.7,
+            "latitude": 49.5,
+            "longitude": 22.5,
+            "survival_days": 146.5
+        },
+        {
+            "altitude": 638.62,
+            "country": "Poland",
+            "iceV_max": 7291.4,
+            "latitude": 49.5,
+            "longitude": 20.5,
+            "survival_days": 432.9
+        },
+        {
+            "altitude": 718.46,
+            "country": "Poland",
+            "iceV_max": 9872.1,
+            "latitude": 49.5,
+            "longitude": 19.5,
+            "survival_days": 463.7
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 552.0625,
+        "average_iceV": 5652.299999999999,
+        "average_survival_days": 305.075,
+        "max_iceV": 9872.1,
+        "min_iceV": 1996.0,
+        "total_locations": 4
+    }
+}

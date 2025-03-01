@@ -1,0 +1,173 @@
+{
+    "country": "Algeria",
+    "location_results": [
+        {
+            "altitude": 1593.44,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 6.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 615.82,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 36.5,
+            "longitude": 6.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 883.94,
+            "country": "Algeria",
+            "iceV_max": 981.0,
+            "latitude": 35.5,
+            "longitude": 5.5,
+            "survival_days": 151.7
+        },
+        {
+            "altitude": 771.95,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 5.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 744.3,
+            "country": "Algeria",
+            "iceV_max": 212.7,
+            "latitude": 35.5,
+            "longitude": 1.5,
+            "survival_days": 127.7
+        },
+        {
+            "altitude": 1075.41,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 32.5,
+            "longitude": -0.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 535.68,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 36.5,
+            "longitude": 3.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 420.79,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 36.5,
+            "longitude": 2.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1046.48,
+            "country": "Algeria",
+            "iceV_max": 1014.6,
+            "latitude": 34.5,
+            "longitude": -1.5,
+            "survival_days": 194.6
+        },
+        {
+            "altitude": 622.11,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 3.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 438.27,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 35.5,
+            "longitude": 0.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 604.75,
+            "country": "Algeria",
+            "iceV_max": 1107.7,
+            "latitude": 36.5,
+            "longitude": 4.5,
+            "survival_days": 210.6
+        },
+        {
+            "altitude": 1110.69,
+            "country": "Algeria",
+            "iceV_max": 1259.4,
+            "latitude": 35.5,
+            "longitude": 6.5,
+            "survival_days": 206.8
+        },
+        {
+            "altitude": 982.16,
+            "country": "Algeria",
+            "iceV_max": 834.8,
+            "latitude": 35.5,
+            "longitude": 7.5,
+            "survival_days": 184.8
+        },
+        {
+            "altitude": 749.5,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 6.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 616.21,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 7.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1303.93,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 7.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 534.14,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 36.5,
+            "longitude": 7.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1255.9,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 8.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 846.58,
+            "country": "Algeria",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 4.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 837.6025000000002,
+        "average_iceV": 270.51,
+        "average_survival_days": 53.81,
+        "max_iceV": 1259.4,
+        "min_iceV": 0,
+        "total_locations": 20
+    }
+}

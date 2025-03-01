@@ -1,0 +1,29 @@
+{
+    "country": "Lesotho",
+    "location_results": [
+        {
+            "altitude": 1878.2,
+            "country": "Lesotho",
+            "iceV_max": 2221.3,
+            "latitude": -29.5,
+            "longitude": 27.5,
+            "survival_days": 211.4
+        },
+        {
+            "altitude": 2396.14,
+            "country": "Lesotho",
+            "iceV_max": 2904.0,
+            "latitude": -29.5,
+            "longitude": 28.5,
+            "survival_days": 591.0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 2137.17,
+        "average_iceV": 2562.65,
+        "average_survival_days": 401.2,
+        "max_iceV": 2904.0,
+        "min_iceV": 2221.3,
+        "total_locations": 2
+    }
+}

@@ -1,19 +1,10 @@
-{
-    "location_results": [
-        {
-            "altitude": 464.69,
-            "iceV_max": 4093.8,
-            "latitude": 48.5,
-            "longitude": 19.5,
-            "survival_days": 400.8
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 464.69,
-        "average_iceV": 4093.8,
-        "average_survival_days": 400.8,
-        "max_iceV": 4093.8,
-        "min_iceV": 4093.8,
-        "total_locations": 1
+[
+    {
+        "altitude": 464.69,
+        "country": "Slovakia",
+        "iceV_max": 7185.0,
+        "latitude": 48.5,
+        "longitude": 19.5,
+        "survival_days": 394.5
     }
-}
+]

@@ -1,0 +1,21 @@
+{
+    "country": "Republic_of_the_Congo",
+    "location_results": [
+        {
+            "altitude": 632.4,
+            "country": "Republic_of_the_Congo",
+            "iceV_max": 0,
+            "latitude": -2.5,
+            "longitude": 14.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 632.4,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 1
+    }
+}

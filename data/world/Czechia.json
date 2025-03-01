@@ -1,0 +1,29 @@
+{
+    "country": "Czechia",
+    "location_results": [
+        {
+            "altitude": 413.21,
+            "country": "Czechia",
+            "iceV_max": 2782.6,
+            "latitude": 50.5,
+            "longitude": 15.5,
+            "survival_days": 164.2
+        },
+        {
+            "altitude": 551.34,
+            "country": "Czechia",
+            "iceV_max": 5834.4,
+            "latitude": 49.5,
+            "longitude": 18.5,
+            "survival_days": 414.9
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 482.275,
+        "average_iceV": 4308.5,
+        "average_survival_days": 289.54999999999995,
+        "max_iceV": 5834.4,
+        "min_iceV": 2782.6,
+        "total_locations": 2
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "country": "Guinea",
+    "location_results": [
+        {
+            "altitude": 672.01,
+            "country": "Guinea",
+            "iceV_max": 0,
+            "latitude": 11.5,
+            "longitude": -11.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 543.73,
+            "country": "Guinea",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": -12.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 613.04,
+            "country": "Guinea",
+            "iceV_max": 0,
+            "latitude": 11.5,
+            "longitude": -12.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 621.54,
+            "country": "Guinea",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": -11.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 612.5799999999999,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 4
+    }
+}

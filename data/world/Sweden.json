@@ -1,0 +1,173 @@
+{
+    "country": "Sweden",
+    "location_results": [
+        {
+            "altitude": 798.95,
+            "country": "Sweden",
+            "iceV_max": 49437.1,
+            "latitude": 67.5,
+            "longitude": 18.5,
+            "survival_days": 586.5
+        },
+        {
+            "altitude": 548.75,
+            "country": "Sweden",
+            "iceV_max": 20197.7,
+            "latitude": 66.5,
+            "longitude": 18.5,
+            "survival_days": 501.8
+        },
+        {
+            "altitude": 624.58,
+            "country": "Sweden",
+            "iceV_max": 23129.5,
+            "latitude": 61.5,
+            "longitude": 12.5,
+            "survival_days": 584.4
+        },
+        {
+            "altitude": 894.06,
+            "country": "Sweden",
+            "iceV_max": 32220.9,
+            "latitude": 67.5,
+            "longitude": 17.5,
+            "survival_days": 614.6
+        },
+        {
+            "altitude": 636.47,
+            "country": "Sweden",
+            "iceV_max": 33441.8,
+            "latitude": 66.5,
+            "longitude": 17.5,
+            "survival_days": 606.5
+        },
+        {
+            "altitude": 595.16,
+            "country": "Sweden",
+            "iceV_max": 10744.6,
+            "latitude": 67.5,
+            "longitude": 19.5,
+            "survival_days": 171.8
+        },
+        {
+            "altitude": 469.13,
+            "country": "Sweden",
+            "iceV_max": 16681.1,
+            "latitude": 64.5,
+            "longitude": 15.5,
+            "survival_days": 616.8
+        },
+        {
+            "altitude": 535.29,
+            "country": "Sweden",
+            "iceV_max": 19980.2,
+            "latitude": 64.5,
+            "longitude": 14.5,
+            "survival_days": 593.4
+        },
+        {
+            "altitude": 846.46,
+            "country": "Sweden",
+            "iceV_max": 28793.6,
+            "latitude": 66.5,
+            "longitude": 15.5,
+            "survival_days": 451.7
+        },
+        {
+            "altitude": 678.6,
+            "country": "Sweden",
+            "iceV_max": 26436.9,
+            "latitude": 68.5,
+            "longitude": 18.5,
+            "survival_days": 530.0
+        },
+        {
+            "altitude": 565.29,
+            "country": "Sweden",
+            "iceV_max": 21414.4,
+            "latitude": 63.5,
+            "longitude": 12.5,
+            "survival_days": 433.8
+        },
+        {
+            "altitude": 648.96,
+            "country": "Sweden",
+            "iceV_max": 19299.4,
+            "latitude": 68.5,
+            "longitude": 20.5,
+            "survival_days": 499.2
+        },
+        {
+            "altitude": 729.56,
+            "country": "Sweden",
+            "iceV_max": 18319.5,
+            "latitude": 65.5,
+            "longitude": 14.5,
+            "survival_days": 516.9
+        },
+        {
+            "altitude": 786.65,
+            "country": "Sweden",
+            "iceV_max": 16583.5,
+            "latitude": 62.5,
+            "longitude": 12.5,
+            "survival_days": 418.2
+        },
+        {
+            "altitude": 659.29,
+            "country": "Sweden",
+            "iceV_max": 19992.3,
+            "latitude": 62.5,
+            "longitude": 13.5,
+            "survival_days": 587.0
+        },
+        {
+            "altitude": 678.47,
+            "country": "Sweden",
+            "iceV_max": 19302.6,
+            "latitude": 65.5,
+            "longitude": 15.5,
+            "survival_days": 623.7
+        },
+        {
+            "altitude": 802.27,
+            "country": "Sweden",
+            "iceV_max": 30807.3,
+            "latitude": 66.5,
+            "longitude": 16.5,
+            "survival_days": 615.8
+        },
+        {
+            "altitude": 480.73,
+            "country": "Sweden",
+            "iceV_max": 23074.1,
+            "latitude": 63.5,
+            "longitude": 13.5,
+            "survival_days": 572.4
+        },
+        {
+            "altitude": 548.41,
+            "country": "Sweden",
+            "iceV_max": 19485.4,
+            "latitude": 65.5,
+            "longitude": 16.5,
+            "survival_days": 591.4
+        },
+        {
+            "altitude": 732.53,
+            "country": "Sweden",
+            "iceV_max": 20344.5,
+            "latitude": 67.5,
+            "longitude": 16.5,
+            "survival_days": 517.2
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 662.9805,
+        "average_iceV": 23484.32,
+        "average_survival_days": 531.655,
+        "max_iceV": 49437.1,
+        "min_iceV": 10744.6,
+        "total_locations": 20
+    }
+}

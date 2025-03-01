@@ -1,0 +1,85 @@
+{
+    "country": "Ecuador",
+    "location_results": [
+        {
+            "altitude": 1900.4,
+            "country": "Ecuador",
+            "iceV_max": 0,
+            "latitude": -2.5,
+            "longitude": -78.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1588.99,
+            "country": "Ecuador",
+            "iceV_max": 0,
+            "latitude": 0.5,
+            "longitude": -77.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1379.46,
+            "country": "Ecuador",
+            "iceV_max": 0,
+            "latitude": -3.5,
+            "longitude": -79.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1618.14,
+            "country": "Ecuador",
+            "iceV_max": 0,
+            "latitude": -3.5,
+            "longitude": -78.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2329.11,
+            "country": "Ecuador",
+            "iceV_max": 0,
+            "latitude": -0.5,
+            "longitude": -78.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1591.05,
+            "country": "Ecuador",
+            "iceV_max": 0,
+            "latitude": -0.5,
+            "longitude": -77.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1556.75,
+            "country": "Ecuador",
+            "iceV_max": 0,
+            "latitude": 0.5,
+            "longitude": -78.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1449.88,
+            "country": "Ecuador",
+            "iceV_max": 0,
+            "latitude": -4.5,
+            "longitude": -79.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2063.58,
+            "country": "Ecuador",
+            "iceV_max": 0,
+            "latitude": -1.5,
+            "longitude": -78.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1719.7066666666665,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 9
+    }
+}

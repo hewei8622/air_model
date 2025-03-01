@@ -1,0 +1,205 @@
+{
+    "country": "Colombia",
+    "location_results": [
+        {
+            "altitude": 946.68,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": -73.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 597.35,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 7.5,
+            "longitude": -75.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1777.68,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 2.5,
+            "longitude": -75.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1824.52,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 3.5,
+            "longitude": -75.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1776.43,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 1.5,
+            "longitude": -76.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1822.54,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 4.5,
+            "longitude": -74.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1825.97,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 2.5,
+            "longitude": -76.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 967.3,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": -76.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1682.16,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 3.5,
+            "longitude": -76.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1514.82,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": -75.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 403.71,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 8.5,
+            "longitude": -73.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1858.69,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": -72.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1594.43,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": -74.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 603.76,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 4.5,
+            "longitude": -76.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1301.97,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 7.5,
+            "longitude": -72.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 927.69,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 3.5,
+            "longitude": -74.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 796.96,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": -73.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1023.26,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 4.5,
+            "longitude": -75.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 914.2,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": -76.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1522.26,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 4.5,
+            "longitude": -73.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1507.06,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 1.5,
+            "longitude": -77.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2492.36,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": -73.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1415.75,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": -75.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1595.89,
+            "country": "Colombia",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": -72.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1362.2266666666665,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 24
+    }
+}

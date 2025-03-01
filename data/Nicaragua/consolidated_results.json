@@ -1,26 +1,18 @@
-{
-    "location_results": [
-        {
-            "altitude": 714.11,
-            "iceV_max": 0,
-            "latitude": 13.5,
-            "longitude": -86.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 499.38,
-            "iceV_max": 0,
-            "latitude": 13.5,
-            "longitude": -85.5,
-            "survival_days": 0
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 606.745,
-        "average_iceV": 0.0,
-        "average_survival_days": 0.0,
-        "max_iceV": 0,
-        "min_iceV": 0,
-        "total_locations": 2
+[
+    {
+        "altitude": 714.11,
+        "country": "Nicaragua",
+        "iceV_max": 0,
+        "latitude": 13.5,
+        "longitude": -86.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 499.38,
+        "country": "Nicaragua",
+        "iceV_max": 0,
+        "latitude": 13.5,
+        "longitude": -85.5,
+        "survival_days": 0
     }
-}
+]

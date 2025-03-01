@@ -1,19 +1,10 @@
-{
-    "location_results": [
-        {
-            "altitude": 890.44,
-            "iceV_max": 0,
-            "latitude": 35.5,
-            "longitude": 8.5,
-            "survival_days": 0
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 890.44,
-        "average_iceV": 0.0,
-        "average_survival_days": 0.0,
-        "max_iceV": 0,
-        "min_iceV": 0,
-        "total_locations": 1
+[
+    {
+        "altitude": 890.44,
+        "country": "Tunisia",
+        "iceV_max": 747.9,
+        "latitude": 35.5,
+        "longitude": 8.5,
+        "survival_days": 192.6
     }
-}
+]

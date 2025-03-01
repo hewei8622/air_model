@@ -1,0 +1,165 @@
+{
+    "country": "Spain",
+    "location_results": [
+        {
+            "altitude": 1054.23,
+            "country": "Spain",
+            "iceV_max": 1992.7,
+            "latitude": 40.5,
+            "longitude": -5.5,
+            "survival_days": 250.5
+        },
+        {
+            "altitude": 621.57,
+            "country": "Spain",
+            "iceV_max": 1210.8,
+            "latitude": 42.5,
+            "longitude": -1.5,
+            "survival_days": 163.7
+        },
+        {
+            "altitude": 855.91,
+            "country": "Spain",
+            "iceV_max": 893.3,
+            "latitude": 42.5,
+            "longitude": -3.5,
+            "survival_days": 196.6
+        },
+        {
+            "altitude": 713.13,
+            "country": "Spain",
+            "iceV_max": 371.8,
+            "latitude": 41.5,
+            "longitude": -1.5,
+            "survival_days": 130.8
+        },
+        {
+            "altitude": 752.88,
+            "country": "Spain",
+            "iceV_max": 0,
+            "latitude": 39.5,
+            "longitude": -4.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1098.18,
+            "country": "Spain",
+            "iceV_max": 1254.5,
+            "latitude": 40.5,
+            "longitude": -2.5,
+            "survival_days": 195.6
+        },
+        {
+            "altitude": 723.2,
+            "country": "Spain",
+            "iceV_max": 960.6,
+            "latitude": 42.5,
+            "longitude": -7.5,
+            "survival_days": 204.7
+        },
+        {
+            "altitude": 1520.56,
+            "country": "Spain",
+            "iceV_max": 10859.8,
+            "latitude": 42.5,
+            "longitude": 0.5,
+            "survival_days": 482.3
+        },
+        {
+            "altitude": 739.21,
+            "country": "Spain",
+            "iceV_max": 0,
+            "latitude": 39.5,
+            "longitude": -1.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 241.11,
+            "country": "Spain",
+            "iceV_max": 0,
+            "latitude": 43.5,
+            "longitude": -6.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 839.72,
+            "country": "Spain",
+            "iceV_max": 590.4,
+            "latitude": 38.5,
+            "longitude": -2.5,
+            "survival_days": 228.0
+        },
+        {
+            "altitude": 665.36,
+            "country": "Spain",
+            "iceV_max": 1008.0,
+            "latitude": 42.5,
+            "longitude": -2.5,
+            "survival_days": 199.8
+        },
+        {
+            "altitude": 845.62,
+            "country": "Spain",
+            "iceV_max": 1331.0,
+            "latitude": 37.5,
+            "longitude": -3.5,
+            "survival_days": 226.7
+        },
+        {
+            "altitude": 1278.56,
+            "country": "Spain",
+            "iceV_max": 1460.5,
+            "latitude": 40.5,
+            "longitude": -1.5,
+            "survival_days": 202.6
+        },
+        {
+            "altitude": 1068.3,
+            "country": "Spain",
+            "iceV_max": 1968.0,
+            "latitude": 40.5,
+            "longitude": -4.5,
+            "survival_days": 220.7
+        },
+        {
+            "altitude": 927.83,
+            "country": "Spain",
+            "iceV_max": 1665.3,
+            "latitude": 42.5,
+            "longitude": -6.5,
+            "survival_days": 249.5
+        },
+        {
+            "altitude": 1039.03,
+            "country": "Spain",
+            "iceV_max": 5014.5,
+            "latitude": 42.5,
+            "longitude": -0.5,
+            "survival_days": 481.0
+        },
+        {
+            "altitude": 984.98,
+            "country": "Spain",
+            "iceV_max": 443.8,
+            "latitude": 40.5,
+            "longitude": -0.5,
+            "survival_days": 168.7
+        },
+        {
+            "altitude": 800.62,
+            "country": "Spain",
+            "iceV_max": 884.4,
+            "latitude": 37.5,
+            "longitude": -2.5,
+            "survival_days": 723.0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 882.6315789473684,
+        "average_iceV": 1679.442105263158,
+        "average_survival_days": 227.58947368421047,
+        "max_iceV": 10859.8,
+        "min_iceV": 0,
+        "total_locations": 19
+    }
+}

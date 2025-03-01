@@ -1,26 +1,18 @@
-{
-    "location_results": [
-        {
-            "altitude": 811.59,
-            "iceV_max": 0,
-            "latitude": 7.5,
-            "longitude": 11.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 424.76,
-            "iceV_max": 0,
-            "latitude": 8.5,
-            "longitude": 11.5,
-            "survival_days": 0
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 618.175,
-        "average_iceV": 0.0,
-        "average_survival_days": 0.0,
-        "max_iceV": 0,
-        "min_iceV": 0,
-        "total_locations": 2
+[
+    {
+        "altitude": 424.76,
+        "country": "Nigeria",
+        "iceV_max": 0,
+        "latitude": 8.5,
+        "longitude": 11.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 811.59,
+        "country": "Nigeria",
+        "iceV_max": 0,
+        "latitude": 7.5,
+        "longitude": 11.5,
+        "survival_days": 0
     }
-}
+]

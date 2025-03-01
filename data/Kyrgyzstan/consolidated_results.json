@@ -1,173 +1,186 @@
-{
-    "location_results": [
-        {
-            "altitude": 3937.79,
-            "iceV_max": 45666.0,
-            "latitude": 39.5,
-            "longitude": 73.5,
-            "survival_days": 480.0
-        },
-        {
-            "altitude": 3575.81,
-            "iceV_max": 57271.1,
-            "latitude": 39.5,
-            "longitude": 72.5,
-            "survival_days": 451.8
-        },
-        {
-            "altitude": 3367.96,
-            "iceV_max": 82343.7,
-            "latitude": 39.5,
-            "longitude": 71.5,
-            "survival_days": 478.0
-        },
-        {
-            "altitude": 996.05,
-            "iceV_max": 5151.0,
-            "latitude": 40.5,
-            "longitude": 72.5,
-            "survival_days": 435.6
-        },
-        {
-            "altitude": 3305.75,
-            "iceV_max": 32008.8,
-            "latitude": 40.5,
-            "longitude": 76.5,
-            "survival_days": 556.4
-        },
-        {
-            "altitude": 3233.17,
-            "iceV_max": 76012.1,
-            "latitude": 40.5,
-            "longitude": 74.5,
-            "survival_days": 540.5
-        },
-        {
-            "altitude": 2131.47,
-            "iceV_max": 24309.0,
-            "latitude": 40.5,
-            "longitude": 73.5,
-            "survival_days": 516.6
-        },
-        {
-            "altitude": 3014.07,
-            "iceV_max": 60075.0,
-            "latitude": 41.5,
-            "longitude": 76.5,
-            "survival_days": 561.7
-        },
-        {
-            "altitude": 2191.68,
-            "iceV_max": 63796.9,
-            "latitude": 41.5,
-            "longitude": 70.5,
-            "survival_days": 498.4
-        },
-        {
-            "altitude": 2212.78,
-            "iceV_max": 62505.6,
-            "latitude": 41.5,
-            "longitude": 73.5,
-            "survival_days": 482.1
-        },
-        {
-            "altitude": 2370.88,
-            "iceV_max": 31128.8,
-            "latitude": 41.5,
-            "longitude": 75.5,
-            "survival_days": 449.8
-        },
-        {
-            "altitude": 1751.18,
-            "iceV_max": 24207.0,
-            "latitude": 41.5,
-            "longitude": 72.5,
-            "survival_days": 510.1
-        },
-        {
-            "altitude": 2222.8,
-            "iceV_max": 34822.9,
-            "latitude": 41.5,
-            "longitude": 74.5,
-            "survival_days": 499.1
-        },
-        {
-            "altitude": 3701.42,
-            "iceV_max": 26963.6,
-            "latitude": 41.5,
-            "longitude": 77.5,
-            "survival_days": 345.5
-        },
-        {
-            "altitude": 1985.7,
-            "iceV_max": 34948.9,
-            "latitude": 41.5,
-            "longitude": 71.5,
-            "survival_days": 509.5
-        },
-        {
-            "altitude": 1768.91,
-            "iceV_max": 18491.3,
-            "latitude": 42.5,
-            "longitude": 71.5,
-            "survival_days": 517.7
-        },
-        {
-            "altitude": 2558.24,
-            "iceV_max": 35081.6,
-            "latitude": 42.5,
-            "longitude": 73.5,
-            "survival_days": 517.1
-        },
-        {
-            "altitude": 2277.3,
-            "iceV_max": 35759.8,
-            "latitude": 42.5,
-            "longitude": 78.5,
-            "survival_days": 508.8
-        },
-        {
-            "altitude": 2647.1,
-            "iceV_max": 38178.8,
-            "latitude": 42.5,
-            "longitude": 74.5,
-            "survival_days": 556.1
-        },
-        {
-            "altitude": 1956.51,
-            "iceV_max": 18473.7,
-            "latitude": 42.5,
-            "longitude": 76.5,
-            "survival_days": 521.3
-        },
-        {
-            "altitude": 2180.05,
-            "iceV_max": 25816.3,
-            "latitude": 42.5,
-            "longitude": 72.5,
-            "survival_days": 512.5
-        },
-        {
-            "altitude": 2468.6,
-            "iceV_max": 49946.7,
-            "latitude": 42.5,
-            "longitude": 75.5,
-            "survival_days": 420.9
-        },
-        {
-            "altitude": 3065.02,
-            "iceV_max": 54852.1,
-            "latitude": 42.5,
-            "longitude": 79.5,
-            "survival_days": 530.8
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 2561.749565217391,
-        "average_iceV": 40774.37826086957,
-        "average_survival_days": 495.66521739130434,
-        "max_iceV": 82343.7,
-        "min_iceV": 5151.0,
-        "total_locations": 23
+[
+    {
+        "altitude": 3014.07,
+        "country": "Kyrgyzstan",
+        "iceV_max": 71118.6,
+        "latitude": 41.5,
+        "longitude": 76.5,
+        "survival_days": 654.1
+    },
+    {
+        "altitude": 2191.68,
+        "country": "Kyrgyzstan",
+        "iceV_max": 85879.3,
+        "latitude": 41.5,
+        "longitude": 70.5,
+        "survival_days": 715.1
+    },
+    {
+        "altitude": 996.05,
+        "country": "Kyrgyzstan",
+        "iceV_max": 6560.6,
+        "latitude": 40.5,
+        "longitude": 72.5,
+        "survival_days": 439.7
+    },
+    {
+        "altitude": 3937.79,
+        "country": "Kyrgyzstan",
+        "iceV_max": 78145.8,
+        "latitude": 39.5,
+        "longitude": 73.5,
+        "survival_days": 595.8
+    },
+    {
+        "altitude": 2212.78,
+        "country": "Kyrgyzstan",
+        "iceV_max": 51876.9,
+        "latitude": 41.5,
+        "longitude": 73.5,
+        "survival_days": 581.8
+    },
+    {
+        "altitude": 2370.88,
+        "country": "Kyrgyzstan",
+        "iceV_max": 40506.9,
+        "latitude": 41.5,
+        "longitude": 75.5,
+        "survival_days": 478.9
+    },
+    {
+        "altitude": 3575.81,
+        "country": "Kyrgyzstan",
+        "iceV_max": 89498.2,
+        "latitude": 39.5,
+        "longitude": 72.5,
+        "survival_days": 537.1
+    },
+    {
+        "altitude": 1768.91,
+        "country": "Kyrgyzstan",
+        "iceV_max": 32176.7,
+        "latitude": 42.5,
+        "longitude": 71.5,
+        "survival_days": 515.7
+    },
+    {
+        "altitude": 2558.24,
+        "country": "Kyrgyzstan",
+        "iceV_max": 55032.3,
+        "latitude": 42.5,
+        "longitude": 73.5,
+        "survival_days": 695.2
+    },
+    {
+        "altitude": 2277.3,
+        "country": "Kyrgyzstan",
+        "iceV_max": 29950.4,
+        "latitude": 42.5,
+        "longitude": 78.5,
+        "survival_days": 598.6
+    },
+    {
+        "altitude": 1751.18,
+        "country": "Kyrgyzstan",
+        "iceV_max": 31821.6,
+        "latitude": 41.5,
+        "longitude": 72.5,
+        "survival_days": 582.2
+    },
+    {
+        "altitude": 2222.8,
+        "country": "Kyrgyzstan",
+        "iceV_max": 33475.5,
+        "latitude": 41.5,
+        "longitude": 74.5,
+        "survival_days": 579.5
+    },
+    {
+        "altitude": 3701.42,
+        "country": "Kyrgyzstan",
+        "iceV_max": 88529.8,
+        "latitude": 41.5,
+        "longitude": 77.5,
+        "survival_days": 580.4
+    },
+    {
+        "altitude": 2647.1,
+        "country": "Kyrgyzstan",
+        "iceV_max": 39204.3,
+        "latitude": 42.5,
+        "longitude": 74.5,
+        "survival_days": 686.0
+    },
+    {
+        "altitude": 3367.96,
+        "country": "Kyrgyzstan",
+        "iceV_max": 92886.9,
+        "latitude": 39.5,
+        "longitude": 71.5,
+        "survival_days": 621.1
+    },
+    {
+        "altitude": 1956.51,
+        "country": "Kyrgyzstan",
+        "iceV_max": 18124.9,
+        "latitude": 42.5,
+        "longitude": 76.5,
+        "survival_days": 563.5
+    },
+    {
+        "altitude": 2180.05,
+        "country": "Kyrgyzstan",
+        "iceV_max": 41388.4,
+        "latitude": 42.5,
+        "longitude": 72.5,
+        "survival_days": 542.4
+    },
+    {
+        "altitude": 3305.75,
+        "country": "Kyrgyzstan",
+        "iceV_max": 54058.2,
+        "latitude": 40.5,
+        "longitude": 76.5,
+        "survival_days": 595.2
+    },
+    {
+        "altitude": 2468.6,
+        "country": "Kyrgyzstan",
+        "iceV_max": 36519.6,
+        "latitude": 42.5,
+        "longitude": 75.5,
+        "survival_days": 567.7
+    },
+    {
+        "altitude": 3065.02,
+        "country": "Kyrgyzstan",
+        "iceV_max": 59991.4,
+        "latitude": 42.5,
+        "longitude": 79.5,
+        "survival_days": 605.0
+    },
+    {
+        "altitude": 1985.7,
+        "country": "Kyrgyzstan",
+        "iceV_max": 53742.9,
+        "latitude": 41.5,
+        "longitude": 71.5,
+        "survival_days": 543.1
+    },
+    {
+        "altitude": 3233.17,
+        "country": "Kyrgyzstan",
+        "iceV_max": 77859.0,
+        "latitude": 40.5,
+        "longitude": 74.5,
+        "survival_days": 609.4
+    },
+    {
+        "altitude": 2131.47,
+        "country": "Kyrgyzstan",
+        "iceV_max": 37886.2,
+        "latitude": 40.5,
+        "longitude": 73.5,
+        "survival_days": 546.6
     }
-}
+]

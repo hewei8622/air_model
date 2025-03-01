@@ -1,0 +1,45 @@
+{
+    "country": "Bulgaria",
+    "location_results": [
+        {
+            "altitude": 659.14,
+            "country": "Bulgaria",
+            "iceV_max": 3294.5,
+            "latitude": 42.5,
+            "longitude": 24.5,
+            "survival_days": 207.4
+        },
+        {
+            "altitude": 781.73,
+            "country": "Bulgaria",
+            "iceV_max": 3776.4,
+            "latitude": 42.5,
+            "longitude": 23.5,
+            "survival_days": 464.2
+        },
+        {
+            "altitude": 830.24,
+            "country": "Bulgaria",
+            "iceV_max": 6700.0,
+            "latitude": 41.5,
+            "longitude": 23.5,
+            "survival_days": 508.2
+        },
+        {
+            "altitude": 384.16,
+            "country": "Bulgaria",
+            "iceV_max": 3609.5,
+            "latitude": 42.5,
+            "longitude": 25.5,
+            "survival_days": 415.3
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 663.8174999999999,
+        "average_iceV": 4345.1,
+        "average_survival_days": 398.775,
+        "max_iceV": 6700.0,
+        "min_iceV": 3294.5,
+        "total_locations": 4
+    }
+}

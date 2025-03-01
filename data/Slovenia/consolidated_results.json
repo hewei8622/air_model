@@ -1,19 +1,10 @@
-{
-    "location_results": [
-        {
-            "altitude": 550.11,
-            "iceV_max": 2577.7,
-            "latitude": 46.5,
-            "longitude": 15.5,
-            "survival_days": 416.2
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 550.11,
-        "average_iceV": 2577.7,
-        "average_survival_days": 416.2,
-        "max_iceV": 2577.7,
-        "min_iceV": 2577.7,
-        "total_locations": 1
+[
+    {
+        "altitude": 550.11,
+        "country": "Slovenia",
+        "iceV_max": 3417.5,
+        "latitude": 46.5,
+        "longitude": 15.5,
+        "survival_days": 180.6
     }
-}
+]

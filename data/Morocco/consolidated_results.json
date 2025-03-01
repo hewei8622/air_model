@@ -1,124 +1,130 @@
-{
-    "location_results": [
-        {
-            "altitude": 737.43,
-            "iceV_max": 0,
-            "latitude": 29.5,
-            "longitude": -9.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 869.89,
-            "iceV_max": 0,
-            "latitude": 29.5,
-            "longitude": -8.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1308.68,
-            "iceV_max": 0,
-            "latitude": 30.5,
-            "longitude": -7.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1171.36,
-            "iceV_max": 0,
-            "latitude": 30.5,
-            "longitude": -6.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 763.96,
-            "iceV_max": 0,
-            "latitude": 30.5,
-            "longitude": -8.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1641.57,
-            "iceV_max": 0,
-            "latitude": 31.5,
-            "longitude": -5.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1300.99,
-            "iceV_max": 2706.2,
-            "latitude": 31.5,
-            "longitude": -7.5,
-            "survival_days": 604.0
-        },
-        {
-            "altitude": 2045.64,
-            "iceV_max": 5219.6,
-            "latitude": 31.5,
-            "longitude": -6.5,
-            "survival_days": 586.5
-        },
-        {
-            "altitude": 1641.04,
-            "iceV_max": 1537.1,
-            "latitude": 32.5,
-            "longitude": -5.5,
-            "survival_days": 233.0
-        },
-        {
-            "altitude": 1401.48,
-            "iceV_max": 0,
-            "latitude": 32.5,
-            "longitude": -3.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1843.71,
-            "iceV_max": 1269.1,
-            "latitude": 32.5,
-            "longitude": -4.5,
-            "survival_days": 224.0
-        },
-        {
-            "altitude": 1258.71,
-            "iceV_max": 895.7,
-            "latitude": 32.5,
-            "longitude": -1.5,
-            "survival_days": 171.3
-        },
-        {
-            "altitude": 1672.86,
-            "iceV_max": 2185.5,
-            "latitude": 33.5,
-            "longitude": -4.5,
-            "survival_days": 606.0
-        },
-        {
-            "altitude": 1206.96,
-            "iceV_max": 1198.1,
-            "latitude": 33.5,
-            "longitude": -5.5,
-            "survival_days": 259.7
-        },
-        {
-            "altitude": 669.15,
-            "iceV_max": 0,
-            "latitude": 34.5,
-            "longitude": -3.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 635.36,
-            "iceV_max": 0,
-            "latitude": 34.5,
-            "longitude": -4.5,
-            "survival_days": 0
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 1260.5493749999998,
-        "average_iceV": 938.2062500000001,
-        "average_survival_days": 167.78125,
-        "max_iceV": 5219.6,
-        "min_iceV": 0,
-        "total_locations": 16
+[
+    {
+        "altitude": 1308.68,
+        "country": "Morocco",
+        "iceV_max": 0,
+        "latitude": 30.5,
+        "longitude": -7.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1171.36,
+        "country": "Morocco",
+        "iceV_max": 0,
+        "latitude": 30.5,
+        "longitude": -6.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1672.86,
+        "country": "Morocco",
+        "iceV_max": 3150.7,
+        "latitude": 33.5,
+        "longitude": -4.5,
+        "survival_days": 731.0
+    },
+    {
+        "altitude": 669.15,
+        "country": "Morocco",
+        "iceV_max": 0,
+        "latitude": 34.5,
+        "longitude": -3.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1641.04,
+        "country": "Morocco",
+        "iceV_max": 2854.1,
+        "latitude": 32.5,
+        "longitude": -5.5,
+        "survival_days": 601.6
+    },
+    {
+        "altitude": 1401.48,
+        "country": "Morocco",
+        "iceV_max": 0,
+        "latitude": 32.5,
+        "longitude": -3.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1843.71,
+        "country": "Morocco",
+        "iceV_max": 1999.8,
+        "latitude": 32.5,
+        "longitude": -4.5,
+        "survival_days": 451.0
+    },
+    {
+        "altitude": 1641.57,
+        "country": "Morocco",
+        "iceV_max": 1410.3,
+        "latitude": 31.5,
+        "longitude": -5.5,
+        "survival_days": 234.8
+    },
+    {
+        "altitude": 1206.96,
+        "country": "Morocco",
+        "iceV_max": 0,
+        "latitude": 33.5,
+        "longitude": -5.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 737.43,
+        "country": "Morocco",
+        "iceV_max": 0,
+        "latitude": 29.5,
+        "longitude": -9.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 869.89,
+        "country": "Morocco",
+        "iceV_max": 0,
+        "latitude": 29.5,
+        "longitude": -8.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1300.99,
+        "country": "Morocco",
+        "iceV_max": 2814.9,
+        "latitude": 31.5,
+        "longitude": -7.5,
+        "survival_days": 616.8
+    },
+    {
+        "altitude": 1258.71,
+        "country": "Morocco",
+        "iceV_max": 930.7,
+        "latitude": 32.5,
+        "longitude": -1.5,
+        "survival_days": 158.2
+    },
+    {
+        "altitude": 2045.64,
+        "country": "Morocco",
+        "iceV_max": 7899.5,
+        "latitude": 31.5,
+        "longitude": -6.5,
+        "survival_days": 539.5
+    },
+    {
+        "altitude": 635.36,
+        "country": "Morocco",
+        "iceV_max": 0,
+        "latitude": 34.5,
+        "longitude": -4.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 763.96,
+        "country": "Morocco",
+        "iceV_max": 0,
+        "latitude": 30.5,
+        "longitude": -8.5,
+        "survival_days": 0
     }
-}
+]

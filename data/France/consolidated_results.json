@@ -1,89 +1,90 @@
-{
-    "location_results": [
-        {
-            "altitude": 941.7,
-            "iceV_max": 1762.1,
-            "latitude": 42.5,
-            "longitude": 2.5,
-            "survival_days": 236.5
-        },
-        {
-            "altitude": 1722.29,
-            "iceV_max": 8137.9,
-            "latitude": 42.5,
-            "longitude": 1.5,
-            "survival_days": 590.4
-        },
-        {
-            "altitude": 263.97,
-            "iceV_max": 0,
-            "latitude": 43.5,
-            "longitude": 6.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 826.28,
-            "iceV_max": 1871.5,
-            "latitude": 44.5,
-            "longitude": 3.5,
-            "survival_days": 202.6
-        },
-        {
-            "altitude": 598.11,
-            "iceV_max": 1404.9,
-            "latitude": 44.5,
-            "longitude": 2.5,
-            "survival_days": 192.0
-        },
-        {
-            "altitude": 734.63,
-            "iceV_max": 1692.6,
-            "latitude": 44.5,
-            "longitude": 5.5,
-            "survival_days": 196.4
-        },
-        {
-            "altitude": 1504.43,
-            "iceV_max": 16330.6,
-            "latitude": 44.5,
-            "longitude": 6.5,
-            "survival_days": 544.8
-        },
-        {
-            "altitude": 729.14,
-            "iceV_max": 304.5,
-            "latitude": 45.5,
-            "longitude": 2.5,
-            "survival_days": 107.6
-        },
-        {
-            "altitude": 810.45,
-            "iceV_max": 1789.9,
-            "latitude": 45.5,
-            "longitude": 3.5,
-            "survival_days": 210.3
-        },
-        {
-            "altitude": 1501.85,
-            "iceV_max": 30572.1,
-            "latitude": 45.5,
-            "longitude": 6.5,
-            "survival_days": 530.4
-        },
-        {
-            "altitude": 581.2,
-            "iceV_max": 1816.7,
-            "latitude": 45.5,
-            "longitude": 5.5,
-            "survival_days": 215.7
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 928.5500000000001,
-        "average_iceV": 5971.163636363636,
-        "average_survival_days": 275.1545454545455,
-        "max_iceV": 30572.1,
-        "min_iceV": 0,
-        "total_locations": 11
+[
+    {
+        "altitude": 729.14,
+        "country": "France",
+        "iceV_max": 2106.8,
+        "latitude": 45.5,
+        "longitude": 2.5,
+        "survival_days": 174.4
+    },
+    {
+        "altitude": 810.45,
+        "country": "France",
+        "iceV_max": 2303.2,
+        "latitude": 45.5,
+        "longitude": 3.5,
+        "survival_days": 176.5
+    },
+    {
+        "altitude": 826.28,
+        "country": "France",
+        "iceV_max": 3683.4,
+        "latitude": 44.5,
+        "longitude": 3.5,
+        "survival_days": 427.0
+    },
+    {
+        "altitude": 598.11,
+        "country": "France",
+        "iceV_max": 2490.3,
+        "latitude": 44.5,
+        "longitude": 2.5,
+        "survival_days": 172.4
+    },
+    {
+        "altitude": 734.63,
+        "country": "France",
+        "iceV_max": 5315.4,
+        "latitude": 44.5,
+        "longitude": 5.5,
+        "survival_days": 436.9
+    },
+    {
+        "altitude": 263.97,
+        "country": "France",
+        "iceV_max": 0,
+        "latitude": 43.5,
+        "longitude": 6.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1501.85,
+        "country": "France",
+        "iceV_max": 57378.2,
+        "latitude": 45.5,
+        "longitude": 6.5,
+        "survival_days": 520.3
+    },
+    {
+        "altitude": 581.2,
+        "country": "France",
+        "iceV_max": 2903.2,
+        "latitude": 45.5,
+        "longitude": 5.5,
+        "survival_days": 205.4
+    },
+    {
+        "altitude": 941.7,
+        "country": "France",
+        "iceV_max": 2350.2,
+        "latitude": 42.5,
+        "longitude": 2.5,
+        "survival_days": 215.4
+    },
+    {
+        "altitude": 1722.29,
+        "country": "France",
+        "iceV_max": 6274.2,
+        "latitude": 42.5,
+        "longitude": 1.5,
+        "survival_days": 252.6
+    },
+    {
+        "altitude": 1504.43,
+        "country": "France",
+        "iceV_max": 22203.0,
+        "latitude": 44.5,
+        "longitude": 6.5,
+        "survival_days": 585.5
     }
-}
+]

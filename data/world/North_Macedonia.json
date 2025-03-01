@@ -1,0 +1,37 @@
+{
+    "country": "North_Macedonia",
+    "location_results": [
+        {
+            "altitude": 785.23,
+            "country": "North_Macedonia",
+            "iceV_max": 2835.1,
+            "latitude": 41.5,
+            "longitude": 21.5,
+            "survival_days": 602.3
+        },
+        {
+            "altitude": 908.85,
+            "country": "North_Macedonia",
+            "iceV_max": 3780.1,
+            "latitude": 41.5,
+            "longitude": 20.5,
+            "survival_days": 685.6
+        },
+        {
+            "altitude": 589.72,
+            "country": "North_Macedonia",
+            "iceV_max": 3599.4,
+            "latitude": 41.5,
+            "longitude": 22.5,
+            "survival_days": 432.7
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 761.2666666666668,
+        "average_iceV": 3404.866666666667,
+        "average_survival_days": 573.5333333333334,
+        "max_iceV": 3780.1,
+        "min_iceV": 2835.1,
+        "total_locations": 3
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "country": "Republic_of_Serbia",
+    "location_results": [
+        {
+            "altitude": 474.07,
+            "country": "Republic_of_Serbia",
+            "iceV_max": 4089.5,
+            "latitude": 43.5,
+            "longitude": 22.5,
+            "survival_days": 409.8
+        },
+        {
+            "altitude": 1016.12,
+            "country": "Republic_of_Serbia",
+            "iceV_max": 2685.9,
+            "latitude": 43.5,
+            "longitude": 19.5,
+            "survival_days": 261.3
+        },
+        {
+            "altitude": 554.41,
+            "country": "Republic_of_Serbia",
+            "iceV_max": 2313.5,
+            "latitude": 43.5,
+            "longitude": 21.5,
+            "survival_days": 195.6
+        },
+        {
+            "altitude": 812.07,
+            "country": "Republic_of_Serbia",
+            "iceV_max": 2591.7,
+            "latitude": 42.5,
+            "longitude": 22.5,
+            "survival_days": 213.6
+        },
+        {
+            "altitude": 830.5,
+            "country": "Republic_of_Serbia",
+            "iceV_max": 2330.3,
+            "latitude": 43.5,
+            "longitude": 20.5,
+            "survival_days": 226.6
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 737.434,
+        "average_iceV": 2802.1799999999994,
+        "average_survival_days": 261.38,
+        "max_iceV": 4089.5,
+        "min_iceV": 2313.5,
+        "total_locations": 5
+    }
+}

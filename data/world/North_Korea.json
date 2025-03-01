@@ -1,0 +1,69 @@
+{
+    "country": "North_Korea",
+    "location_results": [
+        {
+            "altitude": 1244.95,
+            "country": "North_Korea",
+            "iceV_max": 28940.5,
+            "latitude": 41.5,
+            "longitude": 128.5,
+            "survival_days": 551.7
+        },
+        {
+            "altitude": 678.75,
+            "country": "North_Korea",
+            "iceV_max": 13544.3,
+            "latitude": 40.5,
+            "longitude": 128.5,
+            "survival_days": 370.6
+        },
+        {
+            "altitude": 1008.06,
+            "country": "North_Korea",
+            "iceV_max": 24554.5,
+            "latitude": 40.5,
+            "longitude": 126.5,
+            "survival_days": 591.5
+        },
+        {
+            "altitude": 1199.61,
+            "country": "North_Korea",
+            "iceV_max": 24187.5,
+            "latitude": 40.5,
+            "longitude": 127.5,
+            "survival_days": 417.6
+        },
+        {
+            "altitude": 680.1,
+            "country": "North_Korea",
+            "iceV_max": 11845.3,
+            "latitude": 41.5,
+            "longitude": 129.5,
+            "survival_days": 386.4
+        },
+        {
+            "altitude": 316.22,
+            "country": "North_Korea",
+            "iceV_max": 7872.8,
+            "latitude": 39.5,
+            "longitude": 126.5,
+            "survival_days": 371.2
+        },
+        {
+            "altitude": 473.09,
+            "country": "North_Korea",
+            "iceV_max": 6889.8,
+            "latitude": 38.5,
+            "longitude": 127.5,
+            "survival_days": 395.2
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 800.1114285714286,
+        "average_iceV": 16833.528571428575,
+        "average_survival_days": 440.59999999999997,
+        "max_iceV": 28940.5,
+        "min_iceV": 6889.8,
+        "total_locations": 7
+    }
+}

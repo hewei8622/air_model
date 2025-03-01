@@ -1,0 +1,581 @@
+{
+    "country": "Iran",
+    "location_results": [
+        {
+            "altitude": 1835.15,
+            "country": "Iran",
+            "iceV_max": 8222.8,
+            "latitude": 36.5,
+            "longitude": 50.5,
+            "survival_days": 529.0
+        },
+        {
+            "altitude": 1690.36,
+            "country": "Iran",
+            "iceV_max": 6036.5,
+            "latitude": 36.5,
+            "longitude": 45.5,
+            "survival_days": 467.2
+        },
+        {
+            "altitude": 2418.13,
+            "country": "Iran",
+            "iceV_max": 1804.3,
+            "latitude": 29.5,
+            "longitude": 56.5,
+            "survival_days": 234.6
+        },
+        {
+            "altitude": 1628.68,
+            "country": "Iran",
+            "iceV_max": 2745.5,
+            "latitude": 37.5,
+            "longitude": 47.5,
+            "survival_days": 194.1
+        },
+        {
+            "altitude": 1028.88,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 60.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1835.81,
+            "country": "Iran",
+            "iceV_max": 7867.8,
+            "latitude": 38.5,
+            "longitude": 46.5,
+            "survival_days": 500.2
+        },
+        {
+            "altitude": 1820.08,
+            "country": "Iran",
+            "iceV_max": 9613.0,
+            "latitude": 38.5,
+            "longitude": 47.5,
+            "survival_days": 497.1
+        },
+        {
+            "altitude": 776.83,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 53.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 934.63,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 61.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1588.62,
+            "country": "Iran",
+            "iceV_max": 5255.7,
+            "latitude": 35.5,
+            "longitude": 46.5,
+            "survival_days": 464.0
+        },
+        {
+            "altitude": 1511.23,
+            "country": "Iran",
+            "iceV_max": 8591.0,
+            "latitude": 39.5,
+            "longitude": 44.5,
+            "survival_days": 501.1
+        },
+        {
+            "altitude": 1170.64,
+            "country": "Iran",
+            "iceV_max": 1223.8,
+            "latitude": 30.5,
+            "longitude": 57.5,
+            "survival_days": 213.6
+        },
+        {
+            "altitude": 1850.82,
+            "country": "Iran",
+            "iceV_max": 11502.6,
+            "latitude": 38.5,
+            "longitude": 44.5,
+            "survival_days": 598.7
+        },
+        {
+            "altitude": 2144.22,
+            "country": "Iran",
+            "iceV_max": 3351.8,
+            "latitude": 29.5,
+            "longitude": 57.5,
+            "survival_days": 574.1
+        },
+        {
+            "altitude": 1304.84,
+            "country": "Iran",
+            "iceV_max": 2955.9,
+            "latitude": 33.5,
+            "longitude": 47.5,
+            "survival_days": 262.6
+        },
+        {
+            "altitude": 1656.23,
+            "country": "Iran",
+            "iceV_max": 872.6,
+            "latitude": 28.5,
+            "longitude": 57.5,
+            "survival_days": 222.0
+        },
+        {
+            "altitude": 1770.65,
+            "country": "Iran",
+            "iceV_max": 2819.9,
+            "latitude": 36.5,
+            "longitude": 49.5,
+            "survival_days": 221.0
+        },
+        {
+            "altitude": 454.48,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 56.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 862.71,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 62.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1008.06,
+            "country": "Iran",
+            "iceV_max": 753.5,
+            "latitude": 33.5,
+            "longitude": 54.5,
+            "survival_days": 146.4
+        },
+        {
+            "altitude": 1482.48,
+            "country": "Iran",
+            "iceV_max": 592.2,
+            "latitude": 28.5,
+            "longitude": 55.5,
+            "survival_days": 173.5
+        },
+        {
+            "altitude": 1353.83,
+            "country": "Iran",
+            "iceV_max": 2514.9,
+            "latitude": 34.5,
+            "longitude": 46.5,
+            "survival_days": 419.9
+        },
+        {
+            "altitude": 918.4,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": 59.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1088.93,
+            "country": "Iran",
+            "iceV_max": 2192.6,
+            "latitude": 37.5,
+            "longitude": 48.5,
+            "survival_days": 245.5
+        },
+        {
+            "altitude": 849.06,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 58.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1706.24,
+            "country": "Iran",
+            "iceV_max": 1876.6,
+            "latitude": 35.5,
+            "longitude": 52.5,
+            "survival_days": 192.3
+        },
+        {
+            "altitude": 1389.02,
+            "country": "Iran",
+            "iceV_max": 3806.3,
+            "latitude": 36.5,
+            "longitude": 51.5,
+            "survival_days": 550.4
+        },
+        {
+            "altitude": 1738.33,
+            "country": "Iran",
+            "iceV_max": 2445.1,
+            "latitude": 31.5,
+            "longitude": 55.5,
+            "survival_days": 482.9
+        },
+        {
+            "altitude": 829.85,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": 52.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1579.35,
+            "country": "Iran",
+            "iceV_max": 4549.4,
+            "latitude": 34.5,
+            "longitude": 47.5,
+            "survival_days": 502.3
+        },
+        {
+            "altitude": 866.75,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 54.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2305.99,
+            "country": "Iran",
+            "iceV_max": 3772.6,
+            "latitude": 31.5,
+            "longitude": 51.5,
+            "survival_days": 572.4
+        },
+        {
+            "altitude": 1581.19,
+            "country": "Iran",
+            "iceV_max": 1111.8,
+            "latitude": 34.5,
+            "longitude": 50.5,
+            "survival_days": 176.9
+        },
+        {
+            "altitude": 1488.3,
+            "country": "Iran",
+            "iceV_max": 1634.9,
+            "latitude": 33.5,
+            "longitude": 59.5,
+            "survival_days": 189.5
+        },
+        {
+            "altitude": 1487.88,
+            "country": "Iran",
+            "iceV_max": 1434.5,
+            "latitude": 31.5,
+            "longitude": 56.5,
+            "survival_days": 722.0
+        },
+        {
+            "altitude": 1173.32,
+            "country": "Iran",
+            "iceV_max": 2839.7,
+            "latitude": 37.5,
+            "longitude": 58.5,
+            "survival_days": 254.5
+        },
+        {
+            "altitude": 2011.01,
+            "country": "Iran",
+            "iceV_max": 6024.4,
+            "latitude": 33.5,
+            "longitude": 49.5,
+            "survival_days": 485.8
+        },
+        {
+            "altitude": 1355.15,
+            "country": "Iran",
+            "iceV_max": 2408.2,
+            "latitude": 35.5,
+            "longitude": 60.5,
+            "survival_days": 176.2
+        },
+        {
+            "altitude": 1061.52,
+            "country": "Iran",
+            "iceV_max": 531.6,
+            "latitude": 33.5,
+            "longitude": 57.5,
+            "survival_days": 130.4
+        },
+        {
+            "altitude": 532.64,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 32.5,
+            "longitude": 48.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 838.73,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 29.5,
+            "longitude": 51.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1616.89,
+            "country": "Iran",
+            "iceV_max": 1487.9,
+            "latitude": 29.5,
+            "longitude": 52.5,
+            "survival_days": 727.0
+        },
+        {
+            "altitude": 1206.32,
+            "country": "Iran",
+            "iceV_max": 3937.3,
+            "latitude": 37.5,
+            "longitude": 56.5,
+            "survival_days": 491.9
+        },
+        {
+            "altitude": 1945.95,
+            "country": "Iran",
+            "iceV_max": 5720.9,
+            "latitude": 35.5,
+            "longitude": 49.5,
+            "survival_days": 470.8
+        },
+        {
+            "altitude": 1642.29,
+            "country": "Iran",
+            "iceV_max": 4508.9,
+            "latitude": 33.5,
+            "longitude": 48.5,
+            "survival_days": 550.5
+        },
+        {
+            "altitude": 1682.17,
+            "country": "Iran",
+            "iceV_max": 2410.8,
+            "latitude": 32.5,
+            "longitude": 49.5,
+            "survival_days": 244.5
+        },
+        {
+            "altitude": 1320.74,
+            "country": "Iran",
+            "iceV_max": 780.1,
+            "latitude": 28.5,
+            "longitude": 61.5,
+            "survival_days": 329.0
+        },
+        {
+            "altitude": 1686.92,
+            "country": "Iran",
+            "iceV_max": 837.9,
+            "latitude": 28.5,
+            "longitude": 56.5,
+            "survival_days": 202.6
+        },
+        {
+            "altitude": 1624.23,
+            "country": "Iran",
+            "iceV_max": 1592.5,
+            "latitude": 35.5,
+            "longitude": 53.5,
+            "survival_days": 174.6
+        },
+        {
+            "altitude": 1721.67,
+            "country": "Iran",
+            "iceV_max": 2986.7,
+            "latitude": 31.5,
+            "longitude": 50.5,
+            "survival_days": 607.5
+        },
+        {
+            "altitude": 1701.72,
+            "country": "Iran",
+            "iceV_max": 5235.3,
+            "latitude": 37.5,
+            "longitude": 46.5,
+            "survival_days": 420.0
+        },
+        {
+            "altitude": 2289.21,
+            "country": "Iran",
+            "iceV_max": 7793.3,
+            "latitude": 32.5,
+            "longitude": 50.5,
+            "survival_days": 536.1
+        },
+        {
+            "altitude": 1019.23,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": 58.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1184.79,
+            "country": "Iran",
+            "iceV_max": 1199.3,
+            "latitude": 28.5,
+            "longitude": 53.5,
+            "survival_days": 200.6
+        },
+        {
+            "altitude": 1901.06,
+            "country": "Iran",
+            "iceV_max": 2064.9,
+            "latitude": 35.5,
+            "longitude": 47.5,
+            "survival_days": 198.7
+        },
+        {
+            "altitude": 1609.55,
+            "country": "Iran",
+            "iceV_max": 3198.6,
+            "latitude": 38.5,
+            "longitude": 45.5,
+            "survival_days": 593.6
+        },
+        {
+            "altitude": 1405.11,
+            "country": "Iran",
+            "iceV_max": 4856.5,
+            "latitude": 37.5,
+            "longitude": 57.5,
+            "survival_days": 502.8
+        },
+        {
+            "altitude": 1525.19,
+            "country": "Iran",
+            "iceV_max": 2174.4,
+            "latitude": 36.5,
+            "longitude": 58.5,
+            "survival_days": 197.5
+        },
+        {
+            "altitude": 1009.62,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 31.5,
+            "longitude": 60.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1987.71,
+            "country": "Iran",
+            "iceV_max": 3502.0,
+            "latitude": 36.5,
+            "longitude": 47.5,
+            "survival_days": 201.5
+        },
+        {
+            "altitude": 653.29,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 55.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 857.27,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 33.5,
+            "longitude": 46.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 866.1,
+            "country": "Iran",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": 50.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1966.72,
+            "country": "Iran",
+            "iceV_max": 3144.9,
+            "latitude": 30.5,
+            "longitude": 51.5,
+            "survival_days": 578.5
+        },
+        {
+            "altitude": 1923.1,
+            "country": "Iran",
+            "iceV_max": 1705.4,
+            "latitude": 36.5,
+            "longitude": 46.5,
+            "survival_days": 216.6
+        },
+        {
+            "altitude": 903.59,
+            "country": "Iran",
+            "iceV_max": 1526.4,
+            "latitude": 36.5,
+            "longitude": 53.5,
+            "survival_days": 191.5
+        },
+        {
+            "altitude": 1068.78,
+            "country": "Iran",
+            "iceV_max": 583.9,
+            "latitude": 32.5,
+            "longitude": 55.5,
+            "survival_days": 151.5
+        },
+        {
+            "altitude": 1819.16,
+            "country": "Iran",
+            "iceV_max": 2712.4,
+            "latitude": 36.5,
+            "longitude": 48.5,
+            "survival_days": 227.8
+        },
+        {
+            "altitude": 1489.28,
+            "country": "Iran",
+            "iceV_max": 2515.8,
+            "latitude": 36.5,
+            "longitude": 59.5,
+            "survival_days": 198.3
+        },
+        {
+            "altitude": 1442.84,
+            "country": "Iran",
+            "iceV_max": 605.5,
+            "latitude": 28.5,
+            "longitude": 54.5,
+            "survival_days": 196.7
+        },
+        {
+            "altitude": 1182.19,
+            "country": "Iran",
+            "iceV_max": 1687.0,
+            "latitude": 32.5,
+            "longitude": 60.5,
+            "survival_days": 182.7
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1425.0945070422533,
+        "average_iceV": 2536.9028169014073,
+        "average_survival_days": 274.5492957746478,
+        "max_iceV": 11502.6,
+        "min_iceV": 0,
+        "total_locations": 71
+    }
+}

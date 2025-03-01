@@ -1,0 +1,61 @@
+{
+    "country": "Japan",
+    "location_results": [
+        {
+            "altitude": 381.15,
+            "country": "Japan",
+            "iceV_max": 3287.8,
+            "latitude": 37.5,
+            "longitude": 139.5,
+            "survival_days": 424.1
+        },
+        {
+            "altitude": 709.35,
+            "country": "Japan",
+            "iceV_max": 2032.8,
+            "latitude": 35.5,
+            "longitude": 137.5,
+            "survival_days": 199.2
+        },
+        {
+            "altitude": 960.27,
+            "country": "Japan",
+            "iceV_max": 2561.8,
+            "latitude": 35.5,
+            "longitude": 138.5,
+            "survival_days": 239.1
+        },
+        {
+            "altitude": 582.0,
+            "country": "Japan",
+            "iceV_max": 13491.8,
+            "latitude": 43.5,
+            "longitude": 142.5,
+            "survival_days": 381.6
+        },
+        {
+            "altitude": 723.8,
+            "country": "Japan",
+            "iceV_max": 5.2,
+            "latitude": 36.5,
+            "longitude": 138.5,
+            "survival_days": 0.0
+        },
+        {
+            "altitude": 711.25,
+            "country": "Japan",
+            "iceV_max": 5320.4,
+            "latitude": 36.5,
+            "longitude": 137.5,
+            "survival_days": 459.3
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 677.9699999999999,
+        "average_iceV": 4449.966666666667,
+        "average_survival_days": 283.8833333333333,
+        "max_iceV": 13491.8,
+        "min_iceV": 5.2,
+        "total_locations": 6
+    }
+}

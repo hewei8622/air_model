@@ -1,0 +1,117 @@
+{
+    "country": "New_Zealand",
+    "location_results": [
+        {
+            "altitude": 452.28,
+            "country": "New_Zealand",
+            "iceV_max": 0,
+            "latitude": -39.5,
+            "longitude": 176.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 513.86,
+            "country": "New_Zealand",
+            "iceV_max": 0,
+            "latitude": -38.5,
+            "longitude": 176.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 974.01,
+            "country": "New_Zealand",
+            "iceV_max": 5759.9,
+            "latitude": -43.5,
+            "longitude": 170.5,
+            "survival_days": 547.0
+        },
+        {
+            "altitude": 616.07,
+            "country": "New_Zealand",
+            "iceV_max": 0,
+            "latitude": -39.5,
+            "longitude": 175.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 581.58,
+            "country": "New_Zealand",
+            "iceV_max": 0,
+            "latitude": -45.5,
+            "longitude": 167.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 873.62,
+            "country": "New_Zealand",
+            "iceV_max": 4359.2,
+            "latitude": -44.5,
+            "longitude": 169.5,
+            "survival_days": 249.9
+        },
+        {
+            "altitude": 770.92,
+            "country": "New_Zealand",
+            "iceV_max": 2302.7,
+            "latitude": -43.5,
+            "longitude": 171.5,
+            "survival_days": 242.6
+        },
+        {
+            "altitude": 726.68,
+            "country": "New_Zealand",
+            "iceV_max": 4850.5,
+            "latitude": -45.5,
+            "longitude": 168.5,
+            "survival_days": 226.5
+        },
+        {
+            "altitude": 539.75,
+            "country": "New_Zealand",
+            "iceV_max": 2845.5,
+            "latitude": -44.5,
+            "longitude": 170.5,
+            "survival_days": 273.2
+        },
+        {
+            "altitude": 421.24,
+            "country": "New_Zealand",
+            "iceV_max": 0,
+            "latitude": -41.5,
+            "longitude": 172.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 731.35,
+            "country": "New_Zealand",
+            "iceV_max": 1989.3,
+            "latitude": -42.5,
+            "longitude": 172.5,
+            "survival_days": 268.1
+        },
+        {
+            "altitude": 749.08,
+            "country": "New_Zealand",
+            "iceV_max": 3006.1,
+            "latitude": -44.5,
+            "longitude": 168.5,
+            "survival_days": 557.0
+        },
+        {
+            "altitude": 753.58,
+            "country": "New_Zealand",
+            "iceV_max": 3899.3,
+            "latitude": -45.5,
+            "longitude": 169.5,
+            "survival_days": 226.7
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 669.5400000000001,
+        "average_iceV": 2231.730769230769,
+        "average_survival_days": 199.30769230769232,
+        "max_iceV": 5759.9,
+        "min_iceV": 0,
+        "total_locations": 13
+    }
+}

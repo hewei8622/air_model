@@ -1,0 +1,61 @@
+{
+    "country": "Georgia",
+    "location_results": [
+        {
+            "altitude": 1884.3,
+            "country": "Georgia",
+            "iceV_max": 15622.2,
+            "latitude": 41.5,
+            "longitude": 43.5,
+            "survival_days": 485.0
+        },
+        {
+            "altitude": 1598.45,
+            "country": "Georgia",
+            "iceV_max": 19930.5,
+            "latitude": 42.5,
+            "longitude": 43.5,
+            "survival_days": 492.5
+        },
+        {
+            "altitude": 489.03,
+            "country": "Georgia",
+            "iceV_max": 5043.0,
+            "latitude": 41.5,
+            "longitude": 45.5,
+            "survival_days": 429.8
+        },
+        {
+            "altitude": 1194.02,
+            "country": "Georgia",
+            "iceV_max": 10891.0,
+            "latitude": 41.5,
+            "longitude": 44.5,
+            "survival_days": 487.4
+        },
+        {
+            "altitude": 581.4,
+            "country": "Georgia",
+            "iceV_max": 2583.0,
+            "latitude": 42.5,
+            "longitude": 42.5,
+            "survival_days": 197.4
+        },
+        {
+            "altitude": 2311.32,
+            "country": "Georgia",
+            "iceV_max": 30843.9,
+            "latitude": 42.5,
+            "longitude": 44.5,
+            "survival_days": 551.9
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1343.0866666666664,
+        "average_iceV": 14152.266666666668,
+        "average_survival_days": 440.6666666666667,
+        "max_iceV": 30843.9,
+        "min_iceV": 2583.0,
+        "total_locations": 6
+    }
+}

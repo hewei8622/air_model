@@ -1,0 +1,21 @@
+{
+    "country": "Uganda",
+    "location_results": [
+        {
+            "altitude": 1299.32,
+            "country": "Uganda",
+            "iceV_max": 0,
+            "latitude": -0.5,
+            "longitude": 30.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1299.32,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 1
+    }
+}

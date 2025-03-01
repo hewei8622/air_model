@@ -1,0 +1,21 @@
+{
+    "country": "South_Korea",
+    "location_results": [
+        {
+            "altitude": 404.95,
+            "country": "South_Korea",
+            "iceV_max": 4979.9,
+            "latitude": 37.5,
+            "longitude": 128.5,
+            "survival_days": 371.5
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 404.95,
+        "average_iceV": 4979.9,
+        "average_survival_days": 371.5,
+        "max_iceV": 4979.9,
+        "min_iceV": 4979.9,
+        "total_locations": 1
+    }
+}

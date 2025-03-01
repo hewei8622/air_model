@@ -1,0 +1,341 @@
+{
+    "country": "Afghanistan",
+    "location_results": [
+        {
+            "altitude": 800.56,
+            "country": "Afghanistan",
+            "iceV_max": 4746.7,
+            "latitude": 36.5,
+            "longitude": 68.5,
+            "survival_days": 467.9
+        },
+        {
+            "altitude": 1243.31,
+            "country": "Afghanistan",
+            "iceV_max": 1673.7,
+            "latitude": 34.5,
+            "longitude": 70.5,
+            "survival_days": 573.5
+        },
+        {
+            "altitude": 1491.58,
+            "country": "Afghanistan",
+            "iceV_max": 1577.5,
+            "latitude": 32.5,
+            "longitude": 64.5,
+            "survival_days": 181.2
+        },
+        {
+            "altitude": 2145.96,
+            "country": "Afghanistan",
+            "iceV_max": 6228.6,
+            "latitude": 33.5,
+            "longitude": 63.5,
+            "survival_days": 457.3
+        },
+        {
+            "altitude": 2783.59,
+            "country": "Afghanistan",
+            "iceV_max": 42104.1,
+            "latitude": 35.5,
+            "longitude": 67.5,
+            "survival_days": 576.0
+        },
+        {
+            "altitude": 1422.56,
+            "country": "Afghanistan",
+            "iceV_max": 1308.6,
+            "latitude": 32.5,
+            "longitude": 63.5,
+            "survival_days": 167.0
+        },
+        {
+            "altitude": 882.3,
+            "country": "Afghanistan",
+            "iceV_max": 1128.5,
+            "latitude": 35.5,
+            "longitude": 61.5,
+            "survival_days": 157.5
+        },
+        {
+            "altitude": 2184.42,
+            "country": "Afghanistan",
+            "iceV_max": 11378.0,
+            "latitude": 34.5,
+            "longitude": 63.5,
+            "survival_days": 466.1
+        },
+        {
+            "altitude": 852.37,
+            "country": "Afghanistan",
+            "iceV_max": 3798.6,
+            "latitude": 36.5,
+            "longitude": 67.5,
+            "survival_days": 465.0
+        },
+        {
+            "altitude": 1177.71,
+            "country": "Afghanistan",
+            "iceV_max": 5002.3,
+            "latitude": 35.5,
+            "longitude": 63.5,
+            "survival_days": 431.8
+        },
+        {
+            "altitude": 1566.6,
+            "country": "Afghanistan",
+            "iceV_max": 3829.0,
+            "latitude": 34.5,
+            "longitude": 62.5,
+            "survival_days": 423.5
+        },
+        {
+            "altitude": 2464.93,
+            "country": "Afghanistan",
+            "iceV_max": 10952.0,
+            "latitude": 33.5,
+            "longitude": 65.5,
+            "survival_days": 502.0
+        },
+        {
+            "altitude": 3605.94,
+            "country": "Afghanistan",
+            "iceV_max": 85602.5,
+            "latitude": 35.5,
+            "longitude": 71.5,
+            "survival_days": 645.2
+        },
+        {
+            "altitude": 2773.24,
+            "country": "Afghanistan",
+            "iceV_max": 42960.8,
+            "latitude": 34.5,
+            "longitude": 68.5,
+            "survival_days": 552.5
+        },
+        {
+            "altitude": 4024.78,
+            "country": "Afghanistan",
+            "iceV_max": 146054.9,
+            "latitude": 36.5,
+            "longitude": 71.5,
+            "survival_days": 571.2
+        },
+        {
+            "altitude": 1981.46,
+            "country": "Afghanistan",
+            "iceV_max": 5321.8,
+            "latitude": 32.5,
+            "longitude": 66.5,
+            "survival_days": 505.5
+        },
+        {
+            "altitude": 1894.54,
+            "country": "Afghanistan",
+            "iceV_max": 8437.2,
+            "latitude": 34.5,
+            "longitude": 69.5,
+            "survival_days": 545.1
+        },
+        {
+            "altitude": 1669.96,
+            "country": "Afghanistan",
+            "iceV_max": 1477.1,
+            "latitude": 33.5,
+            "longitude": 62.5,
+            "survival_days": 150.3
+        },
+        {
+            "altitude": 1577.58,
+            "country": "Afghanistan",
+            "iceV_max": 1879.8,
+            "latitude": 32.5,
+            "longitude": 65.5,
+            "survival_days": 206.5
+        },
+        {
+            "altitude": 3094.67,
+            "country": "Afghanistan",
+            "iceV_max": 45781.8,
+            "latitude": 36.5,
+            "longitude": 70.5,
+            "survival_days": 699.2
+        },
+        {
+            "altitude": 3081.65,
+            "country": "Afghanistan",
+            "iceV_max": 40548.4,
+            "latitude": 34.5,
+            "longitude": 66.5,
+            "survival_days": 539.1
+        },
+        {
+            "altitude": 2503.98,
+            "country": "Afghanistan",
+            "iceV_max": 25352.0,
+            "latitude": 34.5,
+            "longitude": 64.5,
+            "survival_days": 471.9
+        },
+        {
+            "altitude": 4003.46,
+            "country": "Afghanistan",
+            "iceV_max": 76785.9,
+            "latitude": 35.5,
+            "longitude": 70.5,
+            "survival_days": 526.0
+        },
+        {
+            "altitude": 2657.82,
+            "country": "Afghanistan",
+            "iceV_max": 27950.5,
+            "latitude": 33.5,
+            "longitude": 66.5,
+            "survival_days": 569.3
+        },
+        {
+            "altitude": 2694.58,
+            "country": "Afghanistan",
+            "iceV_max": 12249.7,
+            "latitude": 33.5,
+            "longitude": 68.5,
+            "survival_days": 576.3
+        },
+        {
+            "altitude": 2600.96,
+            "country": "Afghanistan",
+            "iceV_max": 25781.2,
+            "latitude": 35.5,
+            "longitude": 65.5,
+            "survival_days": 566.8
+        },
+        {
+            "altitude": 1049.75,
+            "country": "Afghanistan",
+            "iceV_max": 4933.1,
+            "latitude": 37.5,
+            "longitude": 69.5,
+            "survival_days": 464.5
+        },
+        {
+            "altitude": 680.45,
+            "country": "Afghanistan",
+            "iceV_max": 2552.7,
+            "latitude": 36.5,
+            "longitude": 66.5,
+            "survival_days": 422.5
+        },
+        {
+            "altitude": 2407.3,
+            "country": "Afghanistan",
+            "iceV_max": 13394.1,
+            "latitude": 33.5,
+            "longitude": 64.5,
+            "survival_days": 503.6
+        },
+        {
+            "altitude": 2823.29,
+            "country": "Afghanistan",
+            "iceV_max": 26052.1,
+            "latitude": 34.5,
+            "longitude": 65.5,
+            "survival_days": 555.9
+        },
+        {
+            "altitude": 1502.92,
+            "country": "Afghanistan",
+            "iceV_max": 1277.9,
+            "latitude": 31.5,
+            "longitude": 66.5,
+            "survival_days": 173.3
+        },
+        {
+            "altitude": 1051.5,
+            "country": "Afghanistan",
+            "iceV_max": 1212.6,
+            "latitude": 31.5,
+            "longitude": 65.5,
+            "survival_days": 168.2
+        },
+        {
+            "altitude": 2582.71,
+            "country": "Afghanistan",
+            "iceV_max": 39560.2,
+            "latitude": 35.5,
+            "longitude": 68.5,
+            "survival_days": 580.4
+        },
+        {
+            "altitude": 2962.85,
+            "country": "Afghanistan",
+            "iceV_max": 44933.3,
+            "latitude": 33.5,
+            "longitude": 67.5,
+            "survival_days": 555.3
+        },
+        {
+            "altitude": 2015.08,
+            "country": "Afghanistan",
+            "iceV_max": 1279.9,
+            "latitude": 31.5,
+            "longitude": 67.5,
+            "survival_days": 171.2
+        },
+        {
+            "altitude": 3152.66,
+            "country": "Afghanistan",
+            "iceV_max": 47891.4,
+            "latitude": 34.5,
+            "longitude": 67.5,
+            "survival_days": 539.0
+        },
+        {
+            "altitude": 2365.78,
+            "country": "Afghanistan",
+            "iceV_max": 28027.5,
+            "latitude": 37.5,
+            "longitude": 70.5,
+            "survival_days": 542.8
+        },
+        {
+            "altitude": 2921.78,
+            "country": "Afghanistan",
+            "iceV_max": 36365.0,
+            "latitude": 35.5,
+            "longitude": 66.5,
+            "survival_days": 571.7
+        },
+        {
+            "altitude": 1653.8,
+            "country": "Afghanistan",
+            "iceV_max": 10247.7,
+            "latitude": 36.5,
+            "longitude": 69.5,
+            "survival_days": 497.9
+        },
+        {
+            "altitude": 1954.32,
+            "country": "Afghanistan",
+            "iceV_max": 6599.0,
+            "latitude": 33.5,
+            "longitude": 69.5,
+            "survival_days": 605.6
+        },
+        {
+            "altitude": 3225.72,
+            "country": "Afghanistan",
+            "iceV_max": 58029.8,
+            "latitude": 35.5,
+            "longitude": 69.5,
+            "survival_days": 611.5
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 2183.6687804878056,
+        "average_iceV": 23469.93902439024,
+        "average_survival_days": 462.3682926829268,
+        "max_iceV": 146054.9,
+        "min_iceV": 1128.5,
+        "total_locations": 41
+    }
+}

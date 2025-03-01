@@ -1,0 +1,21 @@
+{
+    "country": "Equatorial_Guinea",
+    "location_results": [
+        {
+            "altitude": 526.17,
+            "country": "Equatorial_Guinea",
+            "iceV_max": 0,
+            "latitude": 1.5,
+            "longitude": 10.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 526.17,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 1
+    }
+}

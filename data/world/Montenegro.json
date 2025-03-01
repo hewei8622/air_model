@@ -1,0 +1,21 @@
+{
+    "country": "Montenegro",
+    "location_results": [
+        {
+            "altitude": 1020.7,
+            "country": "Montenegro",
+            "iceV_max": 7984.7,
+            "latitude": 42.5,
+            "longitude": 19.5,
+            "survival_days": 478.0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1020.7,
+        "average_iceV": 7984.7,
+        "average_survival_days": 478.0,
+        "max_iceV": 7984.7,
+        "min_iceV": 7984.7,
+        "total_locations": 1
+    }
+}

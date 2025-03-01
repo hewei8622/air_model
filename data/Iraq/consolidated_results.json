@@ -1,33 +1,26 @@
-{
-    "location_results": [
-        {
-            "altitude": 684.9,
-            "iceV_max": 0,
-            "latitude": 34.5,
-            "longitude": 45.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1008.95,
-            "iceV_max": 1235.5,
-            "latitude": 35.5,
-            "longitude": 45.5,
-            "survival_days": 188.5
-        },
-        {
-            "altitude": 1132.42,
-            "iceV_max": 1991.0,
-            "latitude": 36.5,
-            "longitude": 44.5,
-            "survival_days": 201.9
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 942.09,
-        "average_iceV": 1075.5,
-        "average_survival_days": 130.13333333333333,
-        "max_iceV": 1991.0,
-        "min_iceV": 0,
-        "total_locations": 3
+[
+    {
+        "altitude": 1132.42,
+        "country": "Iraq",
+        "iceV_max": 0,
+        "latitude": 36.5,
+        "longitude": 44.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 684.9,
+        "country": "Iraq",
+        "iceV_max": 0,
+        "latitude": 34.5,
+        "longitude": 45.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1008.95,
+        "country": "Iraq",
+        "iceV_max": 1019.3,
+        "latitude": 35.5,
+        "longitude": 45.5,
+        "survival_days": 180.2
     }
-}
+]

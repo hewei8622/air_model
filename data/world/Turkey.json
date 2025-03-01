@@ -1,0 +1,509 @@
+{
+    "country": "Turkey",
+    "location_results": [
+        {
+            "altitude": 887.58,
+            "country": "Turkey",
+            "iceV_max": 4116.2,
+            "latitude": 37.5,
+            "longitude": 35.5,
+            "survival_days": 216.3
+        },
+        {
+            "altitude": 1841.03,
+            "country": "Turkey",
+            "iceV_max": 13633.3,
+            "latitude": 39.5,
+            "longitude": 38.5,
+            "survival_days": 465.2
+        },
+        {
+            "altitude": 1159.47,
+            "country": "Turkey",
+            "iceV_max": 2543.3,
+            "latitude": 37.5,
+            "longitude": 29.5,
+            "survival_days": 223.9
+        },
+        {
+            "altitude": 2040.88,
+            "country": "Turkey",
+            "iceV_max": 20666.1,
+            "latitude": 39.5,
+            "longitude": 39.5,
+            "survival_days": 498.2
+        },
+        {
+            "altitude": 611.69,
+            "country": "Turkey",
+            "iceV_max": 642.6,
+            "latitude": 37.5,
+            "longitude": 36.5,
+            "survival_days": 147.7
+        },
+        {
+            "altitude": 2038.03,
+            "country": "Turkey",
+            "iceV_max": 14354.7,
+            "latitude": 37.5,
+            "longitude": 43.5,
+            "survival_days": 497.0
+        },
+        {
+            "altitude": 2078.15,
+            "country": "Turkey",
+            "iceV_max": 19888.1,
+            "latitude": 40.5,
+            "longitude": 40.5,
+            "survival_days": 525.6
+        },
+        {
+            "altitude": 1095.41,
+            "country": "Turkey",
+            "iceV_max": 2807.3,
+            "latitude": 40.5,
+            "longitude": 33.5,
+            "survival_days": 198.8
+        },
+        {
+            "altitude": 1982.68,
+            "country": "Turkey",
+            "iceV_max": 19847.2,
+            "latitude": 40.5,
+            "longitude": 42.5,
+            "survival_days": 485.7
+        },
+        {
+            "altitude": 472.08,
+            "country": "Turkey",
+            "iceV_max": 1037.7,
+            "latitude": 41.5,
+            "longitude": 35.5,
+            "survival_days": 164.5
+        },
+        {
+            "altitude": 1548.25,
+            "country": "Turkey",
+            "iceV_max": 3465.3,
+            "latitude": 39.5,
+            "longitude": 37.5,
+            "survival_days": 196.7
+        },
+        {
+            "altitude": 1551.94,
+            "country": "Turkey",
+            "iceV_max": 3508.0,
+            "latitude": 38.5,
+            "longitude": 41.5,
+            "survival_days": 206.6
+        },
+        {
+            "altitude": 1122.57,
+            "country": "Turkey",
+            "iceV_max": 2777.5,
+            "latitude": 38.5,
+            "longitude": 31.5,
+            "survival_days": 196.6
+        },
+        {
+            "altitude": 1119.85,
+            "country": "Turkey",
+            "iceV_max": 2543.3,
+            "latitude": 39.5,
+            "longitude": 33.5,
+            "survival_days": 185.5
+        },
+        {
+            "altitude": 1621.67,
+            "country": "Turkey",
+            "iceV_max": 4093.5,
+            "latitude": 38.5,
+            "longitude": 36.5,
+            "survival_days": 187.5
+        },
+        {
+            "altitude": 987.13,
+            "country": "Turkey",
+            "iceV_max": 2541.6,
+            "latitude": 39.5,
+            "longitude": 32.5,
+            "survival_days": 185.6
+        },
+        {
+            "altitude": 868.15,
+            "country": "Turkey",
+            "iceV_max": 6822.0,
+            "latitude": 41.5,
+            "longitude": 34.5,
+            "survival_days": 484.0
+        },
+        {
+            "altitude": 703.59,
+            "country": "Turkey",
+            "iceV_max": 709.4,
+            "latitude": 37.5,
+            "longitude": 37.5,
+            "survival_days": 143.8
+        },
+        {
+            "altitude": 957.62,
+            "country": "Turkey",
+            "iceV_max": 2271.8,
+            "latitude": 40.5,
+            "longitude": 35.5,
+            "survival_days": 206.6
+        },
+        {
+            "altitude": 1350.25,
+            "country": "Turkey",
+            "iceV_max": 2297.3,
+            "latitude": 39.5,
+            "longitude": 35.5,
+            "survival_days": 193.7
+        },
+        {
+            "altitude": 1417.45,
+            "country": "Turkey",
+            "iceV_max": 6320.9,
+            "latitude": 37.5,
+            "longitude": 42.5,
+            "survival_days": 434.0
+        },
+        {
+            "altitude": 785.19,
+            "country": "Turkey",
+            "iceV_max": 1619.4,
+            "latitude": 37.5,
+            "longitude": 28.5,
+            "survival_days": 200.7
+        },
+        {
+            "altitude": 1251.64,
+            "country": "Turkey",
+            "iceV_max": 2162.2,
+            "latitude": 37.5,
+            "longitude": 30.5,
+            "survival_days": 222.5
+        },
+        {
+            "altitude": 1430.86,
+            "country": "Turkey",
+            "iceV_max": 4330.6,
+            "latitude": 38.5,
+            "longitude": 37.5,
+            "survival_days": 187.0
+        },
+        {
+            "altitude": 931.62,
+            "country": "Turkey",
+            "iceV_max": 2354.5,
+            "latitude": 40.5,
+            "longitude": 34.5,
+            "survival_days": 203.6
+        },
+        {
+            "altitude": 1708.28,
+            "country": "Turkey",
+            "iceV_max": 5374.6,
+            "latitude": 40.5,
+            "longitude": 38.5,
+            "survival_days": 210.5
+        },
+        {
+            "altitude": 1997.59,
+            "country": "Turkey",
+            "iceV_max": 14110.0,
+            "latitude": 39.5,
+            "longitude": 43.5,
+            "survival_days": 508.2
+        },
+        {
+            "altitude": 1291.0,
+            "country": "Turkey",
+            "iceV_max": 2707.0,
+            "latitude": 37.5,
+            "longitude": 31.5,
+            "survival_days": 220.9
+        },
+        {
+            "altitude": 2150.16,
+            "country": "Turkey",
+            "iceV_max": 13378.9,
+            "latitude": 39.5,
+            "longitude": 41.5,
+            "survival_days": 462.7
+        },
+        {
+            "altitude": 1009.14,
+            "country": "Turkey",
+            "iceV_max": 1519.0,
+            "latitude": 40.5,
+            "longitude": 36.5,
+            "survival_days": 208.8
+        },
+        {
+            "altitude": 603.01,
+            "country": "Turkey",
+            "iceV_max": 2035.2,
+            "latitude": 39.5,
+            "longitude": 28.5,
+            "survival_days": 413.4
+        },
+        {
+            "altitude": 1768.57,
+            "country": "Turkey",
+            "iceV_max": 3778.7,
+            "latitude": 38.5,
+            "longitude": 42.5,
+            "survival_days": 209.5
+        },
+        {
+            "altitude": 1271.87,
+            "country": "Turkey",
+            "iceV_max": 9144.5,
+            "latitude": 38.5,
+            "longitude": 38.5,
+            "survival_days": 442.9
+        },
+        {
+            "altitude": 1984.11,
+            "country": "Turkey",
+            "iceV_max": 11401.3,
+            "latitude": 39.5,
+            "longitude": 42.5,
+            "survival_days": 464.8
+        },
+        {
+            "altitude": 1224.58,
+            "country": "Turkey",
+            "iceV_max": 2529.1,
+            "latitude": 38.5,
+            "longitude": 30.5,
+            "survival_days": 205.5
+        },
+        {
+            "altitude": 1916.06,
+            "country": "Turkey",
+            "iceV_max": 4018.3,
+            "latitude": 37.5,
+            "longitude": 44.5,
+            "survival_days": 246.6
+        },
+        {
+            "altitude": 1208.31,
+            "country": "Turkey",
+            "iceV_max": 2806.7,
+            "latitude": 37.5,
+            "longitude": 32.5,
+            "survival_days": 202.4
+        },
+        {
+            "altitude": 997.06,
+            "country": "Turkey",
+            "iceV_max": 1752.7,
+            "latitude": 36.5,
+            "longitude": 33.5,
+            "survival_days": 571.5
+        },
+        {
+            "altitude": 1014.76,
+            "country": "Turkey",
+            "iceV_max": 3812.8,
+            "latitude": 39.5,
+            "longitude": 29.5,
+            "survival_days": 462.9
+        },
+        {
+            "altitude": 1413.22,
+            "country": "Turkey",
+            "iceV_max": 3247.9,
+            "latitude": 38.5,
+            "longitude": 35.5,
+            "survival_days": 194.5
+        },
+        {
+            "altitude": 1863.2,
+            "country": "Turkey",
+            "iceV_max": 5947.0,
+            "latitude": 40.5,
+            "longitude": 39.5,
+            "survival_days": 199.4
+        },
+        {
+            "altitude": 612.55,
+            "country": "Turkey",
+            "iceV_max": 958.0,
+            "latitude": 38.5,
+            "longitude": 28.5,
+            "survival_days": 163.5
+        },
+        {
+            "altitude": 1370.25,
+            "country": "Turkey",
+            "iceV_max": 7732.4,
+            "latitude": 40.5,
+            "longitude": 32.5,
+            "survival_days": 458.9
+        },
+        {
+            "altitude": 956.9,
+            "country": "Turkey",
+            "iceV_max": 2049.9,
+            "latitude": 37.5,
+            "longitude": 41.5,
+            "survival_days": 193.3
+        },
+        {
+            "altitude": 1219.09,
+            "country": "Turkey",
+            "iceV_max": 7851.2,
+            "latitude": 38.5,
+            "longitude": 39.5,
+            "survival_days": 452.6
+        },
+        {
+            "altitude": 1205.18,
+            "country": "Turkey",
+            "iceV_max": 2527.9,
+            "latitude": 40.5,
+            "longitude": 31.5,
+            "survival_days": 202.6
+        },
+        {
+            "altitude": 2128.93,
+            "country": "Turkey",
+            "iceV_max": 18046.9,
+            "latitude": 39.5,
+            "longitude": 40.5,
+            "survival_days": 502.2
+        },
+        {
+            "altitude": 833.04,
+            "country": "Turkey",
+            "iceV_max": 0,
+            "latitude": 36.5,
+            "longitude": 32.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 982.01,
+            "country": "Turkey",
+            "iceV_max": 7687.0,
+            "latitude": 41.5,
+            "longitude": 33.5,
+            "survival_days": 464.0
+        },
+        {
+            "altitude": 1559.91,
+            "country": "Turkey",
+            "iceV_max": 2877.0,
+            "latitude": 39.5,
+            "longitude": 36.5,
+            "survival_days": 187.5
+        },
+        {
+            "altitude": 1114.64,
+            "country": "Turkey",
+            "iceV_max": 1508.9,
+            "latitude": 39.5,
+            "longitude": 34.5,
+            "survival_days": 189.3
+        },
+        {
+            "altitude": 1362.42,
+            "country": "Turkey",
+            "iceV_max": 4177.5,
+            "latitude": 40.5,
+            "longitude": 37.5,
+            "survival_days": 212.4
+        },
+        {
+            "altitude": 2065.24,
+            "country": "Turkey",
+            "iceV_max": 11221.7,
+            "latitude": 38.5,
+            "longitude": 43.5,
+            "survival_days": 464.2
+        },
+        {
+            "altitude": 1298.33,
+            "country": "Turkey",
+            "iceV_max": 8886.4,
+            "latitude": 37.5,
+            "longitude": 34.5,
+            "survival_days": 506.8
+        },
+        {
+            "altitude": 1248.7,
+            "country": "Turkey",
+            "iceV_max": 3518.6,
+            "latitude": 38.5,
+            "longitude": 40.5,
+            "survival_days": 190.1
+        },
+        {
+            "altitude": 1054.55,
+            "country": "Turkey",
+            "iceV_max": 2163.9,
+            "latitude": 39.5,
+            "longitude": 30.5,
+            "survival_days": 189.7
+        },
+        {
+            "altitude": 978.53,
+            "country": "Turkey",
+            "iceV_max": 2236.7,
+            "latitude": 38.5,
+            "longitude": 29.5,
+            "survival_days": 186.4
+        },
+        {
+            "altitude": 1608.44,
+            "country": "Turkey",
+            "iceV_max": 13134.4,
+            "latitude": 41.5,
+            "longitude": 42.5,
+            "survival_days": 497.2
+        },
+        {
+            "altitude": 1905.43,
+            "country": "Turkey",
+            "iceV_max": 14956.7,
+            "latitude": 40.5,
+            "longitude": 43.5,
+            "survival_days": 476.8
+        },
+        {
+            "altitude": 1149.21,
+            "country": "Turkey",
+            "iceV_max": 2158.8,
+            "latitude": 38.5,
+            "longitude": 34.5,
+            "survival_days": 187.3
+        },
+        {
+            "altitude": 753.42,
+            "country": "Turkey",
+            "iceV_max": 1842.4,
+            "latitude": 40.5,
+            "longitude": 30.5,
+            "survival_days": 205.7
+        },
+        {
+            "altitude": 2072.4,
+            "country": "Turkey",
+            "iceV_max": 21483.7,
+            "latitude": 40.5,
+            "longitude": 41.5,
+            "survival_days": 525.2
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1334.7559677419354,
+        "average_iceV": 5998.991935483874,
+        "average_survival_days": 298.991935483871,
+        "max_iceV": 21483.7,
+        "min_iceV": 0,
+        "total_locations": 62
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "country": "Romania",
+    "location_results": [
+        {
+            "altitude": 1071.22,
+            "country": "Romania",
+            "iceV_max": 17185.4,
+            "latitude": 45.5,
+            "longitude": 25.5,
+            "survival_days": 539.5
+        },
+        {
+            "altitude": 685.55,
+            "country": "Romania",
+            "iceV_max": 5309.8,
+            "latitude": 46.5,
+            "longitude": 22.5,
+            "survival_days": 439.9
+        },
+        {
+            "altitude": 821.53,
+            "country": "Romania",
+            "iceV_max": 4420.9,
+            "latitude": 47.5,
+            "longitude": 25.5,
+            "survival_days": 179.2
+        },
+        {
+            "altitude": 738.63,
+            "country": "Romania",
+            "iceV_max": 6680.2,
+            "latitude": 46.5,
+            "longitude": 23.5,
+            "survival_days": 414.7
+        },
+        {
+            "altitude": 625.42,
+            "country": "Romania",
+            "iceV_max": 2889.3,
+            "latitude": 45.5,
+            "longitude": 26.5,
+            "survival_days": 165.5
+        },
+        {
+            "altitude": 801.84,
+            "country": "Romania",
+            "iceV_max": 3539.6,
+            "latitude": 46.5,
+            "longitude": 25.5,
+            "survival_days": 186.2
+        },
+        {
+            "altitude": 608.49,
+            "country": "Romania",
+            "iceV_max": 10156.8,
+            "latitude": 46.5,
+            "longitude": 26.5,
+            "survival_days": 402.0
+        },
+        {
+            "altitude": 376.4,
+            "country": "Romania",
+            "iceV_max": 3193.0,
+            "latitude": 47.5,
+            "longitude": 23.5,
+            "survival_days": 183.4
+        },
+        {
+            "altitude": 1137.87,
+            "country": "Romania",
+            "iceV_max": 12873.9,
+            "latitude": 45.5,
+            "longitude": 24.5,
+            "survival_days": 522.0
+        },
+        {
+            "altitude": 808.12,
+            "country": "Romania",
+            "iceV_max": 11790.2,
+            "latitude": 47.5,
+            "longitude": 24.5,
+            "survival_days": 385.2
+        },
+        {
+            "altitude": 679.14,
+            "country": "Romania",
+            "iceV_max": 4161.7,
+            "latitude": 45.5,
+            "longitude": 22.5,
+            "survival_days": 199.0
+        },
+        {
+            "altitude": 1077.58,
+            "country": "Romania",
+            "iceV_max": 15214.6,
+            "latitude": 45.5,
+            "longitude": 23.5,
+            "survival_days": 496.9
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 785.9825,
+        "average_iceV": 8117.95,
+        "average_survival_days": 342.7916666666667,
+        "max_iceV": 17185.4,
+        "min_iceV": 2889.3,
+        "total_locations": 12
+    }
+}

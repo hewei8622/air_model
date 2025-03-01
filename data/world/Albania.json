@@ -1,0 +1,21 @@
+{
+    "country": "Albania",
+    "location_results": [
+        {
+            "altitude": 885.47,
+            "country": "Albania",
+            "iceV_max": 2803.9,
+            "latitude": 40.5,
+            "longitude": 20.5,
+            "survival_days": 270.3
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 885.47,
+        "average_iceV": 2803.9,
+        "average_survival_days": 270.3,
+        "max_iceV": 2803.9,
+        "min_iceV": 2803.9,
+        "total_locations": 1
+    }
+}

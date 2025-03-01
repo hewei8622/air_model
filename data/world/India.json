@@ -1,0 +1,285 @@
+{
+    "country": "India",
+    "location_results": [
+        {
+            "altitude": 3427.21,
+            "country": "India",
+            "iceV_max": 40221.0,
+            "latitude": 28.5,
+            "longitude": 93.5,
+            "survival_days": 591.3
+        },
+        {
+            "altitude": 797.25,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 92.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1785.0,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": 95.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 677.37,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 12.5,
+            "longitude": 77.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1259.08,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 94.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2857.27,
+            "country": "India",
+            "iceV_max": 35023.7,
+            "latitude": 32.5,
+            "longitude": 76.5,
+            "survival_days": 581.4
+        },
+        {
+            "altitude": 1216.5,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 93.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2416.04,
+            "country": "India",
+            "iceV_max": 15995.5,
+            "latitude": 31.5,
+            "longitude": 77.5,
+            "survival_days": 601.3
+        },
+        {
+            "altitude": 5354.33,
+            "country": "India",
+            "iceV_max": 80220.3,
+            "latitude": 34.5,
+            "longitude": 78.5,
+            "survival_days": 439.4
+        },
+        {
+            "altitude": 5006.9,
+            "country": "India",
+            "iceV_max": 110536.4,
+            "latitude": 33.5,
+            "longitude": 78.5,
+            "survival_days": 583.4
+        },
+        {
+            "altitude": 4974.57,
+            "country": "India",
+            "iceV_max": 99552.0,
+            "latitude": 34.5,
+            "longitude": 77.5,
+            "survival_days": 553.4
+        },
+        {
+            "altitude": 535.95,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 92.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4688.73,
+            "country": "India",
+            "iceV_max": 90941.9,
+            "latitude": 32.5,
+            "longitude": 77.5,
+            "survival_days": 595.2
+        },
+        {
+            "altitude": 915.06,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 31.5,
+            "longitude": 76.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1556.71,
+            "country": "India",
+            "iceV_max": 5791.3,
+            "latitude": 33.5,
+            "longitude": 74.5,
+            "survival_days": 581.4
+        },
+        {
+            "altitude": 2964.05,
+            "country": "India",
+            "iceV_max": 61000.0,
+            "latitude": 33.5,
+            "longitude": 75.5,
+            "survival_days": 729.2
+        },
+        {
+            "altitude": 4093.53,
+            "country": "India",
+            "iceV_max": 94464.9,
+            "latitude": 31.5,
+            "longitude": 78.5,
+            "survival_days": 642.4
+        },
+        {
+            "altitude": 1925.35,
+            "country": "India",
+            "iceV_max": 11672.4,
+            "latitude": 28.5,
+            "longitude": 94.5,
+            "survival_days": 521.2
+        },
+        {
+            "altitude": 852.07,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 93.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1048.63,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 29.5,
+            "longitude": 79.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4924.27,
+            "country": "India",
+            "iceV_max": 104993.5,
+            "latitude": 33.5,
+            "longitude": 77.5,
+            "survival_days": 614.3
+        },
+        {
+            "altitude": 3727.45,
+            "country": "India",
+            "iceV_max": 38163.2,
+            "latitude": 27.5,
+            "longitude": 88.5,
+            "survival_days": 597.2
+        },
+        {
+            "altitude": 4247.89,
+            "country": "India",
+            "iceV_max": 86999.1,
+            "latitude": 33.5,
+            "longitude": 76.5,
+            "survival_days": 585.2
+        },
+        {
+            "altitude": 1781.98,
+            "country": "India",
+            "iceV_max": 2886.5,
+            "latitude": 30.5,
+            "longitude": 78.5,
+            "survival_days": 607.5
+        },
+        {
+            "altitude": 560.99,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": 82.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1177.33,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 96.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 506.68,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 93.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2407.49,
+            "country": "India",
+            "iceV_max": 14878.0,
+            "latitude": 27.5,
+            "longitude": 92.5,
+            "survival_days": 572.4
+        },
+        {
+            "altitude": 822.87,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": 77.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 3604.28,
+            "country": "India",
+            "iceV_max": 66034.5,
+            "latitude": 30.5,
+            "longitude": 79.5,
+            "survival_days": 700.0
+        },
+        {
+            "altitude": 3812.46,
+            "country": "India",
+            "iceV_max": 57709.9,
+            "latitude": 34.5,
+            "longitude": 75.5,
+            "survival_days": 712.8
+        },
+        {
+            "altitude": 847.95,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 32.5,
+            "longitude": 75.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 553.94,
+            "country": "India",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": 83.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 3133.22,
+            "country": "India",
+            "iceV_max": 65694.7,
+            "latitude": 34.5,
+            "longitude": 74.5,
+            "survival_days": 676.6
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 2366.4823529411765,
+        "average_iceV": 31846.435294117648,
+        "average_survival_days": 337.8117647058823,
+        "max_iceV": 110536.4,
+        "min_iceV": 0,
+        "total_locations": 34
+    }
+}

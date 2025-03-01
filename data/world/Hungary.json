@@ -1,0 +1,21 @@
+{
+    "country": "Hungary",
+    "location_results": [
+        {
+            "altitude": 344.75,
+            "country": "Hungary",
+            "iceV_max": 5556.2,
+            "latitude": 48.5,
+            "longitude": 20.5,
+            "survival_days": 391.8
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 344.75,
+        "average_iceV": 5556.2,
+        "average_survival_days": 391.8,
+        "max_iceV": 5556.2,
+        "min_iceV": 5556.2,
+        "total_locations": 1
+    }
+}

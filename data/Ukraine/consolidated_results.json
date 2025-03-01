@@ -1,26 +1,18 @@
-{
-    "location_results": [
-        {
-            "altitude": 770.83,
-            "iceV_max": 6340.1,
-            "latitude": 48.5,
-            "longitude": 23.5,
-            "survival_days": 397.2
-        },
-        {
-            "altitude": 754.6,
-            "iceV_max": 5826.4,
-            "latitude": 48.5,
-            "longitude": 24.5,
-            "survival_days": 391.3
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 762.715,
-        "average_iceV": 6083.25,
-        "average_survival_days": 394.25,
-        "max_iceV": 6340.1,
-        "min_iceV": 5826.4,
-        "total_locations": 2
+[
+    {
+        "altitude": 770.83,
+        "country": "Ukraine",
+        "iceV_max": 5519.4,
+        "latitude": 48.5,
+        "longitude": 23.5,
+        "survival_days": 169.0
+    },
+    {
+        "altitude": 754.6,
+        "country": "Ukraine",
+        "iceV_max": 16141.8,
+        "latitude": 48.5,
+        "longitude": 24.5,
+        "survival_days": 419.9
     }
-}
+]

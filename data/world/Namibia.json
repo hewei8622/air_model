@@ -1,0 +1,109 @@
+{
+    "country": "Namibia",
+    "location_results": [
+        {
+            "altitude": 1241.24,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -17.5,
+            "longitude": 13.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 823.21,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -22.5,
+            "longitude": 15.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 886.41,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -17.5,
+            "longitude": 12.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 582.96,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -28.5,
+            "longitude": 17.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1109.94,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -27.5,
+            "longitude": 17.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1137.87,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -18.5,
+            "longitude": 13.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1294.83,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -23.5,
+            "longitude": 16.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1330.38,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -25.5,
+            "longitude": 16.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 658.53,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -19.5,
+            "longitude": 13.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 863.81,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -27.5,
+            "longitude": 16.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1481.13,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -22.5,
+            "longitude": 16.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1260.04,
+            "country": "Namibia",
+            "iceV_max": 0,
+            "latitude": -24.5,
+            "longitude": 16.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1055.8625000000002,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 12
+    }
+}

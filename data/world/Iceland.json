@@ -1,0 +1,61 @@
+{
+    "country": "Iceland",
+    "location_results": [
+        {
+            "altitude": 656.64,
+            "country": "Iceland",
+            "iceV_max": 6731.8,
+            "latitude": 64.5,
+            "longitude": -19.5,
+            "survival_days": 195.8
+        },
+        {
+            "altitude": 502.49,
+            "country": "Iceland",
+            "iceV_max": 3899.3,
+            "latitude": 65.5,
+            "longitude": -15.5,
+            "survival_days": 213.7
+        },
+        {
+            "altitude": 641.57,
+            "country": "Iceland",
+            "iceV_max": 12535.2,
+            "latitude": 65.5,
+            "longitude": -18.5,
+            "survival_days": 619.8
+        },
+        {
+            "altitude": 801.31,
+            "country": "Iceland",
+            "iceV_max": 7145.8,
+            "latitude": 64.5,
+            "longitude": -15.5,
+            "survival_days": 264.7
+        },
+        {
+            "altitude": 504.21,
+            "country": "Iceland",
+            "iceV_max": 3699.0,
+            "latitude": 65.5,
+            "longitude": -16.5,
+            "survival_days": 200.5
+        },
+        {
+            "altitude": 859.05,
+            "country": "Iceland",
+            "iceV_max": 5410.2,
+            "latitude": 64.5,
+            "longitude": -18.5,
+            "survival_days": 199.6
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 660.8783333333334,
+        "average_iceV": 6570.216666666667,
+        "average_survival_days": 282.34999999999997,
+        "max_iceV": 12535.2,
+        "min_iceV": 3699.0,
+        "total_locations": 6
+    }
+}

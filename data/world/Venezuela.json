@@ -1,0 +1,125 @@
+{
+    "country": "Venezuela",
+    "location_results": [
+        {
+            "altitude": 527.15,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": -69.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 559.58,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 4.5,
+            "longitude": -63.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 554.08,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 4.5,
+            "longitude": -62.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 307.32,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": -62.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 749.5,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 9.5,
+            "longitude": -70.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1089.79,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": -61.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 592.35,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 3.5,
+            "longitude": -64.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 408.05,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": -66.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 446.46,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": -70.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 739.5,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 4.5,
+            "longitude": -64.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 823.2,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": -62.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1403.93,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 8.5,
+            "longitude": -71.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 710.19,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 4.5,
+            "longitude": -61.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 551.07,
+            "country": "Venezuela",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": -65.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 675.8692857142858,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 14
+    }
+}

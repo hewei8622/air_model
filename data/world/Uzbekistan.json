@@ -1,0 +1,45 @@
+{
+    "country": "Uzbekistan",
+    "location_results": [
+        {
+            "altitude": 1266.81,
+            "country": "Uzbekistan",
+            "iceV_max": 6790.6,
+            "latitude": 38.5,
+            "longitude": 66.5,
+            "survival_days": 417.9
+        },
+        {
+            "altitude": 1044.85,
+            "country": "Uzbekistan",
+            "iceV_max": 10030.5,
+            "latitude": 41.5,
+            "longitude": 69.5,
+            "survival_days": 428.4
+        },
+        {
+            "altitude": 1622.75,
+            "country": "Uzbekistan",
+            "iceV_max": 28434.8,
+            "latitude": 38.5,
+            "longitude": 67.5,
+            "survival_days": 561.6
+        },
+        {
+            "altitude": 1452.83,
+            "country": "Uzbekistan",
+            "iceV_max": 8719.0,
+            "latitude": 39.5,
+            "longitude": 67.5,
+            "survival_days": 469.2
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1346.81,
+        "average_iceV": 13493.724999999999,
+        "average_survival_days": 469.27500000000003,
+        "max_iceV": 28434.8,
+        "min_iceV": 6790.6,
+        "total_locations": 4
+    }
+}

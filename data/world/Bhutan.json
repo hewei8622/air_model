@@ -1,0 +1,37 @@
+{
+    "country": "Bhutan",
+    "location_results": [
+        {
+            "altitude": 3300.54,
+            "country": "Bhutan",
+            "iceV_max": 30894.7,
+            "latitude": 27.5,
+            "longitude": 89.5,
+            "survival_days": 571.0
+        },
+        {
+            "altitude": 3118.76,
+            "country": "Bhutan",
+            "iceV_max": 28650.6,
+            "latitude": 27.5,
+            "longitude": 91.5,
+            "survival_days": 572.3
+        },
+        {
+            "altitude": 2780.87,
+            "country": "Bhutan",
+            "iceV_max": 12503.3,
+            "latitude": 27.5,
+            "longitude": 90.5,
+            "survival_days": 563.3
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 3066.7233333333334,
+        "average_iceV": 24016.2,
+        "average_survival_days": 568.8666666666667,
+        "max_iceV": 30894.7,
+        "min_iceV": 12503.3,
+        "total_locations": 3
+    }
+}

@@ -1,19 +1,10 @@
-{
-    "location_results": [
-        {
-            "altitude": 1091.86,
-            "iceV_max": 7986.7,
-            "latitude": 47.5,
-            "longitude": 10.5,
-            "survival_days": 489.2
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 1091.86,
-        "average_iceV": 7986.7,
-        "average_survival_days": 489.2,
-        "max_iceV": 7986.7,
-        "min_iceV": 7986.7,
-        "total_locations": 1
+[
+    {
+        "altitude": 1091.86,
+        "country": "Germany",
+        "iceV_max": 15213.0,
+        "latitude": 47.5,
+        "longitude": 10.5,
+        "survival_days": 478.8
     }
-}
+]

@@ -1,26 +1,18 @@
-{
-    "location_results": [
-        {
-            "altitude": 577.72,
-            "iceV_max": 0,
-            "latitude": 23.5,
-            "longitude": 57.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 536.81,
-            "iceV_max": 0,
-            "latitude": 23.5,
-            "longitude": 56.5,
-            "survival_days": 0
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 557.265,
-        "average_iceV": 0.0,
-        "average_survival_days": 0.0,
-        "max_iceV": 0,
-        "min_iceV": 0,
-        "total_locations": 2
+[
+    {
+        "altitude": 577.72,
+        "country": "Oman",
+        "iceV_max": 0,
+        "latitude": 23.5,
+        "longitude": 57.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 536.81,
+        "country": "Oman",
+        "iceV_max": 0,
+        "latitude": 23.5,
+        "longitude": 56.5,
+        "survival_days": 0
     }
-}
+]

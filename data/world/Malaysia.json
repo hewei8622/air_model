@@ -1,0 +1,69 @@
+{
+    "country": "Malaysia",
+    "location_results": [
+        {
+            "altitude": 746.44,
+            "country": "Malaysia",
+            "iceV_max": 0,
+            "latitude": 2.5,
+            "longitude": 114.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 755.96,
+            "country": "Malaysia",
+            "iceV_max": 0,
+            "latitude": 3.5,
+            "longitude": 115.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 346.58,
+            "country": "Malaysia",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": 116.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 478.12,
+            "country": "Malaysia",
+            "iceV_max": 0,
+            "latitude": 1.5,
+            "longitude": 113.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 697.01,
+            "country": "Malaysia",
+            "iceV_max": 0,
+            "latitude": 1.5,
+            "longitude": 114.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 515.41,
+            "country": "Malaysia",
+            "iceV_max": 0,
+            "latitude": 4.5,
+            "longitude": 115.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 709.68,
+            "country": "Malaysia",
+            "iceV_max": 0,
+            "latitude": 4.5,
+            "longitude": 116.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 607.0285714285714,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 7
+    }
+}

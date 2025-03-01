@@ -1,208 +1,226 @@
-{
-    "location_results": [
-        {
-            "altitude": 523.97,
-            "iceV_max": 0,
-            "latitude": 15.5,
-            "longitude": 98.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 868.99,
-            "iceV_max": 0,
-            "latitude": 18.5,
-            "longitude": 97.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 979.93,
-            "iceV_max": 0,
-            "latitude": 19.5,
-            "longitude": 97.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 664.62,
-            "iceV_max": 0,
-            "latitude": 19.5,
-            "longitude": 96.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1021.73,
-            "iceV_max": 0,
-            "latitude": 20.5,
-            "longitude": 97.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 739.38,
-            "iceV_max": 0,
-            "latitude": 20.5,
-            "longitude": 96.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 725.34,
-            "iceV_max": 0,
-            "latitude": 20.5,
-            "longitude": 99.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 853.34,
-            "iceV_max": 0,
-            "latitude": 20.5,
-            "longitude": 98.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 481.99,
-            "iceV_max": 0,
-            "latitude": 21.5,
-            "longitude": 96.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1028.55,
-            "iceV_max": 0,
-            "latitude": 21.5,
-            "longitude": 98.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1072.1,
-            "iceV_max": 0,
-            "latitude": 21.5,
-            "longitude": 99.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 942.11,
-            "iceV_max": 0,
-            "latitude": 21.5,
-            "longitude": 97.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1025.53,
-            "iceV_max": 0,
-            "latitude": 21.5,
-            "longitude": 100.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 758.33,
-            "iceV_max": 0,
-            "latitude": 21.5,
-            "longitude": 93.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 710.24,
-            "iceV_max": 0,
-            "latitude": 22.5,
-            "longitude": 93.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 983.43,
-            "iceV_max": 0,
-            "latitude": 22.5,
-            "longitude": 97.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1089.87,
-            "iceV_max": 0,
-            "latitude": 22.5,
-            "longitude": 98.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 508.3,
-            "iceV_max": 0,
-            "latitude": 22.5,
-            "longitude": 96.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1239.01,
-            "iceV_max": 0,
-            "latitude": 23.5,
-            "longitude": 98.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 929.19,
-            "iceV_max": 0,
-            "latitude": 23.5,
-            "longitude": 97.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 852.87,
-            "iceV_max": 0,
-            "latitude": 23.5,
-            "longitude": 93.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 842.28,
-            "iceV_max": 0,
-            "latitude": 24.5,
-            "longitude": 97.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 934.75,
-            "iceV_max": 0,
-            "latitude": 25.5,
-            "longitude": 97.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 906.17,
-            "iceV_max": 0,
-            "latitude": 26.5,
-            "longitude": 95.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1959.74,
-            "iceV_max": 9338.0,
-            "latitude": 26.5,
-            "longitude": 98.5,
-            "survival_days": 517.2
-        },
-        {
-            "altitude": 936.89,
-            "iceV_max": 0,
-            "latitude": 26.5,
-            "longitude": 97.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2257.47,
-            "iceV_max": 13507.8,
-            "latitude": 27.5,
-            "longitude": 98.5,
-            "survival_days": 538.2
-        },
-        {
-            "altitude": 1846.48,
-            "iceV_max": 12459.6,
-            "latitude": 27.5,
-            "longitude": 97.5,
-            "survival_days": 521.3
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 988.6642857142857,
-        "average_iceV": 1260.9071428571428,
-        "average_survival_days": 56.31071428571429,
-        "max_iceV": 13507.8,
-        "min_iceV": 0,
-        "total_locations": 28
+[
+    {
+        "altitude": 481.99,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 21.5,
+        "longitude": 96.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1028.55,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 21.5,
+        "longitude": 98.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1072.1,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 21.5,
+        "longitude": 99.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 523.97,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 15.5,
+        "longitude": 98.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1239.01,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 23.5,
+        "longitude": 98.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 942.11,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 21.5,
+        "longitude": 97.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 868.99,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 18.5,
+        "longitude": 97.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 906.17,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 26.5,
+        "longitude": 95.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1959.74,
+        "country": "Myanmar",
+        "iceV_max": 5180.8,
+        "latitude": 26.5,
+        "longitude": 98.5,
+        "survival_days": 381.0
+    },
+    {
+        "altitude": 2257.47,
+        "country": "Myanmar",
+        "iceV_max": 14246.9,
+        "latitude": 27.5,
+        "longitude": 98.5,
+        "survival_days": 524.3
+    },
+    {
+        "altitude": 929.19,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 23.5,
+        "longitude": 97.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 852.87,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 23.5,
+        "longitude": 93.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 842.28,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 24.5,
+        "longitude": 97.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1021.73,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 20.5,
+        "longitude": 97.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1025.53,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 21.5,
+        "longitude": 100.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 739.38,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 20.5,
+        "longitude": 96.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 758.33,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 21.5,
+        "longitude": 93.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 710.24,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 22.5,
+        "longitude": 93.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1846.48,
+        "country": "Myanmar",
+        "iceV_max": 14004.9,
+        "latitude": 27.5,
+        "longitude": 97.5,
+        "survival_days": 517.2
+    },
+    {
+        "altitude": 979.93,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 19.5,
+        "longitude": 97.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 934.75,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 25.5,
+        "longitude": 97.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 983.43,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 22.5,
+        "longitude": 97.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 936.89,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 26.5,
+        "longitude": 97.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 725.34,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 20.5,
+        "longitude": 99.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 853.34,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 20.5,
+        "longitude": 98.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1089.87,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 22.5,
+        "longitude": 98.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 664.62,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 19.5,
+        "longitude": 96.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 508.3,
+        "country": "Myanmar",
+        "iceV_max": 0,
+        "latitude": 22.5,
+        "longitude": 96.5,
+        "survival_days": 0
     }
-}
+]

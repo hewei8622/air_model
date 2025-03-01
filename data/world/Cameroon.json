@@ -1,0 +1,53 @@
+{
+    "country": "Cameroon",
+    "location_results": [
+        {
+            "altitude": 1017.33,
+            "country": "Cameroon",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": 10.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 945.88,
+            "country": "Cameroon",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": 10.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 923.85,
+            "country": "Cameroon",
+            "iceV_max": 0,
+            "latitude": 7.5,
+            "longitude": 12.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 993.3,
+            "country": "Cameroon",
+            "iceV_max": 0,
+            "latitude": 7.5,
+            "longitude": 13.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 522.98,
+            "country": "Cameroon",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": 13.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 880.668,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 5
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "country": "Norway",
+    "location_results": [
+        {
+            "altitude": 1093.3,
+            "country": "Norway",
+            "iceV_max": 27560.6,
+            "latitude": 60.5,
+            "longitude": 7.5,
+            "survival_days": 462.7
+        },
+        {
+            "altitude": 1079.0,
+            "country": "Norway",
+            "iceV_max": 21352.5,
+            "latitude": 62.5,
+            "longitude": 9.5,
+            "survival_days": 561.2
+        },
+        {
+            "altitude": 917.79,
+            "country": "Norway",
+            "iceV_max": 22863.9,
+            "latitude": 59.5,
+            "longitude": 7.5,
+            "survival_days": 460.7
+        },
+        {
+            "altitude": 669.45,
+            "country": "Norway",
+            "iceV_max": 21230.9,
+            "latitude": 59.5,
+            "longitude": 6.5,
+            "survival_days": 460.0
+        },
+        {
+            "altitude": 672.18,
+            "country": "Norway",
+            "iceV_max": 22066.6,
+            "latitude": 60.5,
+            "longitude": 9.5,
+            "survival_days": 427.2
+        },
+        {
+            "altitude": 430.04,
+            "country": "Norway",
+            "iceV_max": 22258.4,
+            "latitude": 60.5,
+            "longitude": 10.5,
+            "survival_days": 415.4
+        },
+        {
+            "altitude": 347.08,
+            "country": "Norway",
+            "iceV_max": 30512.0,
+            "latitude": 78.5,
+            "longitude": 18.5,
+            "survival_days": 351.2
+        },
+        {
+            "altitude": 400.57,
+            "country": "Norway",
+            "iceV_max": 6680.4,
+            "latitude": 58.5,
+            "longitude": 7.5,
+            "survival_days": 397.7
+        },
+        {
+            "altitude": 529.64,
+            "country": "Norway",
+            "iceV_max": 24959.7,
+            "latitude": 64.5,
+            "longitude": 13.5,
+            "survival_days": 422.2
+        },
+        {
+            "altitude": 701.5,
+            "country": "Norway",
+            "iceV_max": 23057.7,
+            "latitude": 69.5,
+            "longitude": 21.5,
+            "survival_days": 562.5
+        },
+        {
+            "altitude": 1009.77,
+            "country": "Norway",
+            "iceV_max": 31301.8,
+            "latitude": 61.5,
+            "longitude": 9.5,
+            "survival_days": 622.1
+        },
+        {
+            "altitude": 796.84,
+            "country": "Norway",
+            "iceV_max": 35197.6,
+            "latitude": 61.5,
+            "longitude": 10.5,
+            "survival_days": 584.0
+        },
+        {
+            "altitude": 702.79,
+            "country": "Norway",
+            "iceV_max": 29520.8,
+            "latitude": 61.5,
+            "longitude": 11.5,
+            "survival_days": 576.1
+        },
+        {
+            "altitude": 1203.25,
+            "country": "Norway",
+            "iceV_max": 38122.0,
+            "latitude": 61.5,
+            "longitude": 8.5,
+            "survival_days": 606.1
+        },
+        {
+            "altitude": 433.1,
+            "country": "Norway",
+            "iceV_max": 14645.1,
+            "latitude": 63.5,
+            "longitude": 11.5,
+            "survival_days": 455.2
+        },
+        {
+            "altitude": 620.54,
+            "country": "Norway",
+            "iceV_max": 21533.1,
+            "latitude": 69.5,
+            "longitude": 22.5,
+            "survival_days": 537.1
+        },
+        {
+            "altitude": 761.81,
+            "country": "Norway",
+            "iceV_max": 33509.7,
+            "latitude": 60.5,
+            "longitude": 6.5,
+            "survival_days": 481.5
+        },
+        {
+            "altitude": 1024.41,
+            "country": "Norway",
+            "iceV_max": 18031.2,
+            "latitude": 60.5,
+            "longitude": 8.5,
+            "survival_days": 491.1
+        },
+        {
+            "altitude": 1126.48,
+            "country": "Norway",
+            "iceV_max": 65678.5,
+            "latitude": 61.5,
+            "longitude": 7.5,
+            "survival_days": 525.5
+        },
+        {
+            "altitude": 660.84,
+            "country": "Norway",
+            "iceV_max": 11731.4,
+            "latitude": 66.5,
+            "longitude": 14.5,
+            "survival_days": 173.5
+        },
+        {
+            "altitude": 221.99,
+            "country": "Norway",
+            "iceV_max": 15232.0,
+            "latitude": 78.5,
+            "longitude": 13.5,
+            "survival_days": 597.0
+        },
+        {
+            "altitude": 622.06,
+            "country": "Norway",
+            "iceV_max": 20113.3,
+            "latitude": 59.5,
+            "longitude": 8.5,
+            "survival_days": 482.7
+        },
+        {
+            "altitude": 725.73,
+            "country": "Norway",
+            "iceV_max": 24241.6,
+            "latitude": 68.5,
+            "longitude": 19.5,
+            "survival_days": 508.3
+        },
+        {
+            "altitude": 578.36,
+            "country": "Norway",
+            "iceV_max": 19589.7,
+            "latitude": 65.5,
+            "longitude": 13.5,
+            "survival_days": 515.2
+        },
+        {
+            "altitude": 793.47,
+            "country": "Norway",
+            "iceV_max": 44337.5,
+            "latitude": 61.5,
+            "longitude": 6.5,
+            "survival_days": 460.0
+        },
+        {
+            "altitude": 439.47,
+            "country": "Norway",
+            "iceV_max": 47875.7,
+            "latitude": 78.5,
+            "longitude": 17.5,
+            "survival_days": 446.7
+        },
+        {
+            "altitude": 922.81,
+            "country": "Norway",
+            "iceV_max": 13639.2,
+            "latitude": 62.5,
+            "longitude": 10.5,
+            "survival_days": 496.5
+        },
+        {
+            "altitude": 438.73,
+            "country": "Norway",
+            "iceV_max": 44663.9,
+            "latitude": 79.5,
+            "longitude": 17.5,
+            "survival_days": 542.9
+        },
+        {
+            "altitude": 620.04,
+            "country": "Norway",
+            "iceV_max": 21549.2,
+            "latitude": 62.5,
+            "longitude": 7.5,
+            "survival_days": 496.9
+        },
+        {
+            "altitude": 1019.21,
+            "country": "Norway",
+            "iceV_max": 27080.8,
+            "latitude": 62.5,
+            "longitude": 8.5,
+            "survival_days": 524.0
+        },
+        {
+            "altitude": 399.12,
+            "country": "Norway",
+            "iceV_max": 27537.7,
+            "latitude": 79.5,
+            "longitude": 12.5,
+            "survival_days": 531.8
+        },
+        {
+            "altitude": 576.79,
+            "country": "Norway",
+            "iceV_max": 32812.2,
+            "latitude": 69.5,
+            "longitude": 20.5,
+            "survival_days": 426.0
+        },
+        {
+            "altitude": 857.48,
+            "country": "Norway",
+            "iceV_max": 18318.5,
+            "latitude": 62.5,
+            "longitude": 11.5,
+            "survival_days": 576.8
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 708.9587878787879,
+        "average_iceV": 26630.4606060606,
+        "average_survival_days": 490.23636363636365,
+        "max_iceV": 65678.5,
+        "min_iceV": 6680.4,
+        "total_locations": 33
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "country": "Lebanon",
+    "location_results": [
+        {
+            "altitude": 586.0,
+            "country": "Lebanon",
+            "iceV_max": 0,
+            "latitude": 33.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 586.0,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 1
+    }
+}

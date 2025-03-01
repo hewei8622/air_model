@@ -1,0 +1,29 @@
+{
+    "country": "Croatia",
+    "location_results": [
+        {
+            "altitude": 538.84,
+            "country": "Croatia",
+            "iceV_max": 2518.6,
+            "latitude": 45.5,
+            "longitude": 14.5,
+            "survival_days": 203.5
+        },
+        {
+            "altitude": 547.44,
+            "country": "Croatia",
+            "iceV_max": 1212.2,
+            "latitude": 44.5,
+            "longitude": 15.5,
+            "survival_days": 185.7
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 543.1400000000001,
+        "average_iceV": 1865.4,
+        "average_survival_days": 194.6,
+        "max_iceV": 2518.6,
+        "min_iceV": 1212.2,
+        "total_locations": 2
+    }
+}

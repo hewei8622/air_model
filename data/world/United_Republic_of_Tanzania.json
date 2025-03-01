@@ -1,0 +1,133 @@
+{
+    "country": "United_Republic_of_Tanzania",
+    "location_results": [
+        {
+            "altitude": 1436.08,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -2.5,
+            "longitude": 30.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1233.39,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -2.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 987.83,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -6.5,
+            "longitude": 30.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 970.98,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -6.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1205.88,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -10.5,
+            "longitude": 34.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1007.19,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -3.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1349.38,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -9.5,
+            "longitude": 34.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 582.49,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -9.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1187.77,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -9.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 913.36,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -10.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1047.64,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -2.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1151.64,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -8.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1139.36,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -5.5,
+            "longitude": 30.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1022.45,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -7.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1396.63,
+            "country": "United_Republic_of_Tanzania",
+            "iceV_max": 0,
+            "latitude": -4.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1108.804666666667,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 15
+    }
+}

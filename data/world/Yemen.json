@@ -1,0 +1,133 @@
+{
+    "country": "Yemen",
+    "location_results": [
+        {
+            "altitude": 1356.01,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 17.5,
+            "longitude": 43.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1831.04,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": 44.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 853.21,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": 43.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1888.14,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 15.5,
+            "longitude": 44.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1065.18,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 13.5,
+            "longitude": 44.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 858.07,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 15.5,
+            "longitude": 50.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1727.89,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": 45.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 631.89,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 13.5,
+            "longitude": 43.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1238.13,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 15.5,
+            "longitude": 43.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1628.54,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 16.5,
+            "longitude": 44.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 671.03,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 13.5,
+            "longitude": 45.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 582.6,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": 48.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 888.25,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 16.5,
+            "longitude": 43.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1392.35,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": 46.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1051.25,
+            "country": "Yemen",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": 47.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1177.5720000000001,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 15
+    }
+}

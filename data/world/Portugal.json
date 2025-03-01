@@ -1,0 +1,37 @@
+{
+    "country": "Portugal",
+    "location_results": [
+        {
+            "altitude": 560.47,
+            "country": "Portugal",
+            "iceV_max": 1196.1,
+            "latitude": 41.5,
+            "longitude": -7.5,
+            "survival_days": 204.7
+        },
+        {
+            "altitude": 570.66,
+            "country": "Portugal",
+            "iceV_max": 0,
+            "latitude": 40.5,
+            "longitude": -7.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 643.87,
+            "country": "Portugal",
+            "iceV_max": 1223.3,
+            "latitude": 41.5,
+            "longitude": -6.5,
+            "survival_days": 180.0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 591.6666666666666,
+        "average_iceV": 806.4666666666666,
+        "average_survival_days": 128.23333333333332,
+        "max_iceV": 1223.3,
+        "min_iceV": 0,
+        "total_locations": 3
+    }
+}

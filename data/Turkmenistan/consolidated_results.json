@@ -1,26 +1,18 @@
-{
-    "location_results": [
-        {
-            "altitude": 297.4,
-            "iceV_max": 588.0,
-            "latitude": 37.5,
-            "longitude": 66.5,
-            "survival_days": 138.2
-        },
-        {
-            "altitude": 618.99,
-            "iceV_max": 1002.3,
-            "latitude": 38.5,
-            "longitude": 56.5,
-            "survival_days": 162.3
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 458.195,
-        "average_iceV": 795.15,
-        "average_survival_days": 150.25,
-        "max_iceV": 1002.3,
-        "min_iceV": 588.0,
-        "total_locations": 2
+[
+    {
+        "altitude": 618.99,
+        "country": "Turkmenistan",
+        "iceV_max": 3366.0,
+        "latitude": 38.5,
+        "longitude": 56.5,
+        "survival_days": 412.0
+    },
+    {
+        "altitude": 297.4,
+        "country": "Turkmenistan",
+        "iceV_max": 984.9,
+        "latitude": 37.5,
+        "longitude": 66.5,
+        "survival_days": 138.2
     }
-}
+]

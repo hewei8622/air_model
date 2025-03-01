@@ -1,0 +1,1130 @@
+{
+    "countries": [
+        "Saudi_Arabia",
+        "South_Sudan",
+        "Guyana",
+        "Papua_New_Guinea",
+        "Mozambique",
+        "Romania",
+        "Burundi",
+        "Iran",
+        "Colombia",
+        "Zambia",
+        "Ukraine",
+        "Madagascar",
+        "Argentina",
+        "North_Korea",
+        "Jordan",
+        "Democratic_Republic_of_the_Congo",
+        "Montenegro",
+        "Ethiopia",
+        "Syria",
+        "Austria",
+        "Sweden",
+        "Uzbekistan",
+        "Tajikistan",
+        "Lebanon",
+        "Oman",
+        "Chad",
+        "United_Kingdom",
+        "Algeria",
+        "France",
+        "Croatia",
+        "Albania",
+        "Hungary",
+        "Republic_of_Serbia",
+        "Sudan",
+        "Costa_Rica",
+        "Turkey",
+        "Kyrgyzstan",
+        "United_States_of_America",
+        "Greece",
+        "Niger",
+        "Pakistan",
+        "Gabon",
+        "Poland",
+        "Guatemala",
+        "Spain",
+        "Tunisia",
+        "Czechia",
+        "Myanmar",
+        "South_Korea",
+        "Brazil",
+        "Iceland",
+        "Turkmenistan",
+        "Bhutan",
+        "Philippines",
+        "Chile",
+        "Ecuador",
+        "Kosovo",
+        "Angola",
+        "Malawi",
+        "China",
+        "Nepal",
+        "Rwanda",
+        "Zimbabwe",
+        "Switzerland",
+        "Mongolia",
+        "New_Zealand",
+        "South_Africa",
+        "Eritrea",
+        "Venezuela",
+        "Armenia",
+        "Norway",
+        "Georgia",
+        "Uganda",
+        "Kenya",
+        "Iraq",
+        "Slovakia",
+        "North_Macedonia",
+        "Japan",
+        "Germany",
+        "Afghanistan",
+        "Republic_of_the_Congo",
+        "Slovenia",
+        "eSwatini",
+        "Namibia",
+        "Malaysia",
+        "Yemen",
+        "Peru",
+        "Portugal",
+        "Morocco",
+        "Bulgaria",
+        "Laos",
+        "Bolivia",
+        "Australia",
+        "Nigeria",
+        "Thailand",
+        "Azerbaijan",
+        "Lesotho",
+        "Nicaragua",
+        "Equatorial_Guinea",
+        "Kazakhstan",
+        "Bosnia_and_Herzegovina",
+        "United_Republic_of_Tanzania",
+        "Indonesia",
+        "Mexico",
+        "Italy",
+        "India",
+        "Canada",
+        "Guinea",
+        "Cameroon",
+        "Russia",
+        "Vietnam",
+        "Honduras"
+    ],
+    "country_stats": {
+        "Afghanistan": {
+            "average_altitude": 2183.6687804878056,
+            "average_iceV": 23469.93902439024,
+            "average_survival_days": 462.3682926829268,
+            "max_iceV": 146054.9,
+            "min_iceV": 1128.5,
+            "total_locations": 41
+        },
+        "Albania": {
+            "average_altitude": 885.47,
+            "average_iceV": 2803.9,
+            "average_survival_days": 270.3,
+            "max_iceV": 2803.9,
+            "min_iceV": 2803.9,
+            "total_locations": 1
+        },
+        "Algeria": {
+            "average_altitude": 837.6025000000002,
+            "average_iceV": 270.51,
+            "average_survival_days": 53.81,
+            "max_iceV": 1259.4,
+            "min_iceV": 0,
+            "total_locations": 20
+        },
+        "Angola": {
+            "average_altitude": 1012.8307142857144,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 14
+        },
+        "Argentina": {
+            "average_altitude": 1962.3712903225803,
+            "average_iceV": 7795.019354838708,
+            "average_survival_days": 305.9677419354838,
+            "max_iceV": 34619.0,
+            "min_iceV": 0,
+            "total_locations": 62
+        },
+        "Armenia": {
+            "average_altitude": 1783.69,
+            "average_iceV": 14360.15,
+            "average_survival_days": 505.0,
+            "max_iceV": 16169.4,
+            "min_iceV": 12550.9,
+            "total_locations": 2
+        },
+        "Australia": {
+            "average_altitude": 612.5547058823529,
+            "average_iceV": 368.4705882352941,
+            "average_survival_days": 72.05294117647058,
+            "max_iceV": 1599.2,
+            "min_iceV": 0,
+            "total_locations": 17
+        },
+        "Austria": {
+            "average_altitude": 1105.4183333333333,
+            "average_iceV": 15303.199999999999,
+            "average_survival_days": 522.2333333333332,
+            "max_iceV": 22328.0,
+            "min_iceV": 7978.3,
+            "total_locations": 6
+        },
+        "Azerbaijan": {
+            "average_altitude": 1160.8875,
+            "average_iceV": 8853.075,
+            "average_survival_days": 402.575,
+            "max_iceV": 16599.8,
+            "min_iceV": 1251.0,
+            "total_locations": 4
+        },
+        "Bhutan": {
+            "average_altitude": 3066.7233333333334,
+            "average_iceV": 24016.2,
+            "average_survival_days": 568.8666666666667,
+            "max_iceV": 30894.7,
+            "min_iceV": 12503.3,
+            "total_locations": 3
+        },
+        "Bolivia": {
+            "average_altitude": 2880.7491666666665,
+            "average_iceV": 3907.9305555555547,
+            "average_survival_days": 272.025,
+            "max_iceV": 12868.7,
+            "min_iceV": 0,
+            "total_locations": 36
+        },
+        "Bosnia_and_Herzegovina": {
+            "average_altitude": 700.128,
+            "average_iceV": 2894.3,
+            "average_survival_days": 286.6,
+            "max_iceV": 3256.3,
+            "min_iceV": 2031.0,
+            "total_locations": 5
+        },
+        "Brazil": {
+            "average_altitude": 704.4765116279067,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 43
+        },
+        "Bulgaria": {
+            "average_altitude": 663.8174999999999,
+            "average_iceV": 4345.1,
+            "average_survival_days": 398.775,
+            "max_iceV": 6700.0,
+            "min_iceV": 3294.5,
+            "total_locations": 4
+        },
+        "Burundi": {
+            "average_altitude": 1722.82,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 2
+        },
+        "Cameroon": {
+            "average_altitude": 880.668,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 5
+        },
+        "Canada": {
+            "average_altitude": 997.2057348703175,
+            "average_iceV": 84169.60979827085,
+            "average_survival_days": 468.15590778097993,
+            "max_iceV": 697569.2,
+            "min_iceV": 5838.5,
+            "total_locations": 347
+        },
+        "Chad": {
+            "average_altitude": 1099.6466666666668,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 6
+        },
+        "Chile": {
+            "average_altitude": 1823.7613333333336,
+            "average_iceV": 6509.175555555557,
+            "average_survival_days": 255.21555555555554,
+            "max_iceV": 18489.5,
+            "min_iceV": 0,
+            "total_locations": 45
+        },
+        "China": {
+            "average_altitude": 2800.4419449901775,
+            "average_iceV": 25618.880353634577,
+            "average_survival_days": 448.22848722986174,
+            "max_iceV": 164848.3,
+            "min_iceV": 0,
+            "total_locations": 509
+        },
+        "Colombia": {
+            "average_altitude": 1362.2266666666665,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 24
+        },
+        "Costa_Rica": {
+            "average_altitude": 867.39,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        },
+        "Croatia": {
+            "average_altitude": 543.1400000000001,
+            "average_iceV": 1865.4,
+            "average_survival_days": 194.6,
+            "max_iceV": 2518.6,
+            "min_iceV": 1212.2,
+            "total_locations": 2
+        },
+        "Czechia": {
+            "average_altitude": 482.275,
+            "average_iceV": 4308.5,
+            "average_survival_days": 289.54999999999995,
+            "max_iceV": 5834.4,
+            "min_iceV": 2782.6,
+            "total_locations": 2
+        },
+        "Democratic_Republic_of_the_Congo": {
+            "average_altitude": 1101.7286666666666,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 15
+        },
+        "Ecuador": {
+            "average_altitude": 1719.7066666666665,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 9
+        },
+        "Equatorial_Guinea": {
+            "average_altitude": 526.17,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        },
+        "Eritrea": {
+            "average_altitude": 827.4875,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 4
+        },
+        "Ethiopia": {
+            "average_altitude": 1577.1138775510206,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 49
+        },
+        "France": {
+            "average_altitude": 928.55,
+            "average_iceV": 9727.990909090908,
+            "average_survival_days": 287.8545454545454,
+            "max_iceV": 57378.2,
+            "min_iceV": 0,
+            "total_locations": 11
+        },
+        "Gabon": {
+            "average_altitude": 365.46,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        },
+        "Georgia": {
+            "average_altitude": 1343.0866666666664,
+            "average_iceV": 14152.266666666668,
+            "average_survival_days": 440.6666666666667,
+            "max_iceV": 30843.9,
+            "min_iceV": 2583.0,
+            "total_locations": 6
+        },
+        "Germany": {
+            "average_altitude": 1091.86,
+            "average_iceV": 15213.0,
+            "average_survival_days": 478.8,
+            "max_iceV": 15213.0,
+            "min_iceV": 15213.0,
+            "total_locations": 1
+        },
+        "Greece": {
+            "average_altitude": 701.835,
+            "average_iceV": 2349.875,
+            "average_survival_days": 291.175,
+            "max_iceV": 3352.5,
+            "min_iceV": 0,
+            "total_locations": 4
+        },
+        "Guatemala": {
+            "average_altitude": 1202.118,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 5
+        },
+        "Guinea": {
+            "average_altitude": 612.5799999999999,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 4
+        },
+        "Guyana": {
+            "average_altitude": 368.21,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        },
+        "Honduras": {
+            "average_altitude": 741.5233333333334,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 6
+        },
+        "Hungary": {
+            "average_altitude": 344.75,
+            "average_iceV": 5556.2,
+            "average_survival_days": 391.8,
+            "max_iceV": 5556.2,
+            "min_iceV": 5556.2,
+            "total_locations": 1
+        },
+        "Iceland": {
+            "average_altitude": 660.8783333333334,
+            "average_iceV": 6570.216666666667,
+            "average_survival_days": 282.34999999999997,
+            "max_iceV": 12535.2,
+            "min_iceV": 3699.0,
+            "total_locations": 6
+        },
+        "India": {
+            "average_altitude": 2366.4823529411765,
+            "average_iceV": 31846.435294117648,
+            "average_survival_days": 337.8117647058823,
+            "max_iceV": 110536.4,
+            "min_iceV": 0,
+            "total_locations": 34
+        },
+        "Indonesia": {
+            "average_altitude": 845.4868181818183,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 22
+        },
+        "Iran": {
+            "average_altitude": 1425.0945070422533,
+            "average_iceV": 2536.9028169014073,
+            "average_survival_days": 274.5492957746478,
+            "max_iceV": 11502.6,
+            "min_iceV": 0,
+            "total_locations": 71
+        },
+        "Iraq": {
+            "average_altitude": 942.0900000000001,
+            "average_iceV": 339.76666666666665,
+            "average_survival_days": 60.06666666666666,
+            "max_iceV": 1019.3,
+            "min_iceV": 0,
+            "total_locations": 3
+        },
+        "Italy": {
+            "average_altitude": 979.0849999999999,
+            "average_iceV": 15112.39166666667,
+            "average_survival_days": 397.9416666666666,
+            "max_iceV": 46935.9,
+            "min_iceV": 0,
+            "total_locations": 12
+        },
+        "Japan": {
+            "average_altitude": 677.9699999999999,
+            "average_iceV": 4449.966666666667,
+            "average_survival_days": 283.8833333333333,
+            "max_iceV": 13491.8,
+            "min_iceV": 5.2,
+            "total_locations": 6
+        },
+        "Jordan": {
+            "average_altitude": 628.22,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        },
+        "Kazakhstan": {
+            "average_altitude": 1122.3945833333335,
+            "average_iceV": 38798.0875,
+            "average_survival_days": 475.74999999999994,
+            "max_iceV": 124076.7,
+            "min_iceV": 2971.5,
+            "total_locations": 24
+        },
+        "Kenya": {
+            "average_altitude": 1415.302,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 10
+        },
+        "Kosovo": {
+            "average_altitude": 917.8599999999999,
+            "average_iceV": 2527.85,
+            "average_survival_days": 407.5,
+            "max_iceV": 3391.2,
+            "min_iceV": 1664.5,
+            "total_locations": 2
+        },
+        "Kyrgyzstan": {
+            "average_altitude": 2561.7495652173907,
+            "average_iceV": 52444.97391304348,
+            "average_survival_days": 584.091304347826,
+            "max_iceV": 92886.9,
+            "min_iceV": 6560.6,
+            "total_locations": 23
+        },
+        "Laos": {
+            "average_altitude": 807.2650000000002,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 12
+        },
+        "Lebanon": {
+            "average_altitude": 586.0,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        },
+        "Lesotho": {
+            "average_altitude": 2137.17,
+            "average_iceV": 2562.65,
+            "average_survival_days": 401.2,
+            "max_iceV": 2904.0,
+            "min_iceV": 2221.3,
+            "total_locations": 2
+        },
+        "Madagascar": {
+            "average_altitude": 832.9179999999999,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 20
+        },
+        "Malawi": {
+            "average_altitude": 1014.4200000000001,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 3
+        },
+        "Malaysia": {
+            "average_altitude": 607.0285714285714,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 7
+        },
+        "Mexico": {
+            "average_altitude": 1394.0974999999999,
+            "average_iceV": 211.96625,
+            "average_survival_days": 69.0875,
+            "max_iceV": 3771.7,
+            "min_iceV": 0,
+            "total_locations": 80
+        },
+        "Mongolia": {
+            "average_altitude": 1859.313287671234,
+            "average_iceV": 59018.243835616435,
+            "average_survival_days": 500.10684931506876,
+            "max_iceV": 172995.2,
+            "min_iceV": 20785.0,
+            "total_locations": 73
+        },
+        "Montenegro": {
+            "average_altitude": 1020.7,
+            "average_iceV": 7984.7,
+            "average_survival_days": 478.0,
+            "max_iceV": 7984.7,
+            "min_iceV": 7984.7,
+            "total_locations": 1
+        },
+        "Morocco": {
+            "average_altitude": 1260.5493749999998,
+            "average_iceV": 1316.25,
+            "average_survival_days": 208.30624999999998,
+            "max_iceV": 7899.5,
+            "min_iceV": 0,
+            "total_locations": 16
+        },
+        "Mozambique": {
+            "average_altitude": 785.6316666666665,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 6
+        },
+        "Myanmar": {
+            "average_altitude": 988.6642857142858,
+            "average_iceV": 1194.0214285714285,
+            "average_survival_days": 50.80357142857143,
+            "max_iceV": 14246.9,
+            "min_iceV": 0,
+            "total_locations": 28
+        },
+        "Namibia": {
+            "average_altitude": 1055.8625000000002,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 12
+        },
+        "Nepal": {
+            "average_altitude": 2676.9533333333334,
+            "average_iceV": 21234.555555555555,
+            "average_survival_days": 506.55555555555554,
+            "max_iceV": 53094.4,
+            "min_iceV": 0,
+            "total_locations": 9
+        },
+        "New_Zealand": {
+            "average_altitude": 669.5400000000001,
+            "average_iceV": 2231.730769230769,
+            "average_survival_days": 199.30769230769232,
+            "max_iceV": 5759.9,
+            "min_iceV": 0,
+            "total_locations": 13
+        },
+        "Nicaragua": {
+            "average_altitude": 606.745,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 2
+        },
+        "Niger": {
+            "average_altitude": 772.48,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        },
+        "Nigeria": {
+            "average_altitude": 618.175,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 2
+        },
+        "North_Korea": {
+            "average_altitude": 800.1114285714286,
+            "average_iceV": 16833.528571428575,
+            "average_survival_days": 440.59999999999997,
+            "max_iceV": 28940.5,
+            "min_iceV": 6889.8,
+            "total_locations": 7
+        },
+        "North_Macedonia": {
+            "average_altitude": 761.2666666666668,
+            "average_iceV": 3404.866666666667,
+            "average_survival_days": 573.5333333333334,
+            "max_iceV": 3780.1,
+            "min_iceV": 2835.1,
+            "total_locations": 3
+        },
+        "Norway": {
+            "average_altitude": 708.9587878787879,
+            "average_iceV": 26630.4606060606,
+            "average_survival_days": 490.23636363636365,
+            "max_iceV": 65678.5,
+            "min_iceV": 6680.4,
+            "total_locations": 33
+        },
+        "Oman": {
+            "average_altitude": 557.265,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 2
+        },
+        "Pakistan": {
+            "average_altitude": 2131.6148387096773,
+            "average_iceV": 51575.52580645161,
+            "average_survival_days": 326.50000000000006,
+            "max_iceV": 235355.0,
+            "min_iceV": 0,
+            "total_locations": 31
+        },
+        "Papua_New_Guinea": {
+            "average_altitude": 1177.2283333333332,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 12
+        },
+        "Peru": {
+            "average_altitude": 2609.8748148148156,
+            "average_iceV": 4117.099999999999,
+            "average_survival_days": 154.37037037037038,
+            "max_iceV": 28160.4,
+            "min_iceV": 0,
+            "total_locations": 54
+        },
+        "Philippines": {
+            "average_altitude": 382.13,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 2
+        },
+        "Poland": {
+            "average_altitude": 552.0625,
+            "average_iceV": 5652.299999999999,
+            "average_survival_days": 305.075,
+            "max_iceV": 9872.1,
+            "min_iceV": 1996.0,
+            "total_locations": 4
+        },
+        "Portugal": {
+            "average_altitude": 591.6666666666666,
+            "average_iceV": 806.4666666666666,
+            "average_survival_days": 128.23333333333332,
+            "max_iceV": 1223.3,
+            "min_iceV": 0,
+            "total_locations": 3
+        },
+        "Republic_of_Serbia": {
+            "average_altitude": 737.434,
+            "average_iceV": 2802.1799999999994,
+            "average_survival_days": 261.38,
+            "max_iceV": 4089.5,
+            "min_iceV": 2313.5,
+            "total_locations": 5
+        },
+        "Republic_of_the_Congo": {
+            "average_altitude": 632.4,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        },
+        "Romania": {
+            "average_altitude": 785.9825,
+            "average_iceV": 8117.95,
+            "average_survival_days": 342.7916666666667,
+            "max_iceV": 17185.4,
+            "min_iceV": 2889.3,
+            "total_locations": 12
+        },
+        "Russia": {
+            "average_altitude": 822.1370165745857,
+            "average_iceV": 83504.36878453035,
+            "average_survival_days": 419.8390883977903,
+            "max_iceV": 795492.3,
+            "min_iceV": 5.2,
+            "total_locations": 724
+        },
+        "Rwanda": {
+            "average_altitude": 1722.29,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 3
+        },
+        "Saudi_Arabia": {
+            "average_altitude": 819.1907142857143,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 14
+        },
+        "Slovakia": {
+            "average_altitude": 464.69,
+            "average_iceV": 7185.0,
+            "average_survival_days": 394.5,
+            "max_iceV": 7185.0,
+            "min_iceV": 7185.0,
+            "total_locations": 1
+        },
+        "Slovenia": {
+            "average_altitude": 550.11,
+            "average_iceV": 3417.5,
+            "average_survival_days": 180.6,
+            "max_iceV": 3417.5,
+            "min_iceV": 3417.5,
+            "total_locations": 1
+        },
+        "South_Africa": {
+            "average_altitude": 1110.5940624999998,
+            "average_iceV": 144.159375,
+            "average_survival_days": 25.2625,
+            "max_iceV": 2840.2,
+            "min_iceV": 0,
+            "total_locations": 32
+        },
+        "South_Korea": {
+            "average_altitude": 404.95,
+            "average_iceV": 4979.9,
+            "average_survival_days": 371.5,
+            "max_iceV": 4979.9,
+            "min_iceV": 4979.9,
+            "total_locations": 1
+        },
+        "South_Sudan": {
+            "average_altitude": 725.44,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        },
+        "Spain": {
+            "average_altitude": 882.6315789473684,
+            "average_iceV": 1679.442105263158,
+            "average_survival_days": 227.58947368421047,
+            "max_iceV": 10859.8,
+            "min_iceV": 0,
+            "total_locations": 19
+        },
+        "Sudan": {
+            "average_altitude": 366.43,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 2
+        },
+        "Sweden": {
+            "average_altitude": 662.9805,
+            "average_iceV": 23484.32,
+            "average_survival_days": 531.655,
+            "max_iceV": 49437.1,
+            "min_iceV": 10744.6,
+            "total_locations": 20
+        },
+        "Switzerland": {
+            "average_altitude": 1255.8185714285714,
+            "average_iceV": 17921.742857142857,
+            "average_survival_days": 403.4142857142857,
+            "max_iceV": 41278.2,
+            "min_iceV": 2760.8,
+            "total_locations": 7
+        },
+        "Syria": {
+            "average_altitude": 637.13,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        },
+        "Tajikistan": {
+            "average_altitude": 3245.3966666666665,
+            "average_iceV": 69135.44666666667,
+            "average_survival_days": 554.9133333333333,
+            "max_iceV": 134364.0,
+            "min_iceV": 1272.8,
+            "total_locations": 15
+        },
+        "Thailand": {
+            "average_altitude": 562.72875,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 8
+        },
+        "Tunisia": {
+            "average_altitude": 890.44,
+            "average_iceV": 747.9,
+            "average_survival_days": 192.6,
+            "max_iceV": 747.9,
+            "min_iceV": 747.9,
+            "total_locations": 1
+        },
+        "Turkey": {
+            "average_altitude": 1334.7559677419354,
+            "average_iceV": 5998.991935483874,
+            "average_survival_days": 298.991935483871,
+            "max_iceV": 21483.7,
+            "min_iceV": 0,
+            "total_locations": 62
+        },
+        "Turkmenistan": {
+            "average_altitude": 458.195,
+            "average_iceV": 2175.45,
+            "average_survival_days": 275.1,
+            "max_iceV": 3366.0,
+            "min_iceV": 984.9,
+            "total_locations": 2
+        },
+        "Uganda": {
+            "average_altitude": 1299.32,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        },
+        "Ukraine": {
+            "average_altitude": 762.715,
+            "average_iceV": 10830.599999999999,
+            "average_survival_days": 294.45,
+            "max_iceV": 16141.8,
+            "min_iceV": 5519.4,
+            "total_locations": 2
+        },
+        "United_Kingdom": {
+            "average_altitude": 343.74,
+            "average_iceV": 606.6,
+            "average_survival_days": 152.4,
+            "max_iceV": 606.6,
+            "min_iceV": 606.6,
+            "total_locations": 1
+        },
+        "United_Republic_of_Tanzania": {
+            "average_altitude": 1108.804666666667,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 15
+        },
+        "United_States_of_America": {
+            "average_altitude": 1261.8105047318609,
+            "average_iceV": 27505.51608832807,
+            "average_survival_days": 421.32618296529955,
+            "max_iceV": 301876.1,
+            "min_iceV": 0,
+            "total_locations": 317
+        },
+        "Uzbekistan": {
+            "average_altitude": 1346.81,
+            "average_iceV": 13493.724999999999,
+            "average_survival_days": 469.27500000000003,
+            "max_iceV": 28434.8,
+            "min_iceV": 6790.6,
+            "total_locations": 4
+        },
+        "Venezuela": {
+            "average_altitude": 675.8692857142858,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 14
+        },
+        "Vietnam": {
+            "average_altitude": 644.4383333333334,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 12
+        },
+        "Yemen": {
+            "average_altitude": 1177.5720000000001,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 15
+        },
+        "Zambia": {
+            "average_altitude": 974.775,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 2
+        },
+        "Zimbabwe": {
+            "average_altitude": 1072.4375,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 4
+        },
+        "eSwatini": {
+            "average_altitude": 738.94,
+            "average_iceV": 0.0,
+            "average_survival_days": 0.0,
+            "max_iceV": 0,
+            "min_iceV": 0,
+            "total_locations": 1
+        }
+    },
+    "locations_by_country": {
+        "Afghanistan": 41,
+        "Albania": 1,
+        "Algeria": 20,
+        "Angola": 14,
+        "Argentina": 62,
+        "Armenia": 2,
+        "Australia": 17,
+        "Austria": 6,
+        "Azerbaijan": 4,
+        "Bhutan": 3,
+        "Bolivia": 36,
+        "Bosnia_and_Herzegovina": 5,
+        "Brazil": 43,
+        "Bulgaria": 4,
+        "Burundi": 2,
+        "Cameroon": 5,
+        "Canada": 347,
+        "Chad": 6,
+        "Chile": 45,
+        "China": 509,
+        "Colombia": 24,
+        "Costa_Rica": 1,
+        "Croatia": 2,
+        "Czechia": 2,
+        "Democratic_Republic_of_the_Congo": 15,
+        "Ecuador": 9,
+        "Equatorial_Guinea": 1,
+        "Eritrea": 4,
+        "Ethiopia": 49,
+        "France": 11,
+        "Gabon": 1,
+        "Georgia": 6,
+        "Germany": 1,
+        "Greece": 4,
+        "Guatemala": 5,
+        "Guinea": 4,
+        "Guyana": 1,
+        "Honduras": 6,
+        "Hungary": 1,
+        "Iceland": 6,
+        "India": 34,
+        "Indonesia": 22,
+        "Iran": 71,
+        "Iraq": 3,
+        "Italy": 12,
+        "Japan": 6,
+        "Jordan": 1,
+        "Kazakhstan": 24,
+        "Kenya": 10,
+        "Kosovo": 2,
+        "Kyrgyzstan": 23,
+        "Laos": 12,
+        "Lebanon": 1,
+        "Lesotho": 2,
+        "Madagascar": 20,
+        "Malawi": 3,
+        "Malaysia": 7,
+        "Mexico": 80,
+        "Mongolia": 73,
+        "Montenegro": 1,
+        "Morocco": 16,
+        "Mozambique": 6,
+        "Myanmar": 28,
+        "Namibia": 12,
+        "Nepal": 9,
+        "New_Zealand": 13,
+        "Nicaragua": 2,
+        "Niger": 1,
+        "Nigeria": 2,
+        "North_Korea": 7,
+        "North_Macedonia": 3,
+        "Norway": 33,
+        "Oman": 2,
+        "Pakistan": 31,
+        "Papua_New_Guinea": 12,
+        "Peru": 54,
+        "Philippines": 2,
+        "Poland": 4,
+        "Portugal": 3,
+        "Republic_of_Serbia": 5,
+        "Republic_of_the_Congo": 1,
+        "Romania": 12,
+        "Russia": 724,
+        "Rwanda": 3,
+        "Saudi_Arabia": 14,
+        "Slovakia": 1,
+        "Slovenia": 1,
+        "South_Africa": 32,
+        "South_Korea": 1,
+        "South_Sudan": 1,
+        "Spain": 19,
+        "Sudan": 2,
+        "Sweden": 20,
+        "Switzerland": 7,
+        "Syria": 1,
+        "Tajikistan": 15,
+        "Thailand": 8,
+        "Tunisia": 1,
+        "Turkey": 62,
+        "Turkmenistan": 2,
+        "Uganda": 1,
+        "Ukraine": 2,
+        "United_Kingdom": 1,
+        "United_Republic_of_Tanzania": 15,
+        "United_States_of_America": 317,
+        "Uzbekistan": 4,
+        "Venezuela": 14,
+        "Vietnam": 12,
+        "Yemen": 15,
+        "Zambia": 2,
+        "Zimbabwe": 4,
+        "eSwatini": 1
+    },
+    "total_countries": 112,
+    "total_locations": 3292
+}

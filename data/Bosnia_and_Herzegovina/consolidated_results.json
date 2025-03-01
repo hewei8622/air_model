@@ -1,0 +1,42 @@
+[
+    {
+        "altitude": 765.04,
+        "country": "Bosnia_and_Herzegovina",
+        "iceV_max": 3128.6,
+        "latitude": 44.5,
+        "longitude": 16.5,
+        "survival_days": 202.4
+    },
+    {
+        "altitude": 764.27,
+        "country": "Bosnia_and_Herzegovina",
+        "iceV_max": 2031.0,
+        "latitude": 43.5,
+        "longitude": 17.5,
+        "survival_days": 226.4
+    },
+    {
+        "altitude": 591.07,
+        "country": "Bosnia_and_Herzegovina",
+        "iceV_max": 2980.5,
+        "latitude": 44.5,
+        "longitude": 17.5,
+        "survival_days": 206.6
+    },
+    {
+        "altitude": 988.76,
+        "country": "Bosnia_and_Herzegovina",
+        "iceV_max": 3256.3,
+        "latitude": 43.5,
+        "longitude": 18.5,
+        "survival_days": 613.1
+    },
+    {
+        "altitude": 391.5,
+        "country": "Bosnia_and_Herzegovina",
+        "iceV_max": 3075.1,
+        "latitude": 44.5,
+        "longitude": 18.5,
+        "survival_days": 184.5
+    }
+]

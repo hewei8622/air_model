@@ -1,0 +1,4085 @@
+{
+    "country": "China",
+    "location_results": [
+        {
+            "altitude": 1414.01,
+            "country": "China",
+            "iceV_max": 7675.5,
+            "latitude": 31.5,
+            "longitude": 109.5,
+            "survival_days": 526.5
+        },
+        {
+            "altitude": 2776.06,
+            "country": "China",
+            "iceV_max": 26447.2,
+            "latitude": 38.5,
+            "longitude": 92.5,
+            "survival_days": 616.9
+        },
+        {
+            "altitude": 2896.11,
+            "country": "China",
+            "iceV_max": 13119.7,
+            "latitude": 36.5,
+            "longitude": 94.5,
+            "survival_days": 564.5
+        },
+        {
+            "altitude": 5288.31,
+            "country": "China",
+            "iceV_max": 42017.9,
+            "latitude": 35.5,
+            "longitude": 78.5,
+            "survival_days": 499.8
+        },
+        {
+            "altitude": 5013.92,
+            "country": "China",
+            "iceV_max": 11105.8,
+            "latitude": 32.5,
+            "longitude": 86.5,
+            "survival_days": 628.4
+        },
+        {
+            "altitude": 4906.47,
+            "country": "China",
+            "iceV_max": 9231.2,
+            "latitude": 31.5,
+            "longitude": 87.5,
+            "survival_days": 681.4
+        },
+        {
+            "altitude": 5546.83,
+            "country": "China",
+            "iceV_max": 45698.5,
+            "latitude": 35.5,
+            "longitude": 81.5,
+            "survival_days": 325.3
+        },
+        {
+            "altitude": 439.02,
+            "country": "China",
+            "iceV_max": 60901.4,
+            "latitude": 45.5,
+            "longitude": 129.5,
+            "survival_days": 411.5
+        },
+        {
+            "altitude": 4233.98,
+            "country": "China",
+            "iceV_max": 69005.1,
+            "latitude": 30.5,
+            "longitude": 98.5,
+            "survival_days": 492.7
+        },
+        {
+            "altitude": 4035.97,
+            "country": "China",
+            "iceV_max": 43521.2,
+            "latitude": 38.5,
+            "longitude": 95.5,
+            "survival_days": 536.0
+        },
+        {
+            "altitude": 4218.85,
+            "country": "China",
+            "iceV_max": 34443.2,
+            "latitude": 37.5,
+            "longitude": 90.5,
+            "survival_days": 511.4
+        },
+        {
+            "altitude": 683.69,
+            "country": "China",
+            "iceV_max": 1003.7,
+            "latitude": 26.5,
+            "longitude": 109.5,
+            "survival_days": 146.2
+        },
+        {
+            "altitude": 1485.58,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4821.25,
+            "country": "China",
+            "iceV_max": 138553.8,
+            "latitude": 33.5,
+            "longitude": 79.5,
+            "survival_days": 622.3
+        },
+        {
+            "altitude": 4710.09,
+            "country": "China",
+            "iceV_max": 53954.2,
+            "latitude": 29.5,
+            "longitude": 93.5,
+            "survival_days": 617.3
+        },
+        {
+            "altitude": 3385.56,
+            "country": "China",
+            "iceV_max": 29920.5,
+            "latitude": 32.5,
+            "longitude": 103.5,
+            "survival_days": 599.2
+        },
+        {
+            "altitude": 4921.65,
+            "country": "China",
+            "iceV_max": 95135.8,
+            "latitude": 30.5,
+            "longitude": 80.5,
+            "survival_days": 569.2
+        },
+        {
+            "altitude": 4988.29,
+            "country": "China",
+            "iceV_max": 10808.5,
+            "latitude": 30.5,
+            "longitude": 89.5,
+            "survival_days": 540.3
+        },
+        {
+            "altitude": 4975.97,
+            "country": "China",
+            "iceV_max": 15771.4,
+            "latitude": 35.5,
+            "longitude": 89.5,
+            "survival_days": 714.5
+        },
+        {
+            "altitude": 5101.85,
+            "country": "China",
+            "iceV_max": 57893.8,
+            "latitude": 30.5,
+            "longitude": 81.5,
+            "survival_days": 596.3
+        },
+        {
+            "altitude": 851.81,
+            "country": "China",
+            "iceV_max": 44633.2,
+            "latitude": 49.5,
+            "longitude": 121.5,
+            "survival_days": 304.9
+        },
+        {
+            "altitude": 3272.12,
+            "country": "China",
+            "iceV_max": 53531.7,
+            "latitude": 39.5,
+            "longitude": 95.5,
+            "survival_days": 597.9
+        },
+        {
+            "altitude": 4382.34,
+            "country": "China",
+            "iceV_max": 34081.5,
+            "latitude": 35.5,
+            "longitude": 97.5,
+            "survival_days": 618.1
+        },
+        {
+            "altitude": 3607.11,
+            "country": "China",
+            "iceV_max": 32381.5,
+            "latitude": 37.5,
+            "longitude": 86.5,
+            "survival_days": 666.3
+        },
+        {
+            "altitude": 460.03,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 109.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4972.52,
+            "country": "China",
+            "iceV_max": 9345.6,
+            "latitude": 33.5,
+            "longitude": 83.5,
+            "survival_days": 732.0
+        },
+        {
+            "altitude": 4723.48,
+            "country": "China",
+            "iceV_max": 12621.9,
+            "latitude": 35.5,
+            "longitude": 92.5,
+            "survival_days": 495.3
+        },
+        {
+            "altitude": 4245.26,
+            "country": "China",
+            "iceV_max": 34151.6,
+            "latitude": 33.5,
+            "longitude": 100.5,
+            "survival_days": 623.0
+        },
+        {
+            "altitude": 1376.77,
+            "country": "China",
+            "iceV_max": 12976.4,
+            "latitude": 38.5,
+            "longitude": 111.5,
+            "survival_days": 429.3
+        },
+        {
+            "altitude": 1453.39,
+            "country": "China",
+            "iceV_max": 2682.9,
+            "latitude": 27.5,
+            "longitude": 105.5,
+            "survival_days": 200.8
+        },
+        {
+            "altitude": 3358.01,
+            "country": "China",
+            "iceV_max": 20385.3,
+            "latitude": 37.5,
+            "longitude": 95.5,
+            "survival_days": 649.0
+        },
+        {
+            "altitude": 3415.87,
+            "country": "China",
+            "iceV_max": 35005.7,
+            "latitude": 38.5,
+            "longitude": 94.5,
+            "survival_days": 652.0
+        },
+        {
+            "altitude": 1036.84,
+            "country": "China",
+            "iceV_max": 7757.0,
+            "latitude": 37.5,
+            "longitude": 110.5,
+            "survival_days": 390.4
+        },
+        {
+            "altitude": 3249.05,
+            "country": "China",
+            "iceV_max": 27258.6,
+            "latitude": 38.5,
+            "longitude": 90.5,
+            "survival_days": 671.4
+        },
+        {
+            "altitude": 536.57,
+            "country": "China",
+            "iceV_max": 37227.8,
+            "latitude": 52.5,
+            "longitude": 124.5,
+            "survival_days": 268.4
+        },
+        {
+            "altitude": 2415.89,
+            "country": "China",
+            "iceV_max": 13253.9,
+            "latitude": 36.5,
+            "longitude": 102.5,
+            "survival_days": 538.4
+        },
+        {
+            "altitude": 4150.18,
+            "country": "China",
+            "iceV_max": 58400.1,
+            "latitude": 31.5,
+            "longitude": 100.5,
+            "survival_days": 551.5
+        },
+        {
+            "altitude": 683.24,
+            "country": "China",
+            "iceV_max": 22769.3,
+            "latitude": 42.5,
+            "longitude": 127.5,
+            "survival_days": 416.5
+        },
+        {
+            "altitude": 3482.91,
+            "country": "China",
+            "iceV_max": 29428.2,
+            "latitude": 39.5,
+            "longitude": 96.5,
+            "survival_days": 416.1
+        },
+        {
+            "altitude": 4267.97,
+            "country": "China",
+            "iceV_max": 35726.7,
+            "latitude": 38.5,
+            "longitude": 97.5,
+            "survival_days": 543.6
+        },
+        {
+            "altitude": 1289.82,
+            "country": "China",
+            "iceV_max": 17345.0,
+            "latitude": 41.5,
+            "longitude": 116.5,
+            "survival_days": 425.8
+        },
+        {
+            "altitude": 438.96,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 118.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2270.5,
+            "country": "China",
+            "iceV_max": 59883.2,
+            "latitude": 43.5,
+            "longitude": 93.5,
+            "survival_days": 687.3
+        },
+        {
+            "altitude": 5409.05,
+            "country": "China",
+            "iceV_max": 19906.2,
+            "latitude": 34.5,
+            "longitude": 81.5,
+            "survival_days": 397.3
+        },
+        {
+            "altitude": 1003.13,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": 107.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1422.95,
+            "country": "China",
+            "iceV_max": 2924.5,
+            "latitude": 33.5,
+            "longitude": 107.5,
+            "survival_days": 253.2
+        },
+        {
+            "altitude": 1141.8,
+            "country": "China",
+            "iceV_max": 3015.5,
+            "latitude": 32.5,
+            "longitude": 107.5,
+            "survival_days": 454.5
+        },
+        {
+            "altitude": 1299.86,
+            "country": "China",
+            "iceV_max": 15230.5,
+            "latitude": 38.5,
+            "longitude": 112.5,
+            "survival_days": 446.0
+        },
+        {
+            "altitude": 4777.45,
+            "country": "China",
+            "iceV_max": 33054.0,
+            "latitude": 28.5,
+            "longitude": 85.5,
+            "survival_days": 677.2
+        },
+        {
+            "altitude": 1266.34,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 22.5,
+            "longitude": 99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2675.84,
+            "country": "China",
+            "iceV_max": 30688.0,
+            "latitude": 39.5,
+            "longitude": 94.5,
+            "survival_days": 510.9
+        },
+        {
+            "altitude": 3486.73,
+            "country": "China",
+            "iceV_max": 18462.0,
+            "latitude": 36.5,
+            "longitude": 99.5,
+            "survival_days": 645.3
+        },
+        {
+            "altitude": 5108.84,
+            "country": "China",
+            "iceV_max": 15774.8,
+            "latitude": 32.5,
+            "longitude": 87.5,
+            "survival_days": 443.4
+        },
+        {
+            "altitude": 4862.35,
+            "country": "China",
+            "iceV_max": 19188.1,
+            "latitude": 32.5,
+            "longitude": 89.5,
+            "survival_days": 572.7
+        },
+        {
+            "altitude": 4620.32,
+            "country": "China",
+            "iceV_max": 51077.2,
+            "latitude": 32.5,
+            "longitude": 95.5,
+            "survival_days": 636.3
+        },
+        {
+            "altitude": 5136.34,
+            "country": "China",
+            "iceV_max": 23043.0,
+            "latitude": 29.5,
+            "longitude": 86.5,
+            "survival_days": 484.4
+        },
+        {
+            "altitude": 4870.38,
+            "country": "China",
+            "iceV_max": 14822.8,
+            "latitude": 32.5,
+            "longitude": 90.5,
+            "survival_days": 393.5
+        },
+        {
+            "altitude": 4994.73,
+            "country": "China",
+            "iceV_max": 34920.3,
+            "latitude": 31.5,
+            "longitude": 80.5,
+            "survival_days": 583.8
+        },
+        {
+            "altitude": 461.21,
+            "country": "China",
+            "iceV_max": 915.7,
+            "latitude": 31.5,
+            "longitude": 106.5,
+            "survival_days": 152.2
+        },
+        {
+            "altitude": 3733.82,
+            "country": "China",
+            "iceV_max": 21288.2,
+            "latitude": 37.5,
+            "longitude": 100.5,
+            "survival_days": 706.3
+        },
+        {
+            "altitude": 1057.71,
+            "country": "China",
+            "iceV_max": 27860.6,
+            "latitude": 47.5,
+            "longitude": 120.5,
+            "survival_days": 550.3
+        },
+        {
+            "altitude": 506.27,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": 109.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 5144.42,
+            "country": "China",
+            "iceV_max": 18167.8,
+            "latitude": 33.5,
+            "longitude": 91.5,
+            "survival_days": 508.3
+        },
+        {
+            "altitude": 841.47,
+            "country": "China",
+            "iceV_max": 2238.4,
+            "latitude": 30.5,
+            "longitude": 110.5,
+            "survival_days": 218.3
+        },
+        {
+            "altitude": 4919.94,
+            "country": "China",
+            "iceV_max": 18828.2,
+            "latitude": 29.5,
+            "longitude": 87.5,
+            "survival_days": 666.4
+        },
+        {
+            "altitude": 1091.9,
+            "country": "China",
+            "iceV_max": 2029.4,
+            "latitude": 29.5,
+            "longitude": 103.5,
+            "survival_days": 600.2
+        },
+        {
+            "altitude": 712.92,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 29.5,
+            "longitude": 107.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 860.47,
+            "country": "China",
+            "iceV_max": 5529.7,
+            "latitude": 34.5,
+            "longitude": 107.5,
+            "survival_days": 434.9
+        },
+        {
+            "altitude": 3192.52,
+            "country": "China",
+            "iceV_max": 96766.7,
+            "latitude": 42.5,
+            "longitude": 82.5,
+            "survival_days": 637.8
+        },
+        {
+            "altitude": 4910.83,
+            "country": "China",
+            "iceV_max": 48678.7,
+            "latitude": 32.5,
+            "longitude": 79.5,
+            "survival_days": 653.5
+        },
+        {
+            "altitude": 4433.71,
+            "country": "China",
+            "iceV_max": 65411.3,
+            "latitude": 32.5,
+            "longitude": 97.5,
+            "survival_days": 512.5
+        },
+        {
+            "altitude": 1606.84,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 103.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2867.93,
+            "country": "China",
+            "iceV_max": 31821.5,
+            "latitude": 31.5,
+            "longitude": 103.5,
+            "survival_days": 581.3
+        },
+        {
+            "altitude": 684.09,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 108.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1271.24,
+            "country": "China",
+            "iceV_max": 11635.1,
+            "latitude": 39.5,
+            "longitude": 114.5,
+            "survival_days": 446.0
+        },
+        {
+            "altitude": 1130.43,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 105.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 946.94,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 21.5,
+            "longitude": 101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 5173.12,
+            "country": "China",
+            "iceV_max": 16577.5,
+            "latitude": 33.5,
+            "longitude": 90.5,
+            "survival_days": 507.3
+        },
+        {
+            "altitude": 4887.66,
+            "country": "China",
+            "iceV_max": 19124.0,
+            "latitude": 33.5,
+            "longitude": 92.5,
+            "survival_days": 498.6
+        },
+        {
+            "altitude": 1955.6,
+            "country": "China",
+            "iceV_max": 16583.2,
+            "latitude": 28.5,
+            "longitude": 103.5,
+            "survival_days": 504.1
+        },
+        {
+            "altitude": 1820.19,
+            "country": "China",
+            "iceV_max": 8500.9,
+            "latitude": 34.5,
+            "longitude": 105.5,
+            "survival_days": 455.6
+        },
+        {
+            "altitude": 802.78,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": 104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1232.46,
+            "country": "China",
+            "iceV_max": 6982.5,
+            "latitude": 35.5,
+            "longitude": 109.5,
+            "survival_days": 401.1
+        },
+        {
+            "altitude": 4498.11,
+            "country": "China",
+            "iceV_max": 31237.8,
+            "latitude": 37.5,
+            "longitude": 88.5,
+            "survival_days": 597.5
+        },
+        {
+            "altitude": 4901.7,
+            "country": "China",
+            "iceV_max": 13795.3,
+            "latitude": 35.5,
+            "longitude": 91.5,
+            "survival_days": 456.4
+        },
+        {
+            "altitude": 1257.41,
+            "country": "China",
+            "iceV_max": 5934.6,
+            "latitude": 35.5,
+            "longitude": 107.5,
+            "survival_days": 438.6
+        },
+        {
+            "altitude": 1273.14,
+            "country": "China",
+            "iceV_max": 37835.4,
+            "latitude": 43.5,
+            "longitude": 82.5,
+            "survival_days": 511.6
+        },
+        {
+            "altitude": 5030.8,
+            "country": "China",
+            "iceV_max": 20312.3,
+            "latitude": 32.5,
+            "longitude": 92.5,
+            "survival_days": 610.8
+        },
+        {
+            "altitude": 4876.53,
+            "country": "China",
+            "iceV_max": 29752.6,
+            "latitude": 29.5,
+            "longitude": 83.5,
+            "survival_days": 676.5
+        },
+        {
+            "altitude": 4778.68,
+            "country": "China",
+            "iceV_max": 12673.8,
+            "latitude": 31.5,
+            "longitude": 89.5,
+            "survival_days": 607.4
+        },
+        {
+            "altitude": 654.13,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 119.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4058.57,
+            "country": "China",
+            "iceV_max": 27275.9,
+            "latitude": 36.5,
+            "longitude": 92.5,
+            "survival_days": 626.0
+        },
+        {
+            "altitude": 3826.05,
+            "country": "China",
+            "iceV_max": 53553.6,
+            "latitude": 31.5,
+            "longitude": 101.5,
+            "survival_days": 654.2
+        },
+        {
+            "altitude": 972.29,
+            "country": "China",
+            "iceV_max": 19218.6,
+            "latitude": 41.5,
+            "longitude": 117.5,
+            "survival_days": 360.4
+        },
+        {
+            "altitude": 1930.07,
+            "country": "China",
+            "iceV_max": 14155.0,
+            "latitude": 37.5,
+            "longitude": 103.5,
+            "survival_days": 423.3
+        },
+        {
+            "altitude": 1197.39,
+            "country": "China",
+            "iceV_max": 2083.7,
+            "latitude": 30.5,
+            "longitude": 109.5,
+            "survival_days": 211.3
+        },
+        {
+            "altitude": 1549.22,
+            "country": "China",
+            "iceV_max": 35738.9,
+            "latitude": 45.5,
+            "longitude": 82.5,
+            "survival_days": 407.7
+        },
+        {
+            "altitude": 490.11,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": 107.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 5016.62,
+            "country": "China",
+            "iceV_max": 13994.6,
+            "latitude": 34.5,
+            "longitude": 89.5,
+            "survival_days": 538.4
+        },
+        {
+            "altitude": 3388.67,
+            "country": "China",
+            "iceV_max": 7866.5,
+            "latitude": 36.5,
+            "longitude": 100.5,
+            "survival_days": 650.1
+        },
+        {
+            "altitude": 757.24,
+            "country": "China",
+            "iceV_max": 51994.4,
+            "latitude": 49.5,
+            "longitude": 122.5,
+            "survival_days": 469.3
+        },
+        {
+            "altitude": 3320.72,
+            "country": "China",
+            "iceV_max": 83588.1,
+            "latitude": 42.5,
+            "longitude": 81.5,
+            "survival_days": 613.7
+        },
+        {
+            "altitude": 662.44,
+            "country": "China",
+            "iceV_max": 18372.0,
+            "latitude": 43.5,
+            "longitude": 128.5,
+            "survival_days": 401.3
+        },
+        {
+            "altitude": 2375.55,
+            "country": "China",
+            "iceV_max": 12287.2,
+            "latitude": 36.5,
+            "longitude": 80.5,
+            "survival_days": 590.9
+        },
+        {
+            "altitude": 1934.82,
+            "country": "China",
+            "iceV_max": 16710.5,
+            "latitude": 39.5,
+            "longitude": 75.5,
+            "survival_days": 470.8
+        },
+        {
+            "altitude": 624.42,
+            "country": "China",
+            "iceV_max": 40156.1,
+            "latitude": 50.5,
+            "longitude": 123.5,
+            "survival_days": 281.5
+        },
+        {
+            "altitude": 750.66,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 106.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 5038.76,
+            "country": "China",
+            "iceV_max": 15774.6,
+            "latitude": 35.5,
+            "longitude": 85.5,
+            "survival_days": 498.7
+        },
+        {
+            "altitude": 426.18,
+            "country": "China",
+            "iceV_max": 60208.7,
+            "latitude": 47.5,
+            "longitude": 129.5,
+            "survival_days": 459.9
+        },
+        {
+            "altitude": 3680.95,
+            "country": "China",
+            "iceV_max": 64810.5,
+            "latitude": 31.5,
+            "longitude": 102.5,
+            "survival_days": 701.5
+        },
+        {
+            "altitude": 1849.74,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 739.4,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 107.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4450.48,
+            "country": "China",
+            "iceV_max": 62998.0,
+            "latitude": 32.5,
+            "longitude": 96.5,
+            "survival_days": 660.4
+        },
+        {
+            "altitude": 912.61,
+            "country": "China",
+            "iceV_max": 5241.6,
+            "latitude": 34.5,
+            "longitude": 110.5,
+            "survival_days": 414.5
+        },
+        {
+            "altitude": 1496.19,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4726.06,
+            "country": "China",
+            "iceV_max": 110024.1,
+            "latitude": 30.5,
+            "longitude": 94.5,
+            "survival_days": 673.8
+        },
+        {
+            "altitude": 1508.85,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 836.71,
+            "country": "China",
+            "iceV_max": 45610.9,
+            "latitude": 50.5,
+            "longitude": 121.5,
+            "survival_days": 468.3
+        },
+        {
+            "altitude": 5475.57,
+            "country": "China",
+            "iceV_max": 38208.8,
+            "latitude": 34.5,
+            "longitude": 79.5,
+            "survival_days": 470.8
+        },
+        {
+            "altitude": 2690.24,
+            "country": "China",
+            "iceV_max": 19733.1,
+            "latitude": 28.5,
+            "longitude": 102.5,
+            "survival_days": 519.5
+        },
+        {
+            "altitude": 1279.03,
+            "country": "China",
+            "iceV_max": 2022.1,
+            "latitude": 33.5,
+            "longitude": 106.5,
+            "survival_days": 220.2
+        },
+        {
+            "altitude": 467.49,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 116.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 623.9,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 116.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2136.8,
+            "country": "China",
+            "iceV_max": 17661.8,
+            "latitude": 38.5,
+            "longitude": 76.5,
+            "survival_days": 529.8
+        },
+        {
+            "altitude": 1320.78,
+            "country": "China",
+            "iceV_max": 10475.7,
+            "latitude": 39.5,
+            "longitude": 111.5,
+            "survival_days": 411.4
+        },
+        {
+            "altitude": 3081.35,
+            "country": "China",
+            "iceV_max": 32670.8,
+            "latitude": 28.5,
+            "longitude": 101.5,
+            "survival_days": 566.7
+        },
+        {
+            "altitude": 2997.62,
+            "country": "China",
+            "iceV_max": 30037.2,
+            "latitude": 38.5,
+            "longitude": 88.5,
+            "survival_days": 660.5
+        },
+        {
+            "altitude": 4598.54,
+            "country": "China",
+            "iceV_max": 58089.1,
+            "latitude": 30.5,
+            "longitude": 97.5,
+            "survival_days": 485.3
+        },
+        {
+            "altitude": 941.9,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 105.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4638.89,
+            "country": "China",
+            "iceV_max": 39739.0,
+            "latitude": 29.5,
+            "longitude": 89.5,
+            "survival_days": 529.5
+        },
+        {
+            "altitude": 3714.37,
+            "country": "China",
+            "iceV_max": 30472.8,
+            "latitude": 37.5,
+            "longitude": 91.5,
+            "survival_days": 636.4
+        },
+        {
+            "altitude": 3387.63,
+            "country": "China",
+            "iceV_max": 116818.3,
+            "latitude": 43.5,
+            "longitude": 85.5,
+            "survival_days": 575.8
+        },
+        {
+            "altitude": 3956.8,
+            "country": "China",
+            "iceV_max": 29410.1,
+            "latitude": 28.5,
+            "longitude": 100.5,
+            "survival_days": 569.1
+        },
+        {
+            "altitude": 3278.36,
+            "country": "China",
+            "iceV_max": 64076.3,
+            "latitude": 39.5,
+            "longitude": 97.5,
+            "survival_days": 501.9
+        },
+        {
+            "altitude": 4917.8,
+            "country": "China",
+            "iceV_max": 45080.2,
+            "latitude": 32.5,
+            "longitude": 94.5,
+            "survival_days": 600.9
+        },
+        {
+            "altitude": 2818.32,
+            "country": "China",
+            "iceV_max": 9985.8,
+            "latitude": 36.5,
+            "longitude": 95.5,
+            "survival_days": 524.0
+        },
+        {
+            "altitude": 4131.51,
+            "country": "China",
+            "iceV_max": 40588.6,
+            "latitude": 38.5,
+            "longitude": 98.5,
+            "survival_days": 553.8
+        },
+        {
+            "altitude": 4940.53,
+            "country": "China",
+            "iceV_max": 19588.4,
+            "latitude": 36.5,
+            "longitude": 88.5,
+            "survival_days": 468.1
+        },
+        {
+            "altitude": 3811.64,
+            "country": "China",
+            "iceV_max": 59223.5,
+            "latitude": 30.5,
+            "longitude": 101.5,
+            "survival_days": 704.3
+        },
+        {
+            "altitude": 4558.45,
+            "country": "China",
+            "iceV_max": 21036.8,
+            "latitude": 36.5,
+            "longitude": 91.5,
+            "survival_days": 574.4
+        },
+        {
+            "altitude": 4533.61,
+            "country": "China",
+            "iceV_max": 30408.2,
+            "latitude": 33.5,
+            "longitude": 98.5,
+            "survival_days": 594.7
+        },
+        {
+            "altitude": 5166.91,
+            "country": "China",
+            "iceV_max": 12717.2,
+            "latitude": 30.5,
+            "longitude": 88.5,
+            "survival_days": 503.3
+        },
+        {
+            "altitude": 1395.25,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 716.2,
+            "country": "China",
+            "iceV_max": 37605.4,
+            "latitude": 51.5,
+            "longitude": 124.5,
+            "survival_days": 243.2
+        },
+        {
+            "altitude": 4430.56,
+            "country": "China",
+            "iceV_max": 44418.3,
+            "latitude": 31.5,
+            "longitude": 96.5,
+            "survival_days": 631.5
+        },
+        {
+            "altitude": 1818.57,
+            "country": "China",
+            "iceV_max": 743.9,
+            "latitude": 25.5,
+            "longitude": 104.5,
+            "survival_days": 153.5
+        },
+        {
+            "altitude": 4145.64,
+            "country": "China",
+            "iceV_max": 31804.1,
+            "latitude": 30.5,
+            "longitude": 100.5,
+            "survival_days": 513.5
+        },
+        {
+            "altitude": 2730.96,
+            "country": "China",
+            "iceV_max": 15491.1,
+            "latitude": 37.5,
+            "longitude": 93.5,
+            "survival_days": 557.2
+        },
+        {
+            "altitude": 1298.08,
+            "country": "China",
+            "iceV_max": 2667.0,
+            "latitude": 31.5,
+            "longitude": 110.5,
+            "survival_days": 232.4
+        },
+        {
+            "altitude": 762.36,
+            "country": "China",
+            "iceV_max": 5081.2,
+            "latitude": 33.5,
+            "longitude": 111.5,
+            "survival_days": 424.5
+        },
+        {
+            "altitude": 5028.42,
+            "country": "China",
+            "iceV_max": 12638.1,
+            "latitude": 35.5,
+            "longitude": 83.5,
+            "survival_days": 432.5
+        },
+        {
+            "altitude": 2047.76,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2885.55,
+            "country": "China",
+            "iceV_max": 62483.4,
+            "latitude": 43.5,
+            "longitude": 84.5,
+            "survival_days": 530.9
+        },
+        {
+            "altitude": 2656.88,
+            "country": "China",
+            "iceV_max": 9105.4,
+            "latitude": 26.5,
+            "longitude": 99.5,
+            "survival_days": 515.4
+        },
+        {
+            "altitude": 1386.97,
+            "country": "China",
+            "iceV_max": 6748.5,
+            "latitude": 36.5,
+            "longitude": 108.5,
+            "survival_days": 414.3
+        },
+        {
+            "altitude": 1317.52,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 22.5,
+            "longitude": 100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 616.86,
+            "country": "China",
+            "iceV_max": 24800.3,
+            "latitude": 42.5,
+            "longitude": 129.5,
+            "survival_days": 548.5
+        },
+        {
+            "altitude": 3444.29,
+            "country": "China",
+            "iceV_max": 28211.7,
+            "latitude": 35.5,
+            "longitude": 100.5,
+            "survival_days": 688.3
+        },
+        {
+            "altitude": 4977.29,
+            "country": "China",
+            "iceV_max": 25626.1,
+            "latitude": 28.5,
+            "longitude": 86.5,
+            "survival_days": 606.4
+        },
+        {
+            "altitude": 2905.89,
+            "country": "China",
+            "iceV_max": 19459.1,
+            "latitude": 38.5,
+            "longitude": 93.5,
+            "survival_days": 639.5
+        },
+        {
+            "altitude": 2147.97,
+            "country": "China",
+            "iceV_max": 1023.8,
+            "latitude": 26.5,
+            "longitude": 103.5,
+            "survival_days": 723.0
+        },
+        {
+            "altitude": 882.96,
+            "country": "China",
+            "iceV_max": 44149.9,
+            "latitude": 51.5,
+            "longitude": 121.5,
+            "survival_days": 589.5
+        },
+        {
+            "altitude": 5261.17,
+            "country": "China",
+            "iceV_max": 17546.9,
+            "latitude": 31.5,
+            "longitude": 81.5,
+            "survival_days": 622.8
+        },
+        {
+            "altitude": 2528.59,
+            "country": "China",
+            "iceV_max": 13613.1,
+            "latitude": 33.5,
+            "longitude": 104.5,
+            "survival_days": 541.7
+        },
+        {
+            "altitude": 4197.36,
+            "country": "China",
+            "iceV_max": 23557.1,
+            "latitude": 36.5,
+            "longitude": 83.5,
+            "survival_days": 681.9
+        },
+        {
+            "altitude": 4835.26,
+            "country": "China",
+            "iceV_max": 48892.6,
+            "latitude": 33.5,
+            "longitude": 80.5,
+            "survival_days": 618.3
+        },
+        {
+            "altitude": 5073.87,
+            "country": "China",
+            "iceV_max": 17456.0,
+            "latitude": 35.5,
+            "longitude": 86.5,
+            "survival_days": 490.0
+        },
+        {
+            "altitude": 4399.78,
+            "country": "China",
+            "iceV_max": 19204.1,
+            "latitude": 34.5,
+            "longitude": 98.5,
+            "survival_days": 544.2
+        },
+        {
+            "altitude": 2729.83,
+            "country": "China",
+            "iceV_max": 38924.0,
+            "latitude": 38.5,
+            "longitude": 100.5,
+            "survival_days": 657.1
+        },
+        {
+            "altitude": 2030.4,
+            "country": "China",
+            "iceV_max": 5457.9,
+            "latitude": 27.5,
+            "longitude": 103.5,
+            "survival_days": 567.3
+        },
+        {
+            "altitude": 5023.03,
+            "country": "China",
+            "iceV_max": 22962.3,
+            "latitude": 31.5,
+            "longitude": 84.5,
+            "survival_days": 509.5
+        },
+        {
+            "altitude": 1585.12,
+            "country": "China",
+            "iceV_max": 15012.9,
+            "latitude": 41.5,
+            "longitude": 80.5,
+            "survival_days": 449.6
+        },
+        {
+            "altitude": 4617.32,
+            "country": "China",
+            "iceV_max": 55640.3,
+            "latitude": 33.5,
+            "longitude": 96.5,
+            "survival_days": 627.4
+        },
+        {
+            "altitude": 1398.05,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1470.53,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 98.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 367.81,
+            "country": "China",
+            "iceV_max": 29046.7,
+            "latitude": 43.5,
+            "longitude": 126.5,
+            "survival_days": 374.4
+        },
+        {
+            "altitude": 5097.29,
+            "country": "China",
+            "iceV_max": 48807.0,
+            "latitude": 30.5,
+            "longitude": 92.5,
+            "survival_days": 495.3
+        },
+        {
+            "altitude": 3320.27,
+            "country": "China",
+            "iceV_max": 57821.1,
+            "latitude": 36.5,
+            "longitude": 79.5,
+            "survival_days": 685.0
+        },
+        {
+            "altitude": 2418.93,
+            "country": "China",
+            "iceV_max": 45498.9,
+            "latitude": 42.5,
+            "longitude": 86.5,
+            "survival_days": 654.0
+        },
+        {
+            "altitude": 4158.75,
+            "country": "China",
+            "iceV_max": 24003.5,
+            "latitude": 37.5,
+            "longitude": 89.5,
+            "survival_days": 521.5
+        },
+        {
+            "altitude": 1763.43,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 103.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 5032.78,
+            "country": "China",
+            "iceV_max": 12805.1,
+            "latitude": 34.5,
+            "longitude": 87.5,
+            "survival_days": 491.4
+        },
+        {
+            "altitude": 3727.18,
+            "country": "China",
+            "iceV_max": 24942.1,
+            "latitude": 32.5,
+            "longitude": 102.5,
+            "survival_days": 612.9
+        },
+        {
+            "altitude": 2099.07,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 586.8,
+            "country": "China",
+            "iceV_max": 29038.3,
+            "latitude": 46.5,
+            "longitude": 121.5,
+            "survival_days": 404.6
+        },
+        {
+            "altitude": 3717.05,
+            "country": "China",
+            "iceV_max": 99636.1,
+            "latitude": 38.5,
+            "longitude": 75.5,
+            "survival_days": 622.2
+        },
+        {
+            "altitude": 625.06,
+            "country": "China",
+            "iceV_max": 797.5,
+            "latitude": 31.5,
+            "longitude": 107.5,
+            "survival_days": 155.7
+        },
+        {
+            "altitude": 1544.16,
+            "country": "China",
+            "iceV_max": 27811.5,
+            "latitude": 43.5,
+            "longitude": 94.5,
+            "survival_days": 492.1
+        },
+        {
+            "altitude": 519.01,
+            "country": "China",
+            "iceV_max": 34808.7,
+            "latitude": 43.5,
+            "longitude": 127.5,
+            "survival_days": 389.8
+        },
+        {
+            "altitude": 4851.57,
+            "country": "China",
+            "iceV_max": 28117.3,
+            "latitude": 30.5,
+            "longitude": 96.5,
+            "survival_days": 634.4
+        },
+        {
+            "altitude": 4935.89,
+            "country": "China",
+            "iceV_max": 20200.2,
+            "latitude": 32.5,
+            "longitude": 91.5,
+            "survival_days": 472.4
+        },
+        {
+            "altitude": 1501.55,
+            "country": "China",
+            "iceV_max": 7040.4,
+            "latitude": 36.5,
+            "longitude": 107.5,
+            "survival_days": 423.3
+        },
+        {
+            "altitude": 340.76,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 117.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1937.44,
+            "country": "China",
+            "iceV_max": 1871.3,
+            "latitude": 26.5,
+            "longitude": 104.5,
+            "survival_days": 225.2
+        },
+        {
+            "altitude": 2926.15,
+            "country": "China",
+            "iceV_max": 19734.5,
+            "latitude": 35.5,
+            "longitude": 102.5,
+            "survival_days": 606.4
+        },
+        {
+            "altitude": 4638.13,
+            "country": "China",
+            "iceV_max": 25609.3,
+            "latitude": 34.5,
+            "longitude": 96.5,
+            "survival_days": 477.4
+        },
+        {
+            "altitude": 4655.25,
+            "country": "China",
+            "iceV_max": 74792.8,
+            "latitude": 31.5,
+            "longitude": 95.5,
+            "survival_days": 623.4
+        },
+        {
+            "altitude": 2161.71,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 103.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2432.9,
+            "country": "China",
+            "iceV_max": 14495.5,
+            "latitude": 35.5,
+            "longitude": 103.5,
+            "survival_days": 520.1
+        },
+        {
+            "altitude": 595.32,
+            "country": "China",
+            "iceV_max": 9019.1,
+            "latitude": 41.5,
+            "longitude": 119.5,
+            "survival_days": 356.5
+        },
+        {
+            "altitude": 1193.55,
+            "country": "China",
+            "iceV_max": 32850.4,
+            "latitude": 43.5,
+            "longitude": 117.5,
+            "survival_days": 433.2
+        },
+        {
+            "altitude": 3455.87,
+            "country": "China",
+            "iceV_max": 28987.3,
+            "latitude": 36.5,
+            "longitude": 93.5,
+            "survival_days": 697.3
+        },
+        {
+            "altitude": 1632.08,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 3269.4,
+            "country": "China",
+            "iceV_max": 29833.0,
+            "latitude": 36.5,
+            "longitude": 82.5,
+            "survival_days": 708.1
+        },
+        {
+            "altitude": 5026.45,
+            "country": "China",
+            "iceV_max": 16313.0,
+            "latitude": 31.5,
+            "longitude": 82.5,
+            "survival_days": 499.6
+        },
+        {
+            "altitude": 2571.79,
+            "country": "China",
+            "iceV_max": 4926.9,
+            "latitude": 27.5,
+            "longitude": 101.5,
+            "survival_days": 550.2
+        },
+        {
+            "altitude": 5311.95,
+            "country": "China",
+            "iceV_max": 16002.0,
+            "latitude": 34.5,
+            "longitude": 85.5,
+            "survival_days": 521.8
+        },
+        {
+            "altitude": 712.16,
+            "country": "China",
+            "iceV_max": 45613.8,
+            "latitude": 52.5,
+            "longitude": 123.5,
+            "survival_days": 446.9
+        },
+        {
+            "altitude": 757.12,
+            "country": "China",
+            "iceV_max": 28339.5,
+            "latitude": 47.5,
+            "longitude": 86.5,
+            "survival_days": 335.8
+        },
+        {
+            "altitude": 1583.29,
+            "country": "China",
+            "iceV_max": 39879.2,
+            "latitude": 46.5,
+            "longitude": 90.5,
+            "survival_days": 598.5
+        },
+        {
+            "altitude": 2136.16,
+            "country": "China",
+            "iceV_max": 52620.1,
+            "latitude": 44.5,
+            "longitude": 80.5,
+            "survival_days": 640.6
+        },
+        {
+            "altitude": 5004.31,
+            "country": "China",
+            "iceV_max": 11452.6,
+            "latitude": 33.5,
+            "longitude": 86.5,
+            "survival_days": 475.4
+        },
+        {
+            "altitude": 3095.15,
+            "country": "China",
+            "iceV_max": 15173.1,
+            "latitude": 27.5,
+            "longitude": 100.5,
+            "survival_days": 556.3
+        },
+        {
+            "altitude": 1483.36,
+            "country": "China",
+            "iceV_max": 15917.4,
+            "latitude": 41.5,
+            "longitude": 115.5,
+            "survival_days": 373.1
+        },
+        {
+            "altitude": 3767.26,
+            "country": "China",
+            "iceV_max": 30533.1,
+            "latitude": 34.5,
+            "longitude": 101.5,
+            "survival_days": 474.3
+        },
+        {
+            "altitude": 416.27,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": 110.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 5086.44,
+            "country": "China",
+            "iceV_max": 10578.2,
+            "latitude": 33.5,
+            "longitude": 85.5,
+            "survival_days": 496.4
+        },
+        {
+            "altitude": 5176.22,
+            "country": "China",
+            "iceV_max": 13789.9,
+            "latitude": 33.5,
+            "longitude": 82.5,
+            "survival_days": 697.4
+        },
+        {
+            "altitude": 3399.86,
+            "country": "China",
+            "iceV_max": 76241.1,
+            "latitude": 41.5,
+            "longitude": 78.5,
+            "survival_days": 620.0
+        },
+        {
+            "altitude": 4644.23,
+            "country": "China",
+            "iceV_max": 93076.2,
+            "latitude": 36.5,
+            "longitude": 76.5,
+            "survival_days": 603.6
+        },
+        {
+            "altitude": 3085.78,
+            "country": "China",
+            "iceV_max": 67830.3,
+            "latitude": 42.5,
+            "longitude": 84.5,
+            "survival_days": 510.5
+        },
+        {
+            "altitude": 2914.37,
+            "country": "China",
+            "iceV_max": 16912.1,
+            "latitude": 37.5,
+            "longitude": 94.5,
+            "survival_days": 408.5
+        },
+        {
+            "altitude": 4309.21,
+            "country": "China",
+            "iceV_max": 37301.3,
+            "latitude": 35.5,
+            "longitude": 98.5,
+            "survival_days": 614.3
+        },
+        {
+            "altitude": 688.59,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 108.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1253.52,
+            "country": "China",
+            "iceV_max": 7700.0,
+            "latitude": 36.5,
+            "longitude": 111.5,
+            "survival_days": 403.4
+        },
+        {
+            "altitude": 4693.28,
+            "country": "China",
+            "iceV_max": 41051.9,
+            "latitude": 29.5,
+            "longitude": 97.5,
+            "survival_days": 531.4
+        },
+        {
+            "altitude": 4743.59,
+            "country": "China",
+            "iceV_max": 20420.2,
+            "latitude": 28.5,
+            "longitude": 88.5,
+            "survival_days": 541.2
+        },
+        {
+            "altitude": 5035.31,
+            "country": "China",
+            "iceV_max": 20509.0,
+            "latitude": 32.5,
+            "longitude": 93.5,
+            "survival_days": 656.3
+        },
+        {
+            "altitude": 4389.29,
+            "country": "China",
+            "iceV_max": 54848.5,
+            "latitude": 37.5,
+            "longitude": 87.5,
+            "survival_days": 576.3
+        },
+        {
+            "altitude": 2072.36,
+            "country": "China",
+            "iceV_max": 98999.7,
+            "latitude": 48.5,
+            "longitude": 87.5,
+            "survival_days": 585.0
+        },
+        {
+            "altitude": 1794.75,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 525.95,
+            "country": "China",
+            "iceV_max": 1851.5,
+            "latitude": 29.5,
+            "longitude": 110.5,
+            "survival_days": 169.1
+        },
+        {
+            "altitude": 638.41,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": 105.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 5205.98,
+            "country": "China",
+            "iceV_max": 11165.2,
+            "latitude": 34.5,
+            "longitude": 83.5,
+            "survival_days": 536.2
+        },
+        {
+            "altitude": 704.56,
+            "country": "China",
+            "iceV_max": 25693.0,
+            "latitude": 45.5,
+            "longitude": 120.5,
+            "survival_days": 409.4
+        },
+        {
+            "altitude": 1009.66,
+            "country": "China",
+            "iceV_max": 5983.4,
+            "latitude": 35.5,
+            "longitude": 112.5,
+            "survival_days": 390.3
+        },
+        {
+            "altitude": 1598.14,
+            "country": "China",
+            "iceV_max": 29555.9,
+            "latitude": 43.5,
+            "longitude": 81.5,
+            "survival_days": 481.5
+        },
+        {
+            "altitude": 5147.17,
+            "country": "China",
+            "iceV_max": 19970.8,
+            "latitude": 31.5,
+            "longitude": 85.5,
+            "survival_days": 500.5
+        },
+        {
+            "altitude": 1947.88,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1104.69,
+            "country": "China",
+            "iceV_max": 10060.5,
+            "latitude": 40.5,
+            "longitude": 110.5,
+            "survival_days": 422.6
+        },
+        {
+            "altitude": 1439.77,
+            "country": "China",
+            "iceV_max": 7213.4,
+            "latitude": 37.5,
+            "longitude": 108.5,
+            "survival_days": 411.7
+        },
+        {
+            "altitude": 4214.78,
+            "country": "China",
+            "iceV_max": 62872.9,
+            "latitude": 36.5,
+            "longitude": 78.5,
+            "survival_days": 535.2
+        },
+        {
+            "altitude": 1738.97,
+            "country": "China",
+            "iceV_max": 46601.7,
+            "latitude": 44.5,
+            "longitude": 81.5,
+            "survival_days": 537.4
+        },
+        {
+            "altitude": 562.83,
+            "country": "China",
+            "iceV_max": 10429.3,
+            "latitude": 40.5,
+            "longitude": 116.5,
+            "survival_days": 396.1
+        },
+        {
+            "altitude": 2183.57,
+            "country": "China",
+            "iceV_max": 16441.9,
+            "latitude": 32.5,
+            "longitude": 104.5,
+            "survival_days": 559.3
+        },
+        {
+            "altitude": 1835.05,
+            "country": "China",
+            "iceV_max": 8441.5,
+            "latitude": 36.5,
+            "longitude": 104.5,
+            "survival_days": 463.5
+        },
+        {
+            "altitude": 4515.37,
+            "country": "China",
+            "iceV_max": 40628.7,
+            "latitude": 28.5,
+            "longitude": 92.5,
+            "survival_days": 651.3
+        },
+        {
+            "altitude": 4785.68,
+            "country": "China",
+            "iceV_max": 9489.4,
+            "latitude": 31.5,
+            "longitude": 88.5,
+            "survival_days": 671.5
+        },
+        {
+            "altitude": 328.42,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 107.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2968.28,
+            "country": "China",
+            "iceV_max": 21389.1,
+            "latitude": 37.5,
+            "longitude": 92.5,
+            "survival_days": 605.9
+        },
+        {
+            "altitude": 3094.56,
+            "country": "China",
+            "iceV_max": 20032.9,
+            "latitude": 27.5,
+            "longitude": 99.5,
+            "survival_days": 550.8
+        },
+        {
+            "altitude": 470.03,
+            "country": "China",
+            "iceV_max": 51208.0,
+            "latitude": 44.5,
+            "longitude": 129.5,
+            "survival_days": 399.5
+        },
+        {
+            "altitude": 4691.23,
+            "country": "China",
+            "iceV_max": 164848.3,
+            "latitude": 31.5,
+            "longitude": 94.5,
+            "survival_days": 482.3
+        },
+        {
+            "altitude": 4583.44,
+            "country": "China",
+            "iceV_max": 25202.2,
+            "latitude": 35.5,
+            "longitude": 95.5,
+            "survival_days": 552.3
+        },
+        {
+            "altitude": 2013.9,
+            "country": "China",
+            "iceV_max": 10938.2,
+            "latitude": 35.5,
+            "longitude": 105.5,
+            "survival_days": 442.2
+        },
+        {
+            "altitude": 659.61,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 23.5,
+            "longitude": 106.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1832.44,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4208.2,
+            "country": "China",
+            "iceV_max": 45487.3,
+            "latitude": 29.5,
+            "longitude": 98.5,
+            "survival_days": 540.6
+        },
+        {
+            "altitude": 3941.39,
+            "country": "China",
+            "iceV_max": 91527.7,
+            "latitude": 29.5,
+            "longitude": 95.5,
+            "survival_days": 588.1
+        },
+        {
+            "altitude": 2182.9,
+            "country": "China",
+            "iceV_max": 10949.0,
+            "latitude": 35.5,
+            "longitude": 104.5,
+            "survival_days": 452.9
+        },
+        {
+            "altitude": 3826.58,
+            "country": "China",
+            "iceV_max": 43785.3,
+            "latitude": 32.5,
+            "longitude": 101.5,
+            "survival_days": 500.3
+        },
+        {
+            "altitude": 1270.83,
+            "country": "China",
+            "iceV_max": 6488.4,
+            "latitude": 34.5,
+            "longitude": 106.5,
+            "survival_days": 490.5
+        },
+        {
+            "altitude": 4845.14,
+            "country": "China",
+            "iceV_max": 24402.4,
+            "latitude": 33.5,
+            "longitude": 95.5,
+            "survival_days": 616.3
+        },
+        {
+            "altitude": 4868.47,
+            "country": "China",
+            "iceV_max": 20393.6,
+            "latitude": 32.5,
+            "longitude": 81.5,
+            "survival_days": 713.5
+        },
+        {
+            "altitude": 5222.71,
+            "country": "China",
+            "iceV_max": 12600.3,
+            "latitude": 34.5,
+            "longitude": 86.5,
+            "survival_days": 441.7
+        },
+        {
+            "altitude": 5057.38,
+            "country": "China",
+            "iceV_max": 14649.0,
+            "latitude": 34.5,
+            "longitude": 90.5,
+            "survival_days": 508.3
+        },
+        {
+            "altitude": 4703.66,
+            "country": "China",
+            "iceV_max": 28923.8,
+            "latitude": 31.5,
+            "longitude": 92.5,
+            "survival_days": 577.5
+        },
+        {
+            "altitude": 4846.24,
+            "country": "China",
+            "iceV_max": 52409.7,
+            "latitude": 29.5,
+            "longitude": 92.5,
+            "survival_days": 518.2
+        },
+        {
+            "altitude": 1985.25,
+            "country": "China",
+            "iceV_max": 29665.4,
+            "latitude": 40.5,
+            "longitude": 78.5,
+            "survival_days": 467.1
+        },
+        {
+            "altitude": 4688.86,
+            "country": "China",
+            "iceV_max": 76933.0,
+            "latitude": 36.5,
+            "longitude": 77.5,
+            "survival_days": 588.4
+        },
+        {
+            "altitude": 762.05,
+            "country": "China",
+            "iceV_max": 2171.0,
+            "latitude": 29.5,
+            "longitude": 109.5,
+            "survival_days": 205.2
+        },
+        {
+            "altitude": 4431.88,
+            "country": "China",
+            "iceV_max": 96918.9,
+            "latitude": 29.5,
+            "longitude": 91.5,
+            "survival_days": 476.5
+        },
+        {
+            "altitude": 1117.92,
+            "country": "China",
+            "iceV_max": 26904.4,
+            "latitude": 44.5,
+            "longitude": 82.5,
+            "survival_days": 430.8
+        },
+        {
+            "altitude": 703.44,
+            "country": "China",
+            "iceV_max": 7049.8,
+            "latitude": 36.5,
+            "longitude": 113.5,
+            "survival_days": 399.0
+        },
+        {
+            "altitude": 1127.04,
+            "country": "China",
+            "iceV_max": 19259.9,
+            "latitude": 44.5,
+            "longitude": 118.5,
+            "survival_days": 405.8
+        },
+        {
+            "altitude": 3604.71,
+            "country": "China",
+            "iceV_max": 53020.2,
+            "latitude": 38.5,
+            "longitude": 99.5,
+            "survival_days": 643.3
+        },
+        {
+            "altitude": 3417.68,
+            "country": "China",
+            "iceV_max": 17691.6,
+            "latitude": 36.5,
+            "longitude": 98.5,
+            "survival_days": 675.4
+        },
+        {
+            "altitude": 1238.79,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 105.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4979.38,
+            "country": "China",
+            "iceV_max": 22438.8,
+            "latitude": 35.5,
+            "longitude": 90.5,
+            "survival_days": 481.8
+        },
+        {
+            "altitude": 2640.84,
+            "country": "China",
+            "iceV_max": 47190.1,
+            "latitude": 43.5,
+            "longitude": 86.5,
+            "survival_days": 509.1
+        },
+        {
+            "altitude": 3791.69,
+            "country": "China",
+            "iceV_max": 48720.9,
+            "latitude": 29.5,
+            "longitude": 101.5,
+            "survival_days": 592.2
+        },
+        {
+            "altitude": 3897.2,
+            "country": "China",
+            "iceV_max": 27979.4,
+            "latitude": 35.5,
+            "longitude": 99.5,
+            "survival_days": 536.5
+        },
+        {
+            "altitude": 3368.45,
+            "country": "China",
+            "iceV_max": 22299.0,
+            "latitude": 35.5,
+            "longitude": 101.5,
+            "survival_days": 701.3
+        },
+        {
+            "altitude": 4993.91,
+            "country": "China",
+            "iceV_max": 31829.1,
+            "latitude": 30.5,
+            "longitude": 91.5,
+            "survival_days": 505.3
+        },
+        {
+            "altitude": 822.09,
+            "country": "China",
+            "iceV_max": 15777.0,
+            "latitude": 41.5,
+            "longitude": 118.5,
+            "survival_days": 366.4
+        },
+        {
+            "altitude": 2711.24,
+            "country": "China",
+            "iceV_max": 36290.0,
+            "latitude": 40.5,
+            "longitude": 77.5,
+            "survival_days": 601.3
+        },
+        {
+            "altitude": 532.36,
+            "country": "China",
+            "iceV_max": 45151.5,
+            "latitude": 44.5,
+            "longitude": 130.5,
+            "survival_days": 403.4
+        },
+        {
+            "altitude": 516.34,
+            "country": "China",
+            "iceV_max": 4204.1,
+            "latitude": 35.5,
+            "longitude": 113.5,
+            "survival_days": 370.3
+        },
+        {
+            "altitude": 4610.51,
+            "country": "China",
+            "iceV_max": 13204.7,
+            "latitude": 35.5,
+            "longitude": 93.5,
+            "survival_days": 650.5
+        },
+        {
+            "altitude": 1339.81,
+            "country": "China",
+            "iceV_max": 10811.2,
+            "latitude": 39.5,
+            "longitude": 112.5,
+            "survival_days": 416.5
+        },
+        {
+            "altitude": 856.79,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 106.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 5018.84,
+            "country": "China",
+            "iceV_max": 17969.6,
+            "latitude": 35.5,
+            "longitude": 87.5,
+            "survival_days": 540.6
+        },
+        {
+            "altitude": 656.38,
+            "country": "China",
+            "iceV_max": 2357.5,
+            "latitude": 32.5,
+            "longitude": 110.5,
+            "survival_days": 176.5
+        },
+        {
+            "altitude": 4240.83,
+            "country": "China",
+            "iceV_max": 33080.1,
+            "latitude": 31.5,
+            "longitude": 98.5,
+            "survival_days": 616.3
+        },
+        {
+            "altitude": 4670.9,
+            "country": "China",
+            "iceV_max": 17139.5,
+            "latitude": 32.5,
+            "longitude": 83.5,
+            "survival_days": 502.3
+        },
+        {
+            "altitude": 3131.47,
+            "country": "China",
+            "iceV_max": 59990.4,
+            "latitude": 37.5,
+            "longitude": 76.5,
+            "survival_days": 489.2
+        },
+        {
+            "altitude": 1889.23,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 5548.06,
+            "country": "China",
+            "iceV_max": 32227.6,
+            "latitude": 35.5,
+            "longitude": 80.5,
+            "survival_days": 211.5
+        },
+        {
+            "altitude": 2993.05,
+            "country": "China",
+            "iceV_max": 33556.3,
+            "latitude": 37.5,
+            "longitude": 102.5,
+            "survival_days": 713.1
+        },
+        {
+            "altitude": 4348.01,
+            "country": "China",
+            "iceV_max": 68587.2,
+            "latitude": 32.5,
+            "longitude": 98.5,
+            "survival_days": 643.3
+        },
+        {
+            "altitude": 1181.35,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 22.5,
+            "longitude": 101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 789.16,
+            "country": "China",
+            "iceV_max": 34931.4,
+            "latitude": 47.5,
+            "longitude": 121.5,
+            "survival_days": 538.2
+        },
+        {
+            "altitude": 1149.21,
+            "country": "China",
+            "iceV_max": 7120.8,
+            "latitude": 37.5,
+            "longitude": 112.5,
+            "survival_days": 421.6
+        },
+        {
+            "altitude": 1067.69,
+            "country": "China",
+            "iceV_max": 7324.4,
+            "latitude": 37.5,
+            "longitude": 113.5,
+            "survival_days": 402.7
+        },
+        {
+            "altitude": 4630.67,
+            "country": "China",
+            "iceV_max": 27324.3,
+            "latitude": 34.5,
+            "longitude": 93.5,
+            "survival_days": 482.4
+        },
+        {
+            "altitude": 1098.08,
+            "country": "China",
+            "iceV_max": 6032.6,
+            "latitude": 33.5,
+            "longitude": 109.5,
+            "survival_days": 459.1
+        },
+        {
+            "altitude": 4319.9,
+            "country": "China",
+            "iceV_max": 45169.9,
+            "latitude": 32.5,
+            "longitude": 99.5,
+            "survival_days": 528.4
+        },
+        {
+            "altitude": 368.87,
+            "country": "China",
+            "iceV_max": 11637.9,
+            "latitude": 40.5,
+            "longitude": 119.5,
+            "survival_days": 355.5
+        },
+        {
+            "altitude": 1424.49,
+            "country": "China",
+            "iceV_max": 20020.7,
+            "latitude": 42.5,
+            "longitude": 117.5,
+            "survival_days": 446.8
+        },
+        {
+            "altitude": 2131.89,
+            "country": "China",
+            "iceV_max": 21315.8,
+            "latitude": 38.5,
+            "longitude": 101.5,
+            "survival_days": 436.7
+        },
+        {
+            "altitude": 879.89,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 107.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4846.85,
+            "country": "China",
+            "iceV_max": 16115.2,
+            "latitude": 31.5,
+            "longitude": 90.5,
+            "survival_days": 495.3
+        },
+        {
+            "altitude": 395.98,
+            "country": "China",
+            "iceV_max": 9299.7,
+            "latitude": 40.5,
+            "longitude": 117.5,
+            "survival_days": 379.5
+        },
+        {
+            "altitude": 1070.02,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 107.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1311.83,
+            "country": "China",
+            "iceV_max": 13132.0,
+            "latitude": 39.5,
+            "longitude": 113.5,
+            "survival_days": 407.8
+        },
+        {
+            "altitude": 602.0,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 109.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2245.99,
+            "country": "China",
+            "iceV_max": 51384.7,
+            "latitude": 43.5,
+            "longitude": 88.5,
+            "survival_days": 626.8
+        },
+        {
+            "altitude": 3938.13,
+            "country": "China",
+            "iceV_max": 29508.6,
+            "latitude": 37.5,
+            "longitude": 98.5,
+            "survival_days": 644.3
+        },
+        {
+            "altitude": 600.63,
+            "country": "China",
+            "iceV_max": 5663.4,
+            "latitude": 34.5,
+            "longitude": 111.5,
+            "survival_days": 401.8
+        },
+        {
+            "altitude": 5300.06,
+            "country": "China",
+            "iceV_max": 17556.3,
+            "latitude": 35.5,
+            "longitude": 82.5,
+            "survival_days": 516.5
+        },
+        {
+            "altitude": 432.42,
+            "country": "China",
+            "iceV_max": 19315.1,
+            "latitude": 41.5,
+            "longitude": 124.5,
+            "survival_days": 409.8
+        },
+        {
+            "altitude": 4269.19,
+            "country": "China",
+            "iceV_max": 63753.3,
+            "latitude": 30.5,
+            "longitude": 99.5,
+            "survival_days": 499.3
+        },
+        {
+            "altitude": 864.61,
+            "country": "China",
+            "iceV_max": 8116.1,
+            "latitude": 35.5,
+            "longitude": 111.5,
+            "survival_days": 405.8
+        },
+        {
+            "altitude": 4197.22,
+            "country": "China",
+            "iceV_max": 89044.4,
+            "latitude": 31.5,
+            "longitude": 99.5,
+            "survival_days": 490.4
+        },
+        {
+            "altitude": 1718.27,
+            "country": "China",
+            "iceV_max": 48818.5,
+            "latitude": 43.5,
+            "longitude": 83.5,
+            "survival_days": 700.7
+        },
+        {
+            "altitude": 4761.86,
+            "country": "China",
+            "iceV_max": 18344.0,
+            "latitude": 33.5,
+            "longitude": 93.5,
+            "survival_days": 497.7
+        },
+        {
+            "altitude": 4893.64,
+            "country": "China",
+            "iceV_max": 63811.8,
+            "latitude": 30.5,
+            "longitude": 93.5,
+            "survival_days": 515.8
+        },
+        {
+            "altitude": 4884.15,
+            "country": "China",
+            "iceV_max": 12915.6,
+            "latitude": 32.5,
+            "longitude": 84.5,
+            "survival_days": 627.3
+        },
+        {
+            "altitude": 940.82,
+            "country": "China",
+            "iceV_max": 34204.0,
+            "latitude": 51.5,
+            "longitude": 122.5,
+            "survival_days": 505.6
+        },
+        {
+            "altitude": 2023.46,
+            "country": "China",
+            "iceV_max": 12903.2,
+            "latitude": 36.5,
+            "longitude": 103.5,
+            "survival_days": 482.7
+        },
+        {
+            "altitude": 4006.55,
+            "country": "China",
+            "iceV_max": 54898.5,
+            "latitude": 29.5,
+            "longitude": 94.5,
+            "survival_days": 603.4
+        },
+        {
+            "altitude": 4044.9,
+            "country": "China",
+            "iceV_max": 24469.0,
+            "latitude": 34.5,
+            "longitude": 100.5,
+            "survival_days": 635.6
+        },
+        {
+            "altitude": 470.79,
+            "country": "China",
+            "iceV_max": 11305.8,
+            "latitude": 40.5,
+            "longitude": 118.5,
+            "survival_days": 367.4
+        },
+        {
+            "altitude": 807.75,
+            "country": "China",
+            "iceV_max": 870.0,
+            "latitude": 26.5,
+            "longitude": 108.5,
+            "survival_days": 136.8
+        },
+        {
+            "altitude": 2569.13,
+            "country": "China",
+            "iceV_max": 56650.2,
+            "latitude": 43.5,
+            "longitude": 89.5,
+            "survival_days": 686.3
+        },
+        {
+            "altitude": 5000.98,
+            "country": "China",
+            "iceV_max": 14336.3,
+            "latitude": 32.5,
+            "longitude": 88.5,
+            "survival_days": 619.4
+        },
+        {
+            "altitude": 3847.17,
+            "country": "China",
+            "iceV_max": 34530.4,
+            "latitude": 37.5,
+            "longitude": 97.5,
+            "survival_days": 658.4
+        },
+        {
+            "altitude": 1534.1,
+            "country": "China",
+            "iceV_max": 129305.2,
+            "latitude": 48.5,
+            "longitude": 86.5,
+            "survival_days": 535.2
+        },
+        {
+            "altitude": 4458.87,
+            "country": "China",
+            "iceV_max": 26477.2,
+            "latitude": 35.5,
+            "longitude": 96.5,
+            "survival_days": 513.9
+        },
+        {
+            "altitude": 867.04,
+            "country": "China",
+            "iceV_max": 24221.2,
+            "latitude": 51.5,
+            "longitude": 123.5,
+            "survival_days": 510.3
+        },
+        {
+            "altitude": 4691.88,
+            "country": "China",
+            "iceV_max": 22973.2,
+            "latitude": 36.5,
+            "longitude": 84.5,
+            "survival_days": 568.6
+        },
+        {
+            "altitude": 2171.92,
+            "country": "China",
+            "iceV_max": 5447.2,
+            "latitude": 27.5,
+            "longitude": 102.5,
+            "survival_days": 542.1
+        },
+        {
+            "altitude": 887.06,
+            "country": "China",
+            "iceV_max": 7270.2,
+            "latitude": 35.5,
+            "longitude": 110.5,
+            "survival_days": 398.6
+        },
+        {
+            "altitude": 3616.24,
+            "country": "China",
+            "iceV_max": 74979.1,
+            "latitude": 40.5,
+            "longitude": 75.5,
+            "survival_days": 559.9
+        },
+        {
+            "altitude": 1132.73,
+            "country": "China",
+            "iceV_max": 6680.0,
+            "latitude": 36.5,
+            "longitude": 112.5,
+            "survival_days": 402.7
+        },
+        {
+            "altitude": 1198.55,
+            "country": "China",
+            "iceV_max": 6681.8,
+            "latitude": 35.5,
+            "longitude": 108.5,
+            "survival_days": 427.5
+        },
+        {
+            "altitude": 1523.61,
+            "country": "China",
+            "iceV_max": 38407.2,
+            "latitude": 45.5,
+            "longitude": 83.5,
+            "survival_days": 388.8
+        },
+        {
+            "altitude": 5010.5,
+            "country": "China",
+            "iceV_max": 12938.4,
+            "latitude": 31.5,
+            "longitude": 86.5,
+            "survival_days": 549.4
+        },
+        {
+            "altitude": 1050.58,
+            "country": "China",
+            "iceV_max": 11476.6,
+            "latitude": 42.5,
+            "longitude": 118.5,
+            "survival_days": 452.2
+        },
+        {
+            "altitude": 4751.35,
+            "country": "China",
+            "iceV_max": 73368.2,
+            "latitude": 31.5,
+            "longitude": 93.5,
+            "survival_days": 613.1
+        },
+        {
+            "altitude": 4131.62,
+            "country": "China",
+            "iceV_max": 66233.9,
+            "latitude": 28.5,
+            "longitude": 98.5,
+            "survival_days": 566.3
+        },
+        {
+            "altitude": 5055.09,
+            "country": "China",
+            "iceV_max": 20107.5,
+            "latitude": 36.5,
+            "longitude": 86.5,
+            "survival_days": 459.8
+        },
+        {
+            "altitude": 4623.36,
+            "country": "China",
+            "iceV_max": 22079.8,
+            "latitude": 28.5,
+            "longitude": 87.5,
+            "survival_days": 616.5
+        },
+        {
+            "altitude": 1343.43,
+            "country": "China",
+            "iceV_max": 15296.8,
+            "latitude": 40.5,
+            "longitude": 112.5,
+            "survival_days": 369.7
+        },
+        {
+            "altitude": 2914.11,
+            "country": "China",
+            "iceV_max": 36395.8,
+            "latitude": 28.5,
+            "longitude": 96.5,
+            "survival_days": 564.4
+        },
+        {
+            "altitude": 5393.5,
+            "country": "China",
+            "iceV_max": 20369.9,
+            "latitude": 30.5,
+            "longitude": 83.5,
+            "survival_days": 647.5
+        },
+        {
+            "altitude": 478.64,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 117.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2771.96,
+            "country": "China",
+            "iceV_max": 54151.3,
+            "latitude": 42.5,
+            "longitude": 85.5,
+            "survival_days": 669.4
+        },
+        {
+            "altitude": 2636.32,
+            "country": "China",
+            "iceV_max": 26478.6,
+            "latitude": 29.5,
+            "longitude": 102.5,
+            "survival_days": 570.1
+        },
+        {
+            "altitude": 4869.26,
+            "country": "China",
+            "iceV_max": 22524.5,
+            "latitude": 36.5,
+            "longitude": 85.5,
+            "survival_days": 392.5
+        },
+        {
+            "altitude": 591.1,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 107.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4780.22,
+            "country": "China",
+            "iceV_max": 76999.8,
+            "latitude": 30.5,
+            "longitude": 95.5,
+            "survival_days": 522.2
+        },
+        {
+            "altitude": 1026.73,
+            "country": "China",
+            "iceV_max": 29816.3,
+            "latitude": 46.5,
+            "longitude": 85.5,
+            "survival_days": 386.4
+        },
+        {
+            "altitude": 5060.03,
+            "country": "China",
+            "iceV_max": 17706.8,
+            "latitude": 28.5,
+            "longitude": 89.5,
+            "survival_days": 570.5
+        },
+        {
+            "altitude": 1979.91,
+            "country": "China",
+            "iceV_max": 62281.6,
+            "latitude": 47.5,
+            "longitude": 89.5,
+            "survival_days": 398.2
+        },
+        {
+            "altitude": 4895.52,
+            "country": "China",
+            "iceV_max": 21143.3,
+            "latitude": 36.5,
+            "longitude": 89.5,
+            "survival_days": 545.8
+        },
+        {
+            "altitude": 3010.56,
+            "country": "China",
+            "iceV_max": 22743.5,
+            "latitude": 38.5,
+            "longitude": 91.5,
+            "survival_days": 689.4
+        },
+        {
+            "altitude": 3022.49,
+            "country": "China",
+            "iceV_max": 22303.6,
+            "latitude": 34.5,
+            "longitude": 103.5,
+            "survival_days": 515.5
+        },
+        {
+            "altitude": 4859.89,
+            "country": "China",
+            "iceV_max": 14292.5,
+            "latitude": 31.5,
+            "longitude": 83.5,
+            "survival_days": 556.5
+        },
+        {
+            "altitude": 4745.49,
+            "country": "China",
+            "iceV_max": 14516.9,
+            "latitude": 34.5,
+            "longitude": 92.5,
+            "survival_days": 514.7
+        },
+        {
+            "altitude": 5259.87,
+            "country": "China",
+            "iceV_max": 42717.9,
+            "latitude": 30.5,
+            "longitude": 82.5,
+            "survival_days": 605.5
+        },
+        {
+            "altitude": 4894.56,
+            "country": "China",
+            "iceV_max": 19854.8,
+            "latitude": 29.5,
+            "longitude": 84.5,
+            "survival_days": 677.3
+        },
+        {
+            "altitude": 930.68,
+            "country": "China",
+            "iceV_max": 37130.9,
+            "latitude": 48.5,
+            "longitude": 120.5,
+            "survival_days": 272.9
+        },
+        {
+            "altitude": 771.68,
+            "country": "China",
+            "iceV_max": 64424.1,
+            "latitude": 52.5,
+            "longitude": 121.5,
+            "survival_days": 500.2
+        },
+        {
+            "altitude": 671.49,
+            "country": "China",
+            "iceV_max": 34106.5,
+            "latitude": 43.5,
+            "longitude": 129.5,
+            "survival_days": 398.0
+        },
+        {
+            "altitude": 1935.77,
+            "country": "China",
+            "iceV_max": 51417.4,
+            "latitude": 43.5,
+            "longitude": 87.5,
+            "survival_days": 646.4
+        },
+        {
+            "altitude": 4565.91,
+            "country": "China",
+            "iceV_max": 109941.2,
+            "latitude": 29.5,
+            "longitude": 96.5,
+            "survival_days": 660.8
+        },
+        {
+            "altitude": 3766.98,
+            "country": "China",
+            "iceV_max": 22408.9,
+            "latitude": 37.5,
+            "longitude": 99.5,
+            "survival_days": 643.3
+        },
+        {
+            "altitude": 2775.15,
+            "country": "China",
+            "iceV_max": 30798.7,
+            "latitude": 30.5,
+            "longitude": 102.5,
+            "survival_days": 569.3
+        },
+        {
+            "altitude": 2149.92,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 510.11,
+            "country": "China",
+            "iceV_max": 50714.4,
+            "latitude": 44.5,
+            "longitude": 128.5,
+            "survival_days": 456.2
+        },
+        {
+            "altitude": 1740.2,
+            "country": "China",
+            "iceV_max": 9736.6,
+            "latitude": 36.5,
+            "longitude": 105.5,
+            "survival_days": 430.2
+        },
+        {
+            "altitude": 4866.57,
+            "country": "China",
+            "iceV_max": 19897.7,
+            "latitude": 34.5,
+            "longitude": 91.5,
+            "survival_days": 548.3
+        },
+        {
+            "altitude": 4715.51,
+            "country": "China",
+            "iceV_max": 96747.8,
+            "latitude": 31.5,
+            "longitude": 79.5,
+            "survival_days": 572.5
+        },
+        {
+            "altitude": 3870.21,
+            "country": "China",
+            "iceV_max": 84029.1,
+            "latitude": 28.5,
+            "longitude": 97.5,
+            "survival_days": 593.2
+        },
+        {
+            "altitude": 1738.98,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 99.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1224.25,
+            "country": "China",
+            "iceV_max": 7277.3,
+            "latitude": 37.5,
+            "longitude": 109.5,
+            "survival_days": 360.5
+        },
+        {
+            "altitude": 1140.56,
+            "country": "China",
+            "iceV_max": 5843.3,
+            "latitude": 36.5,
+            "longitude": 110.5,
+            "survival_days": 398.2
+        },
+        {
+            "altitude": 5302.34,
+            "country": "China",
+            "iceV_max": 14266.2,
+            "latitude": 34.5,
+            "longitude": 82.5,
+            "survival_days": 558.3
+        },
+        {
+            "altitude": 3506.44,
+            "country": "China",
+            "iceV_max": 29911.9,
+            "latitude": 34.5,
+            "longitude": 102.5,
+            "survival_days": 635.7
+        },
+        {
+            "altitude": 4195.31,
+            "country": "China",
+            "iceV_max": 25747.8,
+            "latitude": 29.5,
+            "longitude": 100.5,
+            "survival_days": 599.4
+        },
+        {
+            "altitude": 3772.19,
+            "country": "China",
+            "iceV_max": 48795.1,
+            "latitude": 37.5,
+            "longitude": 101.5,
+            "survival_days": 586.8
+        },
+        {
+            "altitude": 1601.29,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 105.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4915.55,
+            "country": "China",
+            "iceV_max": 21039.6,
+            "latitude": 36.5,
+            "longitude": 90.5,
+            "survival_days": 501.2
+        },
+        {
+            "altitude": 753.82,
+            "country": "China",
+            "iceV_max": 2030.6,
+            "latitude": 28.5,
+            "longitude": 108.5,
+            "survival_days": 379.4
+        },
+        {
+            "altitude": 2783.25,
+            "country": "China",
+            "iceV_max": 8832.6,
+            "latitude": 36.5,
+            "longitude": 96.5,
+            "survival_days": 501.6
+        },
+        {
+            "altitude": 4435.63,
+            "country": "China",
+            "iceV_max": 21537.1,
+            "latitude": 33.5,
+            "longitude": 99.5,
+            "survival_days": 458.5
+        },
+        {
+            "altitude": 4850.33,
+            "country": "China",
+            "iceV_max": 23391.4,
+            "latitude": 33.5,
+            "longitude": 94.5,
+            "survival_days": 479.3
+        },
+        {
+            "altitude": 905.38,
+            "country": "China",
+            "iceV_max": 41314.6,
+            "latitude": 48.5,
+            "longitude": 121.5,
+            "survival_days": 295.5
+        },
+        {
+            "altitude": 5036.9,
+            "country": "China",
+            "iceV_max": 40165.6,
+            "latitude": 28.5,
+            "longitude": 90.5,
+            "survival_days": 514.4
+        },
+        {
+            "altitude": 4761.42,
+            "country": "China",
+            "iceV_max": 62980.9,
+            "latitude": 32.5,
+            "longitude": 80.5,
+            "survival_days": 628.4
+        },
+        {
+            "altitude": 4330.11,
+            "country": "China",
+            "iceV_max": 19090.9,
+            "latitude": 34.5,
+            "longitude": 99.5,
+            "survival_days": 615.4
+        },
+        {
+            "altitude": 3056.43,
+            "country": "China",
+            "iceV_max": 74075.0,
+            "latitude": 42.5,
+            "longitude": 83.5,
+            "survival_days": 649.5
+        },
+        {
+            "altitude": 5072.26,
+            "country": "China",
+            "iceV_max": 17355.7,
+            "latitude": 36.5,
+            "longitude": 87.5,
+            "survival_days": 451.4
+        },
+        {
+            "altitude": 1181.09,
+            "country": "China",
+            "iceV_max": 1985.6,
+            "latitude": 32.5,
+            "longitude": 105.5,
+            "survival_days": 601.3
+        },
+        {
+            "altitude": 503.23,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 110.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2111.14,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 784.19,
+            "country": "China",
+            "iceV_max": 21619.3,
+            "latitude": 42.5,
+            "longitude": 128.5,
+            "survival_days": 431.7
+        },
+        {
+            "altitude": 5495.61,
+            "country": "China",
+            "iceV_max": 23062.1,
+            "latitude": 34.5,
+            "longitude": 80.5,
+            "survival_days": 540.0
+        },
+        {
+            "altitude": 2072.83,
+            "country": "China",
+            "iceV_max": 48633.2,
+            "latitude": 42.5,
+            "longitude": 87.5,
+            "survival_days": 718.5
+        },
+        {
+            "altitude": 884.7,
+            "country": "China",
+            "iceV_max": 5672.4,
+            "latitude": 33.5,
+            "longitude": 110.5,
+            "survival_days": 417.7
+        },
+        {
+            "altitude": 770.01,
+            "country": "China",
+            "iceV_max": 4002.7,
+            "latitude": 32.5,
+            "longitude": 109.5,
+            "survival_days": 448.0
+        },
+        {
+            "altitude": 533.65,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 112.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1619.73,
+            "country": "China",
+            "iceV_max": 9906.2,
+            "latitude": 36.5,
+            "longitude": 106.5,
+            "survival_days": 415.3
+        },
+        {
+            "altitude": 5148.98,
+            "country": "China",
+            "iceV_max": 16020.0,
+            "latitude": 34.5,
+            "longitude": 84.5,
+            "survival_days": 522.3
+        },
+        {
+            "altitude": 5226.54,
+            "country": "China",
+            "iceV_max": 20620.7,
+            "latitude": 30.5,
+            "longitude": 87.5,
+            "survival_days": 464.2
+        },
+        {
+            "altitude": 2945.09,
+            "country": "China",
+            "iceV_max": 14634.6,
+            "latitude": 36.5,
+            "longitude": 97.5,
+            "survival_days": 653.8
+        },
+        {
+            "altitude": 2000.3,
+            "country": "China",
+            "iceV_max": 40691.9,
+            "latitude": 43.5,
+            "longitude": 92.5,
+            "survival_days": 584.9
+        },
+        {
+            "altitude": 950.92,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 28.5,
+            "longitude": 106.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 647.24,
+            "country": "China",
+            "iceV_max": 33705.6,
+            "latitude": 44.5,
+            "longitude": 83.5,
+            "survival_days": 365.9
+        },
+        {
+            "altitude": 3882.95,
+            "country": "China",
+            "iceV_max": 32377.4,
+            "latitude": 33.5,
+            "longitude": 101.5,
+            "survival_days": 588.8
+        },
+        {
+            "altitude": 1302.33,
+            "country": "China",
+            "iceV_max": 4545.4,
+            "latitude": 33.5,
+            "longitude": 108.5,
+            "survival_days": 497.5
+        },
+        {
+            "altitude": 1149.94,
+            "country": "China",
+            "iceV_max": 31050.7,
+            "latitude": 46.5,
+            "longitude": 84.5,
+            "survival_days": 421.6
+        },
+        {
+            "altitude": 735.11,
+            "country": "China",
+            "iceV_max": 9897.6,
+            "latitude": 38.5,
+            "longitude": 113.5,
+            "survival_days": 418.1
+        },
+        {
+            "altitude": 1319.66,
+            "country": "China",
+            "iceV_max": 508.0,
+            "latitude": 26.5,
+            "longitude": 106.5,
+            "survival_days": 119.5
+        },
+        {
+            "altitude": 4166.67,
+            "country": "China",
+            "iceV_max": 33589.0,
+            "latitude": 28.5,
+            "longitude": 99.5,
+            "survival_days": 613.3
+        },
+        {
+            "altitude": 1861.88,
+            "country": "China",
+            "iceV_max": 13011.3,
+            "latitude": 38.5,
+            "longitude": 87.5,
+            "survival_days": 515.8
+        },
+        {
+            "altitude": 5109.05,
+            "country": "China",
+            "iceV_max": 11067.6,
+            "latitude": 30.5,
+            "longitude": 85.5,
+            "survival_days": 665.4
+        },
+        {
+            "altitude": 4505.93,
+            "country": "China",
+            "iceV_max": 64426.3,
+            "latitude": 29.5,
+            "longitude": 90.5,
+            "survival_days": 618.5
+        },
+        {
+            "altitude": 908.09,
+            "country": "China",
+            "iceV_max": 3189.3,
+            "latitude": 32.5,
+            "longitude": 108.5,
+            "survival_days": 432.0
+        },
+        {
+            "altitude": 4159.24,
+            "country": "China",
+            "iceV_max": 16970.0,
+            "latitude": 32.5,
+            "longitude": 100.5,
+            "survival_days": 667.1
+        },
+        {
+            "altitude": 4993.55,
+            "country": "China",
+            "iceV_max": 9039.5,
+            "latitude": 33.5,
+            "longitude": 84.5,
+            "survival_days": 732.0
+        },
+        {
+            "altitude": 904.11,
+            "country": "China",
+            "iceV_max": 28434.3,
+            "latitude": 46.5,
+            "longitude": 120.5,
+            "survival_days": 500.0
+        },
+        {
+            "altitude": 4315.19,
+            "country": "China",
+            "iceV_max": 37315.9,
+            "latitude": 38.5,
+            "longitude": 96.5,
+            "survival_days": 492.8
+        },
+        {
+            "altitude": 741.03,
+            "country": "China",
+            "iceV_max": 57127.7,
+            "latitude": 50.5,
+            "longitude": 120.5,
+            "survival_days": 535.7
+        },
+        {
+            "altitude": 2112.18,
+            "country": "China",
+            "iceV_max": 46432.7,
+            "latitude": 43.5,
+            "longitude": 90.5,
+            "survival_days": 601.1
+        },
+        {
+            "altitude": 1181.28,
+            "country": "China",
+            "iceV_max": 6699.3,
+            "latitude": 36.5,
+            "longitude": 109.5,
+            "survival_days": 409.6
+        },
+        {
+            "altitude": 4989.56,
+            "country": "China",
+            "iceV_max": 18498.5,
+            "latitude": 35.5,
+            "longitude": 88.5,
+            "survival_days": 481.3
+        },
+        {
+            "altitude": 2346.38,
+            "country": "China",
+            "iceV_max": 4719.0,
+            "latitude": 26.5,
+            "longitude": 100.5,
+            "survival_days": 561.1
+        },
+        {
+            "altitude": 4676.29,
+            "country": "China",
+            "iceV_max": 19704.6,
+            "latitude": 35.5,
+            "longitude": 94.5,
+            "survival_days": 567.3
+        },
+        {
+            "altitude": 3344.28,
+            "country": "China",
+            "iceV_max": 70699.6,
+            "latitude": 42.5,
+            "longitude": 80.5,
+            "survival_days": 601.5
+        },
+        {
+            "altitude": 4875.01,
+            "country": "China",
+            "iceV_max": 36514.4,
+            "latitude": 28.5,
+            "longitude": 91.5,
+            "survival_days": 639.4
+        },
+        {
+            "altitude": 1030.84,
+            "country": "China",
+            "iceV_max": 7958.6,
+            "latitude": 37.5,
+            "longitude": 111.5,
+            "survival_days": 442.5
+        },
+        {
+            "altitude": 4720.01,
+            "country": "China",
+            "iceV_max": 12600.0,
+            "latitude": 31.5,
+            "longitude": 91.5,
+            "survival_days": 732.0
+        },
+        {
+            "altitude": 380.55,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 24.5,
+            "longitude": 114.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 719.72,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 117.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 4122.26,
+            "country": "China",
+            "iceV_max": 29064.8,
+            "latitude": 29.5,
+            "longitude": 99.5,
+            "survival_days": 596.3
+        },
+        {
+            "altitude": 5153.87,
+            "country": "China",
+            "iceV_max": 62517.9,
+            "latitude": 32.5,
+            "longitude": 78.5,
+            "survival_days": 481.4
+        },
+        {
+            "altitude": 1670.08,
+            "country": "China",
+            "iceV_max": 8411.3,
+            "latitude": 35.5,
+            "longitude": 106.5,
+            "survival_days": 417.5
+        },
+        {
+            "altitude": 4623.47,
+            "country": "China",
+            "iceV_max": 31003.6,
+            "latitude": 29.5,
+            "longitude": 88.5,
+            "survival_days": 668.4
+        },
+        {
+            "altitude": 4631.32,
+            "country": "China",
+            "iceV_max": 34083.8,
+            "latitude": 34.5,
+            "longitude": 95.5,
+            "survival_days": 503.3
+        },
+        {
+            "altitude": 1714.37,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 98.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 478.26,
+            "country": "China",
+            "iceV_max": 24144.1,
+            "latitude": 42.5,
+            "longitude": 126.5,
+            "survival_days": 411.0
+        },
+        {
+            "altitude": 1723.28,
+            "country": "China",
+            "iceV_max": 22209.6,
+            "latitude": 43.5,
+            "longitude": 91.5,
+            "survival_days": 464.0
+        },
+        {
+            "altitude": 5085.15,
+            "country": "China",
+            "iceV_max": 10789.3,
+            "latitude": 30.5,
+            "longitude": 86.5,
+            "survival_days": 561.4
+        },
+        {
+            "altitude": 681.51,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 26.5,
+            "longitude": 110.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 616.24,
+            "country": "China",
+            "iceV_max": 25636.3,
+            "latitude": 43.5,
+            "longitude": 130.5,
+            "survival_days": 401.8
+        },
+        {
+            "altitude": 515.71,
+            "country": "China",
+            "iceV_max": 36683.5,
+            "latitude": 49.5,
+            "longitude": 123.5,
+            "survival_days": 402.9
+        },
+        {
+            "altitude": 4958.49,
+            "country": "China",
+            "iceV_max": 18067.5,
+            "latitude": 34.5,
+            "longitude": 88.5,
+            "survival_days": 500.6
+        },
+        {
+            "altitude": 931.75,
+            "country": "China",
+            "iceV_max": 29077.6,
+            "latitude": 41.5,
+            "longitude": 127.5,
+            "survival_days": 564.6
+        },
+        {
+            "altitude": 4495.73,
+            "country": "China",
+            "iceV_max": 21286.0,
+            "latitude": 34.5,
+            "longitude": 97.5,
+            "survival_days": 580.9
+        },
+        {
+            "altitude": 3075.69,
+            "country": "China",
+            "iceV_max": 16648.3,
+            "latitude": 36.5,
+            "longitude": 101.5,
+            "survival_days": 581.5
+        },
+        {
+            "altitude": 1498.17,
+            "country": "China",
+            "iceV_max": 4666.5,
+            "latitude": 37.5,
+            "longitude": 107.5,
+            "survival_days": 439.3
+        },
+        {
+            "altitude": 4562.28,
+            "country": "China",
+            "iceV_max": 24779.2,
+            "latitude": 34.5,
+            "longitude": 94.5,
+            "survival_days": 517.2
+        },
+        {
+            "altitude": 5069.29,
+            "country": "China",
+            "iceV_max": 36076.1,
+            "latitude": 29.5,
+            "longitude": 85.5,
+            "survival_days": 484.4
+        },
+        {
+            "altitude": 2330.66,
+            "country": "China",
+            "iceV_max": 15752.0,
+            "latitude": 39.5,
+            "longitude": 93.5,
+            "survival_days": 482.4
+        },
+        {
+            "altitude": 1121.78,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 106.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2412.36,
+            "country": "China",
+            "iceV_max": 17655.1,
+            "latitude": 34.5,
+            "longitude": 104.5,
+            "survival_days": 483.9
+        },
+        {
+            "altitude": 1138.25,
+            "country": "China",
+            "iceV_max": 16200.4,
+            "latitude": 40.5,
+            "longitude": 114.5,
+            "survival_days": 399.9
+        },
+        {
+            "altitude": 4921.8,
+            "country": "China",
+            "iceV_max": 9516.3,
+            "latitude": 35.5,
+            "longitude": 84.5,
+            "survival_days": 731.4
+        },
+        {
+            "altitude": 809.72,
+            "country": "China",
+            "iceV_max": 33577.4,
+            "latitude": 50.5,
+            "longitude": 122.5,
+            "survival_days": 473.0
+        },
+        {
+            "altitude": 1560.21,
+            "country": "China",
+            "iceV_max": 4841.1,
+            "latitude": 33.5,
+            "longitude": 105.5,
+            "survival_days": 454.3
+        },
+        {
+            "altitude": 552.79,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 27.5,
+            "longitude": 118.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1257.02,
+            "country": "China",
+            "iceV_max": 6572.4,
+            "latitude": 39.5,
+            "longitude": 90.5,
+            "survival_days": 393.1
+        },
+        {
+            "altitude": 857.0,
+            "country": "China",
+            "iceV_max": 23530.3,
+            "latitude": 43.5,
+            "longitude": 118.5,
+            "survival_days": 423.5
+        },
+        {
+            "altitude": 2376.0,
+            "country": "China",
+            "iceV_max": 40844.3,
+            "latitude": 39.5,
+            "longitude": 98.5,
+            "survival_days": 694.4
+        },
+        {
+            "altitude": 4731.06,
+            "country": "China",
+            "iceV_max": 10572.7,
+            "latitude": 32.5,
+            "longitude": 82.5,
+            "survival_days": 561.5
+        },
+        {
+            "altitude": 3185.87,
+            "country": "China",
+            "iceV_max": 50619.4,
+            "latitude": 39.5,
+            "longitude": 74.5,
+            "survival_days": 680.1
+        },
+        {
+            "altitude": 3436.61,
+            "country": "China",
+            "iceV_max": 53671.6,
+            "latitude": 38.5,
+            "longitude": 89.5,
+            "survival_days": 501.5
+        },
+        {
+            "altitude": 621.86,
+            "country": "China",
+            "iceV_max": 19710.5,
+            "latitude": 48.5,
+            "longitude": 122.5,
+            "survival_days": 431.4
+        },
+        {
+            "altitude": 610.95,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 25.5,
+            "longitude": 110.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 3603.53,
+            "country": "China",
+            "iceV_max": 36589.5,
+            "latitude": 37.5,
+            "longitude": 96.5,
+            "survival_days": 665.0
+        },
+        {
+            "altitude": 730.2,
+            "country": "China",
+            "iceV_max": 30026.8,
+            "latitude": 41.5,
+            "longitude": 126.5,
+            "survival_days": 442.8
+        },
+        {
+            "altitude": 4272.54,
+            "country": "China",
+            "iceV_max": 75067.5,
+            "latitude": 37.5,
+            "longitude": 75.5,
+            "survival_days": 699.5
+        },
+        {
+            "altitude": 2346.92,
+            "country": "China",
+            "iceV_max": 36094.7,
+            "latitude": 41.5,
+            "longitude": 79.5,
+            "survival_days": 723.8
+        },
+        {
+            "altitude": 3547.37,
+            "country": "China",
+            "iceV_max": 23420.5,
+            "latitude": 33.5,
+            "longitude": 102.5,
+            "survival_days": 644.3
+        },
+        {
+            "altitude": 5191.18,
+            "country": "China",
+            "iceV_max": 22229.6,
+            "latitude": 33.5,
+            "longitude": 88.5,
+            "survival_days": 532.4
+        },
+        {
+            "altitude": 708.73,
+            "country": "China",
+            "iceV_max": 1724.1,
+            "latitude": 31.5,
+            "longitude": 111.5,
+            "survival_days": 150.3
+        },
+        {
+            "altitude": 5382.54,
+            "country": "China",
+            "iceV_max": 19475.7,
+            "latitude": 30.5,
+            "longitude": 84.5,
+            "survival_days": 482.2
+        },
+        {
+            "altitude": 615.05,
+            "country": "China",
+            "iceV_max": 27671.3,
+            "latitude": 41.5,
+            "longitude": 125.5,
+            "survival_days": 322.8
+        },
+        {
+            "altitude": 3310.16,
+            "country": "China",
+            "iceV_max": 19927.6,
+            "latitude": 33.5,
+            "longitude": 103.5,
+            "survival_days": 584.4
+        },
+        {
+            "altitude": 864.08,
+            "country": "China",
+            "iceV_max": 12480.4,
+            "latitude": 40.5,
+            "longitude": 115.5,
+            "survival_days": 394.8
+        },
+        {
+            "altitude": 1089.75,
+            "country": "China",
+            "iceV_max": 2298.7,
+            "latitude": 31.5,
+            "longitude": 108.5,
+            "survival_days": 232.3
+        },
+        {
+            "altitude": 1159.69,
+            "country": "China",
+            "iceV_max": 9334.0,
+            "latitude": 38.5,
+            "longitude": 110.5,
+            "survival_days": 397.0
+        },
+        {
+            "altitude": 919.81,
+            "country": "China",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": 108.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 5026.3,
+            "country": "China",
+            "iceV_max": 10103.0,
+            "latitude": 32.5,
+            "longitude": 85.5,
+            "survival_days": 548.4
+        },
+        {
+            "altitude": 1112.82,
+            "country": "China",
+            "iceV_max": 16366.5,
+            "latitude": 42.5,
+            "longitude": 88.5,
+            "survival_days": 414.7
+        },
+        {
+            "altitude": 830.19,
+            "country": "China",
+            "iceV_max": 15034.7,
+            "latitude": 44.5,
+            "longitude": 119.5,
+            "survival_days": 378.4
+        },
+        {
+            "altitude": 4508.03,
+            "country": "China",
+            "iceV_max": 38148.1,
+            "latitude": 33.5,
+            "longitude": 97.5,
+            "survival_days": 684.5
+        },
+        {
+            "altitude": 4272.45,
+            "country": "China",
+            "iceV_max": 43761.9,
+            "latitude": 31.5,
+            "longitude": 97.5,
+            "survival_days": 525.0
+        },
+        {
+            "altitude": 5111.38,
+            "country": "China",
+            "iceV_max": 17132.1,
+            "latitude": 33.5,
+            "longitude": 81.5,
+            "survival_days": 675.4
+        },
+        {
+            "altitude": 4935.69,
+            "country": "China",
+            "iceV_max": 16932.7,
+            "latitude": 30.5,
+            "longitude": 90.5,
+            "survival_days": 513.2
+        },
+        {
+            "altitude": 1767.17,
+            "country": "China",
+            "iceV_max": 997.1,
+            "latitude": 27.5,
+            "longitude": 104.5,
+            "survival_days": 218.2
+        },
+        {
+            "altitude": 748.71,
+            "country": "China",
+            "iceV_max": 54031.0,
+            "latitude": 51.5,
+            "longitude": 120.5,
+            "survival_days": 538.3
+        },
+        {
+            "altitude": 5086.54,
+            "country": "China",
+            "iceV_max": 22025.5,
+            "latitude": 33.5,
+            "longitude": 89.5,
+            "survival_days": 473.4
+        },
+        {
+            "altitude": 5107.86,
+            "country": "China",
+            "iceV_max": 19938.5,
+            "latitude": 33.5,
+            "longitude": 87.5,
+            "survival_days": 519.3
+        },
+        {
+            "altitude": 1087.89,
+            "country": "China",
+            "iceV_max": 2012.1,
+            "latitude": 32.5,
+            "longitude": 106.5,
+            "survival_days": 217.0
+        },
+        {
+            "altitude": 5318.61,
+            "country": "China",
+            "iceV_max": 42304.9,
+            "latitude": 35.5,
+            "longitude": 79.5,
+            "survival_days": 493.4
+        },
+        {
+            "altitude": 778.13,
+            "country": "China",
+            "iceV_max": 39343.7,
+            "latitude": 52.5,
+            "longitude": 122.5,
+            "survival_days": 513.2
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 2800.4419449901775,
+        "average_iceV": 25618.880353634577,
+        "average_survival_days": 448.22848722986174,
+        "max_iceV": 164848.3,
+        "min_iceV": 0,
+        "total_locations": 509
+    }
+}

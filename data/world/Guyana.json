@@ -1,0 +1,21 @@
+{
+    "country": "Guyana",
+    "location_results": [
+        {
+            "altitude": 368.21,
+            "country": "Guyana",
+            "iceV_max": 0,
+            "latitude": 4.5,
+            "longitude": -59.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 368.21,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 1
+    }
+}

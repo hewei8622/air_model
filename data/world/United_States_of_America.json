@@ -1,0 +1,2549 @@
+{
+    "country": "United_States_of_America",
+    "location_results": [
+        {
+            "altitude": 811.6,
+            "country": "United_States_of_America",
+            "iceV_max": 124591.1,
+            "latitude": 62.5,
+            "longitude": -141.5,
+            "survival_days": 582.0
+        },
+        {
+            "altitude": 1030.97,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 31.5,
+            "longitude": -111.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1653.54,
+            "country": "United_States_of_America",
+            "iceV_max": 3329.8,
+            "latitude": 37.5,
+            "longitude": -114.5,
+            "survival_days": 391.9
+        },
+        {
+            "altitude": 1633.88,
+            "country": "United_States_of_America",
+            "iceV_max": 21693.6,
+            "latitude": 46.5,
+            "longitude": -111.5,
+            "survival_days": 467.8
+        },
+        {
+            "altitude": 1511.7,
+            "country": "United_States_of_America",
+            "iceV_max": 5612.0,
+            "latitude": 42.5,
+            "longitude": -118.5,
+            "survival_days": 468.0
+        },
+        {
+            "altitude": 863.69,
+            "country": "United_States_of_America",
+            "iceV_max": 3676.9,
+            "latitude": 41.5,
+            "longitude": -123.5,
+            "survival_days": 527.2
+        },
+        {
+            "altitude": 2025.95,
+            "country": "United_States_of_America",
+            "iceV_max": 65796.5,
+            "latitude": 60.5,
+            "longitude": -141.5,
+            "survival_days": 617.4
+        },
+        {
+            "altitude": 470.17,
+            "country": "United_States_of_America",
+            "iceV_max": 60934.6,
+            "latitude": 66.5,
+            "longitude": -149.5,
+            "survival_days": 557.8
+        },
+        {
+            "altitude": 1555.26,
+            "country": "United_States_of_America",
+            "iceV_max": 7407.0,
+            "latitude": 41.5,
+            "longitude": -118.5,
+            "survival_days": 463.9
+        },
+        {
+            "altitude": 2198.68,
+            "country": "United_States_of_America",
+            "iceV_max": 4093.6,
+            "latitude": 41.5,
+            "longitude": -105.5,
+            "survival_days": 182.8
+        },
+        {
+            "altitude": 611.5,
+            "country": "United_States_of_America",
+            "iceV_max": 1499.5,
+            "latitude": 36.5,
+            "longitude": -82.5,
+            "survival_days": 153.3
+        },
+        {
+            "altitude": 2136.55,
+            "country": "United_States_of_America",
+            "iceV_max": 15213.8,
+            "latitude": 40.5,
+            "longitude": -111.5,
+            "survival_days": 552.0
+        },
+        {
+            "altitude": 942.33,
+            "country": "United_States_of_America",
+            "iceV_max": 60330.6,
+            "latitude": 61.5,
+            "longitude": -144.5,
+            "survival_days": 430.2
+        },
+        {
+            "altitude": 1205.25,
+            "country": "United_States_of_America",
+            "iceV_max": 131460.9,
+            "latitude": 68.5,
+            "longitude": -148.5,
+            "survival_days": 516.2
+        },
+        {
+            "altitude": 726.49,
+            "country": "United_States_of_America",
+            "iceV_max": 44804.2,
+            "latitude": 62.5,
+            "longitude": -149.5,
+            "survival_days": 588.9
+        },
+        {
+            "altitude": 2174.02,
+            "country": "United_States_of_America",
+            "iceV_max": 21818.8,
+            "latitude": 44.5,
+            "longitude": -114.5,
+            "survival_days": 526.9
+        },
+        {
+            "altitude": 777.98,
+            "country": "United_States_of_America",
+            "iceV_max": 86643.2,
+            "latitude": 69.5,
+            "longitude": -144.5,
+            "survival_days": 485.0
+        },
+        {
+            "altitude": 2070.09,
+            "country": "United_States_of_America",
+            "iceV_max": 11634.1,
+            "latitude": 39.5,
+            "longitude": -109.5,
+            "survival_days": 486.3
+        },
+        {
+            "altitude": 1509.76,
+            "country": "United_States_of_America",
+            "iceV_max": 13142.3,
+            "latitude": 45.5,
+            "longitude": -116.5,
+            "survival_days": 536.0
+        },
+        {
+            "altitude": 599.4,
+            "country": "United_States_of_America",
+            "iceV_max": 33705.3,
+            "latitude": 65.5,
+            "longitude": -147.5,
+            "survival_days": 309.1
+        },
+        {
+            "altitude": 2059.87,
+            "country": "United_States_of_America",
+            "iceV_max": 23665.3,
+            "latitude": 45.5,
+            "longitude": -110.5,
+            "survival_days": 484.4
+        },
+        {
+            "altitude": 1255.66,
+            "country": "United_States_of_America",
+            "iceV_max": 8636.7,
+            "latitude": 44.5,
+            "longitude": -117.5,
+            "survival_days": 474.0
+        },
+        {
+            "altitude": 453.06,
+            "country": "United_States_of_America",
+            "iceV_max": 124514.6,
+            "latitude": 65.5,
+            "longitude": -143.5,
+            "survival_days": 360.6
+        },
+        {
+            "altitude": 1523.09,
+            "country": "United_States_of_America",
+            "iceV_max": 2690.3,
+            "latitude": 40.5,
+            "longitude": -112.5,
+            "survival_days": 208.2
+        },
+        {
+            "altitude": 2009.81,
+            "country": "United_States_of_America",
+            "iceV_max": 17133.4,
+            "latitude": 40.5,
+            "longitude": -108.5,
+            "survival_days": 454.9
+        },
+        {
+            "altitude": 1046.39,
+            "country": "United_States_of_America",
+            "iceV_max": 2997.9,
+            "latitude": 42.5,
+            "longitude": -122.5,
+            "survival_days": 280.0
+        },
+        {
+            "altitude": 766.73,
+            "country": "United_States_of_America",
+            "iceV_max": 77202.0,
+            "latitude": 67.5,
+            "longitude": -151.5,
+            "survival_days": 584.7
+        },
+        {
+            "altitude": 2221.66,
+            "country": "United_States_of_America",
+            "iceV_max": 16366.3,
+            "latitude": 42.5,
+            "longitude": -110.5,
+            "survival_days": 528.0
+        },
+        {
+            "altitude": 957.78,
+            "country": "United_States_of_America",
+            "iceV_max": 1373.0,
+            "latitude": 36.5,
+            "longitude": -116.5,
+            "survival_days": 223.8
+        },
+        {
+            "altitude": 2156.95,
+            "country": "United_States_of_America",
+            "iceV_max": 13492.2,
+            "latitude": 39.5,
+            "longitude": -110.5,
+            "survival_days": 519.7
+        },
+        {
+            "altitude": 981.93,
+            "country": "United_States_of_America",
+            "iceV_max": 25455.6,
+            "latitude": 48.5,
+            "longitude": -121.5,
+            "survival_days": 563.8
+        },
+        {
+            "altitude": 2192.69,
+            "country": "United_States_of_America",
+            "iceV_max": 21468.4,
+            "latitude": 44.5,
+            "longitude": -109.5,
+            "survival_days": 513.3
+        },
+        {
+            "altitude": 1156.65,
+            "country": "United_States_of_America",
+            "iceV_max": 65115.5,
+            "latitude": 62.5,
+            "longitude": -148.5,
+            "survival_days": 443.0
+        },
+        {
+            "altitude": 686.61,
+            "country": "United_States_of_America",
+            "iceV_max": 67586.7,
+            "latitude": 65.5,
+            "longitude": -145.5,
+            "survival_days": 530.7
+        },
+        {
+            "altitude": 1989.37,
+            "country": "United_States_of_America",
+            "iceV_max": 22805.0,
+            "latitude": 44.5,
+            "longitude": -115.5,
+            "survival_days": 546.8
+        },
+        {
+            "altitude": 2445.3,
+            "country": "United_States_of_America",
+            "iceV_max": 21829.4,
+            "latitude": 38.5,
+            "longitude": -105.5,
+            "survival_days": 490.2
+        },
+        {
+            "altitude": 468.56,
+            "country": "United_States_of_America",
+            "iceV_max": 37726.3,
+            "latitude": 67.5,
+            "longitude": -141.5,
+            "survival_days": 531.4
+        },
+        {
+            "altitude": 1601.66,
+            "country": "United_States_of_America",
+            "iceV_max": 3710.2,
+            "latitude": 42.5,
+            "longitude": -121.5,
+            "survival_days": 238.1
+        },
+        {
+            "altitude": 263.83,
+            "country": "United_States_of_America",
+            "iceV_max": 3248.2,
+            "latitude": 47.5,
+            "longitude": -123.5,
+            "survival_days": 285.0
+        },
+        {
+            "altitude": 1075.46,
+            "country": "United_States_of_America",
+            "iceV_max": 1077.8,
+            "latitude": 35.5,
+            "longitude": -117.5,
+            "survival_days": 179.1
+        },
+        {
+            "altitude": 872.22,
+            "country": "United_States_of_America",
+            "iceV_max": 59908.1,
+            "latitude": 68.5,
+            "longitude": -150.5,
+            "survival_days": 284.7
+        },
+        {
+            "altitude": 1581.43,
+            "country": "United_States_of_America",
+            "iceV_max": 9196.7,
+            "latitude": 41.5,
+            "longitude": -120.5,
+            "survival_days": 470.5
+        },
+        {
+            "altitude": 733.17,
+            "country": "United_States_of_America",
+            "iceV_max": 5.2,
+            "latitude": 40.5,
+            "longitude": -123.5,
+            "survival_days": 0.0
+        },
+        {
+            "altitude": 956.02,
+            "country": "United_States_of_America",
+            "iceV_max": 116999.5,
+            "latitude": 67.5,
+            "longitude": -154.5,
+            "survival_days": 372.1
+        },
+        {
+            "altitude": 1705.5,
+            "country": "United_States_of_America",
+            "iceV_max": 15411.2,
+            "latitude": 44.5,
+            "longitude": -107.5,
+            "survival_days": 567.5
+        },
+        {
+            "altitude": 1372.28,
+            "country": "United_States_of_America",
+            "iceV_max": 21933.3,
+            "latitude": 47.5,
+            "longitude": -114.5,
+            "survival_days": 501.0
+        },
+        {
+            "altitude": 2349.87,
+            "country": "United_States_of_America",
+            "iceV_max": 12132.8,
+            "latitude": 37.5,
+            "longitude": -118.5,
+            "survival_days": 599.8
+        },
+        {
+            "altitude": 1885.86,
+            "country": "United_States_of_America",
+            "iceV_max": 29670.1,
+            "latitude": 45.5,
+            "longitude": -114.5,
+            "survival_days": 573.9
+        },
+        {
+            "altitude": 585.96,
+            "country": "United_States_of_America",
+            "iceV_max": 33279.9,
+            "latitude": 68.5,
+            "longitude": -156.5,
+            "survival_days": 311.4
+        },
+        {
+            "altitude": 797.11,
+            "country": "United_States_of_America",
+            "iceV_max": 9233.0,
+            "latitude": 46.5,
+            "longitude": -120.5,
+            "survival_days": 446.3
+        },
+        {
+            "altitude": 886.41,
+            "country": "United_States_of_America",
+            "iceV_max": 5.2,
+            "latitude": 35.5,
+            "longitude": -116.5,
+            "survival_days": 0.0
+        },
+        {
+            "altitude": 1383.6,
+            "country": "United_States_of_America",
+            "iceV_max": 7322.4,
+            "latitude": 43.5,
+            "longitude": -119.5,
+            "survival_days": 440.7
+        },
+        {
+            "altitude": 485.75,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 39.5,
+            "longitude": -123.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1502.9,
+            "country": "United_States_of_America",
+            "iceV_max": 578.9,
+            "latitude": 32.5,
+            "longitude": -105.5,
+            "survival_days": 142.0
+        },
+        {
+            "altitude": 1710.1,
+            "country": "United_States_of_America",
+            "iceV_max": 4592.2,
+            "latitude": 37.5,
+            "longitude": -110.5,
+            "survival_days": 427.8
+        },
+        {
+            "altitude": 1719.02,
+            "country": "United_States_of_America",
+            "iceV_max": 54250.1,
+            "latitude": 61.5,
+            "longitude": -142.5,
+            "survival_days": 516.9
+        },
+        {
+            "altitude": 519.41,
+            "country": "United_States_of_America",
+            "iceV_max": 31780.3,
+            "latitude": 66.5,
+            "longitude": -150.5,
+            "survival_days": 536.4
+        },
+        {
+            "altitude": 1196.79,
+            "country": "United_States_of_America",
+            "iceV_max": 1195.4,
+            "latitude": 34.5,
+            "longitude": -117.5,
+            "survival_days": 204.6
+        },
+        {
+            "altitude": 839.89,
+            "country": "United_States_of_America",
+            "iceV_max": 30733.4,
+            "latitude": 61.5,
+            "longitude": -154.5,
+            "survival_days": 554.9
+        },
+        {
+            "altitude": 2365.05,
+            "country": "United_States_of_America",
+            "iceV_max": 12501.6,
+            "latitude": 37.5,
+            "longitude": -108.5,
+            "survival_days": 516.1
+        },
+        {
+            "altitude": 743.24,
+            "country": "United_States_of_America",
+            "iceV_max": 6538.3,
+            "latitude": 47.5,
+            "longitude": -121.5,
+            "survival_days": 560.8
+        },
+        {
+            "altitude": 2685.31,
+            "country": "United_States_of_America",
+            "iceV_max": 20558.9,
+            "latitude": 37.5,
+            "longitude": -106.5,
+            "survival_days": 584.8
+        },
+        {
+            "altitude": 1548.84,
+            "country": "United_States_of_America",
+            "iceV_max": 6685.0,
+            "latitude": 43.5,
+            "longitude": -115.5,
+            "survival_days": 482.5
+        },
+        {
+            "altitude": 1401.61,
+            "country": "United_States_of_America",
+            "iceV_max": 1834.5,
+            "latitude": 33.5,
+            "longitude": -110.5,
+            "survival_days": 416.4
+        },
+        {
+            "altitude": 1260.85,
+            "country": "United_States_of_America",
+            "iceV_max": 4672.1,
+            "latitude": 46.5,
+            "longitude": -115.5,
+            "survival_days": 235.0
+        },
+        {
+            "altitude": 280.94,
+            "country": "United_States_of_America",
+            "iceV_max": 28492.8,
+            "latitude": 65.5,
+            "longitude": -159.5,
+            "survival_days": 488.2
+        },
+        {
+            "altitude": 534.89,
+            "country": "United_States_of_America",
+            "iceV_max": 18941.8,
+            "latitude": 59.5,
+            "longitude": -138.5,
+            "survival_days": 201.8
+        },
+        {
+            "altitude": 428.02,
+            "country": "United_States_of_America",
+            "iceV_max": 33896.8,
+            "latitude": 67.5,
+            "longitude": -143.5,
+            "survival_days": 299.6
+        },
+        {
+            "altitude": 1946.84,
+            "country": "United_States_of_America",
+            "iceV_max": 6390.8,
+            "latitude": 38.5,
+            "longitude": -117.5,
+            "survival_days": 529.0
+        },
+        {
+            "altitude": 1463.34,
+            "country": "United_States_of_America",
+            "iceV_max": 47541.0,
+            "latitude": 61.5,
+            "longitude": -146.5,
+            "survival_days": 577.8
+        },
+        {
+            "altitude": 2172.75,
+            "country": "United_States_of_America",
+            "iceV_max": 16905.3,
+            "latitude": 40.5,
+            "longitude": -109.5,
+            "survival_days": 507.0
+        },
+        {
+            "altitude": 1120.99,
+            "country": "United_States_of_America",
+            "iceV_max": 162711.8,
+            "latitude": 68.5,
+            "longitude": -144.5,
+            "survival_days": 622.3
+        },
+        {
+            "altitude": 1527.73,
+            "country": "United_States_of_America",
+            "iceV_max": 5929.7,
+            "latitude": 40.5,
+            "longitude": -118.5,
+            "survival_days": 497.0
+        },
+        {
+            "altitude": 2052.1,
+            "country": "United_States_of_America",
+            "iceV_max": 13894.4,
+            "latitude": 42.5,
+            "longitude": -111.5,
+            "survival_days": 524.6
+        },
+        {
+            "altitude": 1498.23,
+            "country": "United_States_of_America",
+            "iceV_max": 64377.4,
+            "latitude": 63.5,
+            "longitude": -146.5,
+            "survival_days": 538.5
+        },
+        {
+            "altitude": 1084.11,
+            "country": "United_States_of_America",
+            "iceV_max": 45842.9,
+            "latitude": 59.5,
+            "longitude": -135.5,
+            "survival_days": 536.0
+        },
+        {
+            "altitude": 683.27,
+            "country": "United_States_of_America",
+            "iceV_max": 34347.9,
+            "latitude": 62.5,
+            "longitude": -151.5,
+            "survival_days": 494.6
+        },
+        {
+            "altitude": 1208.47,
+            "country": "United_States_of_America",
+            "iceV_max": 56313.3,
+            "latitude": 62.5,
+            "longitude": -143.5,
+            "survival_days": 538.0
+        },
+        {
+            "altitude": 1355.42,
+            "country": "United_States_of_America",
+            "iceV_max": 7510.0,
+            "latitude": 44.5,
+            "longitude": -119.5,
+            "survival_days": 513.4
+        },
+        {
+            "altitude": 1622.62,
+            "country": "United_States_of_America",
+            "iceV_max": 796.8,
+            "latitude": 33.5,
+            "longitude": -105.5,
+            "survival_days": 171.7
+        },
+        {
+            "altitude": 1725.4,
+            "country": "United_States_of_America",
+            "iceV_max": 11174.2,
+            "latitude": 40.5,
+            "longitude": -116.5,
+            "survival_days": 451.0
+        },
+        {
+            "altitude": 1581.79,
+            "country": "United_States_of_America",
+            "iceV_max": 4390.9,
+            "latitude": 39.5,
+            "longitude": -119.5,
+            "survival_days": 525.0
+        },
+        {
+            "altitude": 1919.66,
+            "country": "United_States_of_America",
+            "iceV_max": 6191.8,
+            "latitude": 38.5,
+            "longitude": -118.5,
+            "survival_days": 625.0
+        },
+        {
+            "altitude": 1723.41,
+            "country": "United_States_of_America",
+            "iceV_max": 1915.1,
+            "latitude": 34.5,
+            "longitude": -111.5,
+            "survival_days": 490.9
+        },
+        {
+            "altitude": 1205.9,
+            "country": "United_States_of_America",
+            "iceV_max": 91420.9,
+            "latitude": 68.5,
+            "longitude": -146.5,
+            "survival_days": 553.4
+        },
+        {
+            "altitude": 1570.51,
+            "country": "United_States_of_America",
+            "iceV_max": 9035.2,
+            "latitude": 41.5,
+            "longitude": -121.5,
+            "survival_days": 495.0
+        },
+        {
+            "altitude": 1360.12,
+            "country": "United_States_of_America",
+            "iceV_max": 31286.0,
+            "latitude": 60.5,
+            "longitude": -142.5,
+            "survival_days": 518.9
+        },
+        {
+            "altitude": 862.51,
+            "country": "United_States_of_America",
+            "iceV_max": 73810.6,
+            "latitude": 67.5,
+            "longitude": -153.5,
+            "survival_days": 567.5
+        },
+        {
+            "altitude": 1277.02,
+            "country": "United_States_of_America",
+            "iceV_max": 5.2,
+            "latitude": 36.5,
+            "longitude": -113.5,
+            "survival_days": 0.0
+        },
+        {
+            "altitude": 1444.43,
+            "country": "United_States_of_America",
+            "iceV_max": 946.3,
+            "latitude": 32.5,
+            "longitude": -108.5,
+            "survival_days": 326.8
+        },
+        {
+            "altitude": 1565.82,
+            "country": "United_States_of_America",
+            "iceV_max": 13924.5,
+            "latitude": 47.5,
+            "longitude": -112.5,
+            "survival_days": 435.7
+        },
+        {
+            "altitude": 1297.21,
+            "country": "United_States_of_America",
+            "iceV_max": 42761.4,
+            "latitude": 61.5,
+            "longitude": -153.5,
+            "survival_days": 660.0
+        },
+        {
+            "altitude": 1157.99,
+            "country": "United_States_of_America",
+            "iceV_max": 5205.8,
+            "latitude": 43.5,
+            "longitude": -117.5,
+            "survival_days": 449.0
+        },
+        {
+            "altitude": 1138.25,
+            "country": "United_States_of_America",
+            "iceV_max": 3944.2,
+            "latitude": 47.5,
+            "longitude": -111.5,
+            "survival_days": 175.2
+        },
+        {
+            "altitude": 642.1,
+            "country": "United_States_of_America",
+            "iceV_max": 43213.0,
+            "latitude": 64.5,
+            "longitude": -145.5,
+            "survival_days": 618.6
+        },
+        {
+            "altitude": 744.36,
+            "country": "United_States_of_America",
+            "iceV_max": 1030.8,
+            "latitude": 35.5,
+            "longitude": -82.5,
+            "survival_days": 621.6
+        },
+        {
+            "altitude": 1028.17,
+            "country": "United_States_of_America",
+            "iceV_max": 6230.8,
+            "latitude": 43.5,
+            "longitude": -122.5,
+            "survival_days": 525.9
+        },
+        {
+            "altitude": 1422.61,
+            "country": "United_States_of_America",
+            "iceV_max": 48092.4,
+            "latitude": 63.5,
+            "longitude": -145.5,
+            "survival_days": 505.4
+        },
+        {
+            "altitude": 913.89,
+            "country": "United_States_of_America",
+            "iceV_max": 862.6,
+            "latitude": 34.5,
+            "longitude": -116.5,
+            "survival_days": 201.5
+        },
+        {
+            "altitude": 1633.01,
+            "country": "United_States_of_America",
+            "iceV_max": 22067.0,
+            "latitude": 46.5,
+            "longitude": -112.5,
+            "survival_days": 454.9
+        },
+        {
+            "altitude": 606.19,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 34.5,
+            "longitude": -115.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1982.99,
+            "country": "United_States_of_America",
+            "iceV_max": 12512.1,
+            "latitude": 41.5,
+            "longitude": -115.5,
+            "survival_days": 484.0
+        },
+        {
+            "altitude": 2669.73,
+            "country": "United_States_of_America",
+            "iceV_max": 22330.7,
+            "latitude": 39.5,
+            "longitude": -105.5,
+            "survival_days": 556.4
+        },
+        {
+            "altitude": 1229.34,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 32.5,
+            "longitude": -110.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1753.9,
+            "country": "United_States_of_America",
+            "iceV_max": 7359.7,
+            "latitude": 37.5,
+            "longitude": -117.5,
+            "survival_days": 473.6
+        },
+        {
+            "altitude": 1475.57,
+            "country": "United_States_of_America",
+            "iceV_max": 2301.8,
+            "latitude": 40.5,
+            "longitude": -119.5,
+            "survival_days": 210.0
+        },
+        {
+            "altitude": 774.88,
+            "country": "United_States_of_America",
+            "iceV_max": 66329.9,
+            "latitude": 63.5,
+            "longitude": -143.5,
+            "survival_days": 555.3
+        },
+        {
+            "altitude": 1127.51,
+            "country": "United_States_of_America",
+            "iceV_max": 6135.1,
+            "latitude": 48.5,
+            "longitude": -116.5,
+            "survival_days": 197.0
+        },
+        {
+            "altitude": 2181.98,
+            "country": "United_States_of_America",
+            "iceV_max": 16717.1,
+            "latitude": 40.5,
+            "longitude": -107.5,
+            "survival_days": 482.8
+        },
+        {
+            "altitude": 819.4,
+            "country": "United_States_of_America",
+            "iceV_max": 68792.3,
+            "latitude": 62.5,
+            "longitude": -153.5,
+            "survival_days": 542.5
+        },
+        {
+            "altitude": 1715.31,
+            "country": "United_States_of_America",
+            "iceV_max": 20942.4,
+            "latitude": 45.5,
+            "longitude": -115.5,
+            "survival_days": 630.9
+        },
+        {
+            "altitude": 2126.42,
+            "country": "United_States_of_America",
+            "iceV_max": 15605.9,
+            "latitude": 39.5,
+            "longitude": -108.5,
+            "survival_days": 497.7
+        },
+        {
+            "altitude": 2039.76,
+            "country": "United_States_of_America",
+            "iceV_max": 6385.3,
+            "latitude": 38.5,
+            "longitude": -112.5,
+            "survival_days": 468.6
+        },
+        {
+            "altitude": 2033.78,
+            "country": "United_States_of_America",
+            "iceV_max": 9203.1,
+            "latitude": 39.5,
+            "longitude": -111.5,
+            "survival_days": 493.9
+        },
+        {
+            "altitude": 1426.32,
+            "country": "United_States_of_America",
+            "iceV_max": 13089.3,
+            "latitude": 44.5,
+            "longitude": -118.5,
+            "survival_days": 560.8
+        },
+        {
+            "altitude": 938.12,
+            "country": "United_States_of_America",
+            "iceV_max": 6261.2,
+            "latitude": 45.5,
+            "longitude": -118.5,
+            "survival_days": 466.8
+        },
+        {
+            "altitude": 1133.41,
+            "country": "United_States_of_America",
+            "iceV_max": 24678.9,
+            "latitude": 48.5,
+            "longitude": -119.5,
+            "survival_days": 490.4
+        },
+        {
+            "altitude": 570.59,
+            "country": "United_States_of_America",
+            "iceV_max": 3949.3,
+            "latitude": 45.5,
+            "longitude": -119.5,
+            "survival_days": 404.4
+        },
+        {
+            "altitude": 1006.02,
+            "country": "United_States_of_America",
+            "iceV_max": 12813.3,
+            "latitude": 48.5,
+            "longitude": -117.5,
+            "survival_days": 447.9
+        },
+        {
+            "altitude": 1751.43,
+            "country": "United_States_of_America",
+            "iceV_max": 3726.2,
+            "latitude": 38.5,
+            "longitude": -109.5,
+            "survival_days": 450.6
+        },
+        {
+            "altitude": 572.2,
+            "country": "United_States_of_America",
+            "iceV_max": 7084.5,
+            "latitude": 46.5,
+            "longitude": -117.5,
+            "survival_days": 411.2
+        },
+        {
+            "altitude": 822.55,
+            "country": "United_States_of_America",
+            "iceV_max": 116190.2,
+            "latitude": 63.5,
+            "longitude": -141.5,
+            "survival_days": 530.2
+        },
+        {
+            "altitude": 1139.56,
+            "country": "United_States_of_America",
+            "iceV_max": 1318.6,
+            "latitude": 36.5,
+            "longitude": -115.5,
+            "survival_days": 190.7
+        },
+        {
+            "altitude": 646.29,
+            "country": "United_States_of_America",
+            "iceV_max": 49496.1,
+            "latitude": 68.5,
+            "longitude": -155.5,
+            "survival_days": 286.5
+        },
+        {
+            "altitude": 1804.18,
+            "country": "United_States_of_America",
+            "iceV_max": 3729.6,
+            "latitude": 36.5,
+            "longitude": -112.5,
+            "survival_days": 481.0
+        },
+        {
+            "altitude": 993.27,
+            "country": "United_States_of_America",
+            "iceV_max": 72648.6,
+            "latitude": 62.5,
+            "longitude": -152.5,
+            "survival_days": 436.1
+        },
+        {
+            "altitude": 1692.63,
+            "country": "United_States_of_America",
+            "iceV_max": 6249.1,
+            "latitude": 37.5,
+            "longitude": -119.5,
+            "survival_days": 550.9
+        },
+        {
+            "altitude": 713.01,
+            "country": "United_States_of_America",
+            "iceV_max": 47055.2,
+            "latitude": 68.5,
+            "longitude": -154.5,
+            "survival_days": 288.5
+        },
+        {
+            "altitude": 2487.2,
+            "country": "United_States_of_America",
+            "iceV_max": 19711.4,
+            "latitude": 44.5,
+            "longitude": -110.5,
+            "survival_days": 466.8
+        },
+        {
+            "altitude": 700.93,
+            "country": "United_States_of_America",
+            "iceV_max": 5358.6,
+            "latitude": 44.5,
+            "longitude": -122.5,
+            "survival_days": 453.0
+        },
+        {
+            "altitude": 999.35,
+            "country": "United_States_of_America",
+            "iceV_max": 4006.3,
+            "latitude": 47.5,
+            "longitude": -116.5,
+            "survival_days": 188.0
+        },
+        {
+            "altitude": 1526.97,
+            "country": "United_States_of_America",
+            "iceV_max": 7068.8,
+            "latitude": 46.5,
+            "longitude": -114.5,
+            "survival_days": 222.0
+        },
+        {
+            "altitude": 514.14,
+            "country": "United_States_of_America",
+            "iceV_max": 89975.8,
+            "latitude": 65.5,
+            "longitude": -144.5,
+            "survival_days": 539.2
+        },
+        {
+            "altitude": 1134.1,
+            "country": "United_States_of_America",
+            "iceV_max": 67214.4,
+            "latitude": 63.5,
+            "longitude": -144.5,
+            "survival_days": 572.1
+        },
+        {
+            "altitude": 1289.83,
+            "country": "United_States_of_America",
+            "iceV_max": 133432.2,
+            "latitude": 68.5,
+            "longitude": -147.5,
+            "survival_days": 553.5
+        },
+        {
+            "altitude": 993.56,
+            "country": "United_States_of_America",
+            "iceV_max": 83220.3,
+            "latitude": 67.5,
+            "longitude": -155.5,
+            "survival_days": 590.3
+        },
+        {
+            "altitude": 794.4,
+            "country": "United_States_of_America",
+            "iceV_max": 70362.4,
+            "latitude": 67.5,
+            "longitude": -156.5,
+            "survival_days": 595.7
+        },
+        {
+            "altitude": 2112.64,
+            "country": "United_States_of_America",
+            "iceV_max": 117222.9,
+            "latitude": 61.5,
+            "longitude": -141.5,
+            "survival_days": 545.2
+        },
+        {
+            "altitude": 781.17,
+            "country": "United_States_of_America",
+            "iceV_max": 65915.3,
+            "latitude": 67.5,
+            "longitude": -150.5,
+            "survival_days": 532.3
+        },
+        {
+            "altitude": 1085.82,
+            "country": "United_States_of_America",
+            "iceV_max": 898.9,
+            "latitude": 35.5,
+            "longitude": -114.5,
+            "survival_days": 176.0
+        },
+        {
+            "altitude": 2026.08,
+            "country": "United_States_of_America",
+            "iceV_max": 31227.9,
+            "latitude": 45.5,
+            "longitude": -113.5,
+            "survival_days": 504.8
+        },
+        {
+            "altitude": 2987.25,
+            "country": "United_States_of_America",
+            "iceV_max": 21803.6,
+            "latitude": 37.5,
+            "longitude": -107.5,
+            "survival_days": 582.7
+        },
+        {
+            "altitude": 847.26,
+            "country": "United_States_of_America",
+            "iceV_max": 79292.1,
+            "latitude": 67.5,
+            "longitude": -148.5,
+            "survival_days": 533.7
+        },
+        {
+            "altitude": 1140.94,
+            "country": "United_States_of_America",
+            "iceV_max": 3412.1,
+            "latitude": 38.5,
+            "longitude": -120.5,
+            "survival_days": 528.1
+        },
+        {
+            "altitude": 429.7,
+            "country": "United_States_of_America",
+            "iceV_max": 29423.0,
+            "latitude": 67.5,
+            "longitude": -142.5,
+            "survival_days": 559.5
+        },
+        {
+            "altitude": 1588.09,
+            "country": "United_States_of_America",
+            "iceV_max": 6373.6,
+            "latitude": 40.5,
+            "longitude": -120.5,
+            "survival_days": 485.1
+        },
+        {
+            "altitude": 2019.04,
+            "country": "United_States_of_America",
+            "iceV_max": 11097.6,
+            "latitude": 38.5,
+            "longitude": -111.5,
+            "survival_days": 563.9
+        },
+        {
+            "altitude": 847.35,
+            "country": "United_States_of_America",
+            "iceV_max": 85599.0,
+            "latitude": 67.5,
+            "longitude": -149.5,
+            "survival_days": 523.3
+        },
+        {
+            "altitude": 504.45,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 33.5,
+            "longitude": -116.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1385.22,
+            "country": "United_States_of_America",
+            "iceV_max": 9989.8,
+            "latitude": 44.5,
+            "longitude": -116.5,
+            "survival_days": 521.0
+        },
+        {
+            "altitude": 602.87,
+            "country": "United_States_of_America",
+            "iceV_max": 83059.1,
+            "latitude": 67.5,
+            "longitude": -146.5,
+            "survival_days": 590.2
+        },
+        {
+            "altitude": 1276.14,
+            "country": "United_States_of_America",
+            "iceV_max": 6100.5,
+            "latitude": 47.5,
+            "longitude": -115.5,
+            "survival_days": 199.1
+        },
+        {
+            "altitude": 2518.88,
+            "country": "United_States_of_America",
+            "iceV_max": 17208.6,
+            "latitude": 40.5,
+            "longitude": -110.5,
+            "survival_days": 550.7
+        },
+        {
+            "altitude": 2476.03,
+            "country": "United_States_of_America",
+            "iceV_max": 20396.0,
+            "latitude": 43.5,
+            "longitude": -109.5,
+            "survival_days": 515.5
+        },
+        {
+            "altitude": 1333.73,
+            "country": "United_States_of_America",
+            "iceV_max": 937.2,
+            "latitude": 31.5,
+            "longitude": -110.5,
+            "survival_days": 356.9
+        },
+        {
+            "altitude": 1892.64,
+            "country": "United_States_of_America",
+            "iceV_max": 4667.3,
+            "latitude": 41.5,
+            "longitude": -111.5,
+            "survival_days": 202.9
+        },
+        {
+            "altitude": 842.38,
+            "country": "United_States_of_America",
+            "iceV_max": 1454.5,
+            "latitude": 35.5,
+            "longitude": -83.5,
+            "survival_days": 192.9
+        },
+        {
+            "altitude": 525.36,
+            "country": "United_States_of_America",
+            "iceV_max": 35172.0,
+            "latitude": 63.5,
+            "longitude": -151.5,
+            "survival_days": 622.7
+        },
+        {
+            "altitude": 411.19,
+            "country": "United_States_of_America",
+            "iceV_max": 1144.4,
+            "latitude": 37.5,
+            "longitude": -82.5,
+            "survival_days": 150.7
+        },
+        {
+            "altitude": 1335.25,
+            "country": "United_States_of_America",
+            "iceV_max": 23167.5,
+            "latitude": 48.5,
+            "longitude": -114.5,
+            "survival_days": 488.9
+        },
+        {
+            "altitude": 1138.11,
+            "country": "United_States_of_America",
+            "iceV_max": 139207.5,
+            "latitude": 61.5,
+            "longitude": -152.5,
+            "survival_days": 497.0
+        },
+        {
+            "altitude": 1897.43,
+            "country": "United_States_of_America",
+            "iceV_max": 24793.1,
+            "latitude": 45.5,
+            "longitude": -111.5,
+            "survival_days": 660.8
+        },
+        {
+            "altitude": 702.35,
+            "country": "United_States_of_America",
+            "iceV_max": 55428.8,
+            "latitude": 68.5,
+            "longitude": -152.5,
+            "survival_days": 288.0
+        },
+        {
+            "altitude": 2051.41,
+            "country": "United_States_of_America",
+            "iceV_max": 9470.2,
+            "latitude": 38.5,
+            "longitude": -119.5,
+            "survival_days": 626.8
+        },
+        {
+            "altitude": 1667.06,
+            "country": "United_States_of_America",
+            "iceV_max": 9762.4,
+            "latitude": 42.5,
+            "longitude": -112.5,
+            "survival_days": 450.6
+        },
+        {
+            "altitude": 1992.46,
+            "country": "United_States_of_America",
+            "iceV_max": 4131.2,
+            "latitude": 36.5,
+            "longitude": -109.5,
+            "survival_days": 452.9
+        },
+        {
+            "altitude": 1253.6,
+            "country": "United_States_of_America",
+            "iceV_max": 1352.7,
+            "latitude": 34.5,
+            "longitude": -112.5,
+            "survival_days": 410.8
+        },
+        {
+            "altitude": 547.38,
+            "country": "United_States_of_America",
+            "iceV_max": 47273.2,
+            "latitude": 68.5,
+            "longitude": -162.5,
+            "survival_days": 452.8
+        },
+        {
+            "altitude": 1190.95,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 36.5,
+            "longitude": -117.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 464.78,
+            "country": "United_States_of_America",
+            "iceV_max": 37391.5,
+            "latitude": 65.5,
+            "longitude": -151.5,
+            "survival_days": 518.6
+        },
+        {
+            "altitude": 392.99,
+            "country": "United_States_of_America",
+            "iceV_max": 51566.0,
+            "latitude": 62.5,
+            "longitude": -154.5,
+            "survival_days": 543.5
+        },
+        {
+            "altitude": 722.35,
+            "country": "United_States_of_America",
+            "iceV_max": 61775.5,
+            "latitude": 68.5,
+            "longitude": -141.5,
+            "survival_days": 290.6
+        },
+        {
+            "altitude": 1236.59,
+            "country": "United_States_of_America",
+            "iceV_max": 20611.0,
+            "latitude": 48.5,
+            "longitude": -115.5,
+            "survival_days": 481.1
+        },
+        {
+            "altitude": 900.52,
+            "country": "United_States_of_America",
+            "iceV_max": 5.2,
+            "latitude": 35.5,
+            "longitude": -115.5,
+            "survival_days": 0.0
+        },
+        {
+            "altitude": 2546.44,
+            "country": "United_States_of_America",
+            "iceV_max": 16672.1,
+            "latitude": 43.5,
+            "longitude": -110.5,
+            "survival_days": 530.5
+        },
+        {
+            "altitude": 1226.77,
+            "country": "United_States_of_America",
+            "iceV_max": 18810.5,
+            "latitude": 36.5,
+            "longitude": -118.5,
+            "survival_days": 530.5
+        },
+        {
+            "altitude": 2395.02,
+            "country": "United_States_of_America",
+            "iceV_max": 20093.7,
+            "latitude": 39.5,
+            "longitude": -107.5,
+            "survival_days": 538.8
+        },
+        {
+            "altitude": 1296.02,
+            "country": "United_States_of_America",
+            "iceV_max": 30566.0,
+            "latitude": 48.5,
+            "longitude": -120.5,
+            "survival_days": 569.9
+        },
+        {
+            "altitude": 2215.28,
+            "country": "United_States_of_America",
+            "iceV_max": 20046.0,
+            "latitude": 44.5,
+            "longitude": -113.5,
+            "survival_days": 491.0
+        },
+        {
+            "altitude": 2132.64,
+            "country": "United_States_of_America",
+            "iceV_max": 2652.0,
+            "latitude": 33.5,
+            "longitude": -108.5,
+            "survival_days": 648.8
+        },
+        {
+            "altitude": 641.89,
+            "country": "United_States_of_America",
+            "iceV_max": 56946.2,
+            "latitude": 65.5,
+            "longitude": -141.5,
+            "survival_days": 293.5
+        },
+        {
+            "altitude": 1641.51,
+            "country": "United_States_of_America",
+            "iceV_max": 8514.7,
+            "latitude": 45.5,
+            "longitude": -109.5,
+            "survival_days": 195.9
+        },
+        {
+            "altitude": 1902.8,
+            "country": "United_States_of_America",
+            "iceV_max": 5550.4,
+            "latitude": 35.5,
+            "longitude": -106.5,
+            "survival_days": 483.4
+        },
+        {
+            "altitude": 476.78,
+            "country": "United_States_of_America",
+            "iceV_max": 36208.7,
+            "latitude": 67.5,
+            "longitude": -144.5,
+            "survival_days": 590.5
+        },
+        {
+            "altitude": 487.95,
+            "country": "United_States_of_America",
+            "iceV_max": 3669.3,
+            "latitude": 39.5,
+            "longitude": -79.5,
+            "survival_days": 307.6
+        },
+        {
+            "altitude": 1939.85,
+            "country": "United_States_of_America",
+            "iceV_max": 32504.9,
+            "latitude": 45.5,
+            "longitude": -112.5,
+            "survival_days": 667.9
+        },
+        {
+            "altitude": 820.2,
+            "country": "United_States_of_America",
+            "iceV_max": 80931.7,
+            "latitude": 64.5,
+            "longitude": -141.5,
+            "survival_days": 517.8
+        },
+        {
+            "altitude": 1646.32,
+            "country": "United_States_of_America",
+            "iceV_max": 55165.6,
+            "latitude": 61.5,
+            "longitude": -147.5,
+            "survival_days": 643.0
+        },
+        {
+            "altitude": 419.25,
+            "country": "United_States_of_America",
+            "iceV_max": 31178.0,
+            "latitude": 67.5,
+            "longitude": -159.5,
+            "survival_days": 334.1
+        },
+        {
+            "altitude": 907.07,
+            "country": "United_States_of_America",
+            "iceV_max": 45986.6,
+            "latitude": 62.5,
+            "longitude": -144.5,
+            "survival_days": 524.9
+        },
+        {
+            "altitude": 977.29,
+            "country": "United_States_of_America",
+            "iceV_max": 80946.1,
+            "latitude": 64.5,
+            "longitude": -142.5,
+            "survival_days": 364.9
+        },
+        {
+            "altitude": 470.54,
+            "country": "United_States_of_America",
+            "iceV_max": 3083.1,
+            "latitude": 46.5,
+            "longitude": -122.5,
+            "survival_days": 603.9
+        },
+        {
+            "altitude": 1175.47,
+            "country": "United_States_of_America",
+            "iceV_max": 4631.7,
+            "latitude": 45.5,
+            "longitude": -108.5,
+            "survival_days": 170.6
+        },
+        {
+            "altitude": 733.58,
+            "country": "United_States_of_America",
+            "iceV_max": 49542.3,
+            "latitude": 68.5,
+            "longitude": -153.5,
+            "survival_days": 284.7
+        },
+        {
+            "altitude": 600.4,
+            "country": "United_States_of_America",
+            "iceV_max": 862.8,
+            "latitude": 37.5,
+            "longitude": -81.5,
+            "survival_days": 141.6
+        },
+        {
+            "altitude": 2244.0,
+            "country": "United_States_of_America",
+            "iceV_max": 28710.7,
+            "latitude": 44.5,
+            "longitude": -112.5,
+            "survival_days": 524.5
+        },
+        {
+            "altitude": 712.21,
+            "country": "United_States_of_America",
+            "iceV_max": 61059.7,
+            "latitude": 68.5,
+            "longitude": -151.5,
+            "survival_days": 286.1
+        },
+        {
+            "altitude": 2058.94,
+            "country": "United_States_of_America",
+            "iceV_max": 9802.7,
+            "latitude": 41.5,
+            "longitude": -110.5,
+            "survival_days": 464.9
+        },
+        {
+            "altitude": 797.89,
+            "country": "United_States_of_America",
+            "iceV_max": 60061.5,
+            "latitude": 67.5,
+            "longitude": -152.5,
+            "survival_days": 355.1
+        },
+        {
+            "altitude": 1936.34,
+            "country": "United_States_of_America",
+            "iceV_max": 8331.9,
+            "latitude": 38.5,
+            "longitude": -116.5,
+            "survival_days": 470.8
+        },
+        {
+            "altitude": 1395.88,
+            "country": "United_States_of_America",
+            "iceV_max": 12032.7,
+            "latitude": 48.5,
+            "longitude": -113.5,
+            "survival_days": 478.8
+        },
+        {
+            "altitude": 642.5,
+            "country": "United_States_of_America",
+            "iceV_max": 27837.9,
+            "latitude": 68.5,
+            "longitude": -157.5,
+            "survival_days": 307.3
+        },
+        {
+            "altitude": 795.96,
+            "country": "United_States_of_America",
+            "iceV_max": 2393.8,
+            "latitude": 38.5,
+            "longitude": -79.5,
+            "survival_days": 402.8
+        },
+        {
+            "altitude": 1850.74,
+            "country": "United_States_of_America",
+            "iceV_max": 11508.7,
+            "latitude": 41.5,
+            "longitude": -116.5,
+            "survival_days": 477.2
+        },
+        {
+            "altitude": 1519.43,
+            "country": "United_States_of_America",
+            "iceV_max": 6124.3,
+            "latitude": 39.5,
+            "longitude": -120.5,
+            "survival_days": 537.4
+        },
+        {
+            "altitude": 1306.35,
+            "country": "United_States_of_America",
+            "iceV_max": 5123.3,
+            "latitude": 45.5,
+            "longitude": -117.5,
+            "survival_days": 213.2
+        },
+        {
+            "altitude": 1856.1,
+            "country": "United_States_of_America",
+            "iceV_max": 5146.8,
+            "latitude": 39.5,
+            "longitude": -117.5,
+            "survival_days": 496.0
+        },
+        {
+            "altitude": 883.12,
+            "country": "United_States_of_America",
+            "iceV_max": 682.2,
+            "latitude": 34.5,
+            "longitude": -113.5,
+            "survival_days": 333.9
+        },
+        {
+            "altitude": 491.72,
+            "country": "United_States_of_America",
+            "iceV_max": 18795.1,
+            "latitude": 60.5,
+            "longitude": -159.5,
+            "survival_days": 564.2
+        },
+        {
+            "altitude": 1514.27,
+            "country": "United_States_of_America",
+            "iceV_max": 9920.7,
+            "latitude": 41.5,
+            "longitude": -122.5,
+            "survival_days": 523.0
+        },
+        {
+            "altitude": 738.62,
+            "country": "United_States_of_America",
+            "iceV_max": 60800.2,
+            "latitude": 69.5,
+            "longitude": -145.5,
+            "survival_days": 355.0
+        },
+        {
+            "altitude": 1939.64,
+            "country": "United_States_of_America",
+            "iceV_max": 9683.7,
+            "latitude": 43.5,
+            "longitude": -111.5,
+            "survival_days": 481.3
+        },
+        {
+            "altitude": 638.88,
+            "country": "United_States_of_America",
+            "iceV_max": 62257.6,
+            "latitude": 69.5,
+            "longitude": -143.5,
+            "survival_days": 515.0
+        },
+        {
+            "altitude": 1382.73,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": -104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2235.35,
+            "country": "United_States_of_America",
+            "iceV_max": 26137.6,
+            "latitude": 44.5,
+            "longitude": -111.5,
+            "survival_days": 639.9
+        },
+        {
+            "altitude": 1653.39,
+            "country": "United_States_of_America",
+            "iceV_max": 9091.4,
+            "latitude": 42.5,
+            "longitude": -120.5,
+            "survival_days": 484.1
+        },
+        {
+            "altitude": 815.16,
+            "country": "United_States_of_America",
+            "iceV_max": 75615.0,
+            "latitude": 60.5,
+            "longitude": -153.5,
+            "survival_days": 575.2
+        },
+        {
+            "altitude": 2371.12,
+            "country": "United_States_of_America",
+            "iceV_max": 5093.9,
+            "latitude": 37.5,
+            "longitude": -105.5,
+            "survival_days": 247.0
+        },
+        {
+            "altitude": 1155.81,
+            "country": "United_States_of_America",
+            "iceV_max": 9187.9,
+            "latitude": 44.5,
+            "longitude": -120.5,
+            "survival_days": 463.0
+        },
+        {
+            "altitude": 1580.71,
+            "country": "United_States_of_America",
+            "iceV_max": 7845.4,
+            "latitude": 40.5,
+            "longitude": -117.5,
+            "survival_days": 479.1
+        },
+        {
+            "altitude": 739.25,
+            "country": "United_States_of_America",
+            "iceV_max": 1237.2,
+            "latitude": 38.5,
+            "longitude": -80.5,
+            "survival_days": 161.9
+        },
+        {
+            "altitude": 1120.29,
+            "country": "United_States_of_America",
+            "iceV_max": 10355.6,
+            "latitude": 44.5,
+            "longitude": -121.5,
+            "survival_days": 472.8
+        },
+        {
+            "altitude": 2988.06,
+            "country": "United_States_of_America",
+            "iceV_max": 27571.0,
+            "latitude": 39.5,
+            "longitude": -106.5,
+            "survival_days": 680.9
+        },
+        {
+            "altitude": 623.09,
+            "country": "United_States_of_America",
+            "iceV_max": 2181.9,
+            "latitude": 42.5,
+            "longitude": -123.5,
+            "survival_days": 218.9
+        },
+        {
+            "altitude": 1117.02,
+            "country": "United_States_of_America",
+            "iceV_max": 39731.0,
+            "latitude": 63.5,
+            "longitude": -149.5,
+            "survival_days": 402.9
+        },
+        {
+            "altitude": 964.81,
+            "country": "United_States_of_America",
+            "iceV_max": 55925.6,
+            "latitude": 63.5,
+            "longitude": -150.5,
+            "survival_days": 407.0
+        },
+        {
+            "altitude": 1413.27,
+            "country": "United_States_of_America",
+            "iceV_max": 66644.3,
+            "latitude": 63.5,
+            "longitude": -147.5,
+            "survival_days": 564.5
+        },
+        {
+            "altitude": 1415.72,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 30.5,
+            "longitude": -103.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1661.69,
+            "country": "United_States_of_America",
+            "iceV_max": 6682.0,
+            "latitude": 39.5,
+            "longitude": -113.5,
+            "survival_days": 474.8
+        },
+        {
+            "altitude": 515.78,
+            "country": "United_States_of_America",
+            "iceV_max": 3387.2,
+            "latitude": 41.5,
+            "longitude": -77.5,
+            "survival_days": 161.4
+        },
+        {
+            "altitude": 601.22,
+            "country": "United_States_of_America",
+            "iceV_max": 22754.4,
+            "latitude": 60.5,
+            "longitude": -154.5,
+            "survival_days": 548.5
+        },
+        {
+            "altitude": 684.12,
+            "country": "United_States_of_America",
+            "iceV_max": 36553.7,
+            "latitude": 60.5,
+            "longitude": -149.5,
+            "survival_days": 554.0
+        },
+        {
+            "altitude": 1325.17,
+            "country": "United_States_of_America",
+            "iceV_max": 6285.6,
+            "latitude": 43.5,
+            "longitude": -118.5,
+            "survival_days": 407.3
+        },
+        {
+            "altitude": 1134.95,
+            "country": "United_States_of_America",
+            "iceV_max": 63244.1,
+            "latitude": 61.5,
+            "longitude": -148.5,
+            "survival_days": 634.8
+        },
+        {
+            "altitude": 779.39,
+            "country": "United_States_of_America",
+            "iceV_max": 5.2,
+            "latitude": 40.5,
+            "longitude": -122.5,
+            "survival_days": 0.0
+        },
+        {
+            "altitude": 1949.36,
+            "country": "United_States_of_America",
+            "iceV_max": 20721.8,
+            "latitude": 43.5,
+            "longitude": -114.5,
+            "survival_days": 511.7
+        },
+        {
+            "altitude": 876.0,
+            "country": "United_States_of_America",
+            "iceV_max": 42432.9,
+            "latitude": 64.5,
+            "longitude": -144.5,
+            "survival_days": 594.3
+        },
+        {
+            "altitude": 479.85,
+            "country": "United_States_of_America",
+            "iceV_max": 4185.1,
+            "latitude": 43.5,
+            "longitude": -74.5,
+            "survival_days": 162.4
+        },
+        {
+            "altitude": 541.68,
+            "country": "United_States_of_America",
+            "iceV_max": 51075.4,
+            "latitude": 67.5,
+            "longitude": -157.5,
+            "survival_days": 296.9
+        },
+        {
+            "altitude": 709.57,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 35.5,
+            "longitude": -118.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1014.79,
+            "country": "United_States_of_America",
+            "iceV_max": 21399.2,
+            "latitude": 48.5,
+            "longitude": -118.5,
+            "survival_days": 502.1
+        },
+        {
+            "altitude": 1560.88,
+            "country": "United_States_of_America",
+            "iceV_max": 4677.3,
+            "latitude": 38.5,
+            "longitude": -110.5,
+            "survival_days": 434.5
+        },
+        {
+            "altitude": 419.49,
+            "country": "United_States_of_America",
+            "iceV_max": 4081.2,
+            "latitude": 42.5,
+            "longitude": -74.5,
+            "survival_days": 152.9
+        },
+        {
+            "altitude": 1566.42,
+            "country": "United_States_of_America",
+            "iceV_max": 13700.5,
+            "latitude": 46.5,
+            "longitude": -110.5,
+            "survival_days": 462.0
+        },
+        {
+            "altitude": 1042.1,
+            "country": "United_States_of_America",
+            "iceV_max": 54397.6,
+            "latitude": 68.5,
+            "longitude": -149.5,
+            "survival_days": 464.4
+        },
+        {
+            "altitude": 2351.85,
+            "country": "United_States_of_America",
+            "iceV_max": 11858.2,
+            "latitude": 36.5,
+            "longitude": -105.5,
+            "survival_days": 513.5
+        },
+        {
+            "altitude": 1035.53,
+            "country": "United_States_of_America",
+            "iceV_max": 59099.9,
+            "latitude": 62.5,
+            "longitude": -147.5,
+            "survival_days": 562.1
+        },
+        {
+            "altitude": 1088.64,
+            "country": "United_States_of_America",
+            "iceV_max": 91361.3,
+            "latitude": 61.5,
+            "longitude": -145.5,
+            "survival_days": 570.0
+        },
+        {
+            "altitude": 1168.72,
+            "country": "United_States_of_America",
+            "iceV_max": 13469.7,
+            "latitude": 45.5,
+            "longitude": -107.5,
+            "survival_days": 447.2
+        },
+        {
+            "altitude": 1931.58,
+            "country": "United_States_of_America",
+            "iceV_max": 8220.8,
+            "latitude": 39.5,
+            "longitude": -114.5,
+            "survival_days": 483.9
+        },
+        {
+            "altitude": 315.82,
+            "country": "United_States_of_America",
+            "iceV_max": 78730.7,
+            "latitude": 69.5,
+            "longitude": -147.5,
+            "survival_days": 284.0
+        },
+        {
+            "altitude": 722.51,
+            "country": "United_States_of_America",
+            "iceV_max": 83556.0,
+            "latitude": 67.5,
+            "longitude": -147.5,
+            "survival_days": 559.5
+        },
+        {
+            "altitude": 1871.8,
+            "country": "United_States_of_America",
+            "iceV_max": 6657.2,
+            "latitude": 37.5,
+            "longitude": -109.5,
+            "survival_days": 420.5
+        },
+        {
+            "altitude": 482.5,
+            "country": "United_States_of_America",
+            "iceV_max": 57713.0,
+            "latitude": 69.5,
+            "longitude": -142.5,
+            "survival_days": 517.4
+        },
+        {
+            "altitude": 369.3,
+            "country": "United_States_of_America",
+            "iceV_max": 55740.0,
+            "latitude": 69.5,
+            "longitude": -141.5,
+            "survival_days": 287.7
+        },
+        {
+            "altitude": 2166.26,
+            "country": "United_States_of_America",
+            "iceV_max": 11953.8,
+            "latitude": 37.5,
+            "longitude": -112.5,
+            "survival_days": 492.7
+        },
+        {
+            "altitude": 374.99,
+            "country": "United_States_of_America",
+            "iceV_max": 1903.5,
+            "latitude": 39.5,
+            "longitude": -78.5,
+            "survival_days": 338.4
+        },
+        {
+            "altitude": 767.38,
+            "country": "United_States_of_America",
+            "iceV_max": 77612.6,
+            "latitude": 63.5,
+            "longitude": -142.5,
+            "survival_days": 548.8
+        },
+        {
+            "altitude": 431.93,
+            "country": "United_States_of_America",
+            "iceV_max": 2286.7,
+            "latitude": 40.5,
+            "longitude": -78.5,
+            "survival_days": 158.9
+        },
+        {
+            "altitude": 2031.95,
+            "country": "United_States_of_America",
+            "iceV_max": 7746.5,
+            "latitude": 37.5,
+            "longitude": -113.5,
+            "survival_days": 462.0
+        },
+        {
+            "altitude": 1488.35,
+            "country": "United_States_of_America",
+            "iceV_max": 453.1,
+            "latitude": 31.5,
+            "longitude": -109.5,
+            "survival_days": 149.8
+        },
+        {
+            "altitude": 1013.48,
+            "country": "United_States_of_America",
+            "iceV_max": 5.2,
+            "latitude": 36.5,
+            "longitude": -114.5,
+            "survival_days": 0.0
+        },
+        {
+            "altitude": 296.33,
+            "country": "United_States_of_America",
+            "iceV_max": 10983.3,
+            "latitude": 44.5,
+            "longitude": -72.5,
+            "survival_days": 403.6
+        },
+        {
+            "altitude": 1812.15,
+            "country": "United_States_of_America",
+            "iceV_max": 9830.8,
+            "latitude": 41.5,
+            "longitude": -114.5,
+            "survival_days": 430.5
+        },
+        {
+            "altitude": 478.91,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 32.5,
+            "longitude": -112.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1822.37,
+            "country": "United_States_of_America",
+            "iceV_max": 2418.1,
+            "latitude": 33.5,
+            "longitude": -109.5,
+            "survival_days": 493.3
+        },
+        {
+            "altitude": 1500.68,
+            "country": "United_States_of_America",
+            "iceV_max": 4684.9,
+            "latitude": 39.5,
+            "longitude": -118.5,
+            "survival_days": 501.8
+        },
+        {
+            "altitude": 445.1,
+            "country": "United_States_of_America",
+            "iceV_max": 1883.3,
+            "latitude": 36.5,
+            "longitude": -83.5,
+            "survival_days": 152.7
+        },
+        {
+            "altitude": 2656.76,
+            "country": "United_States_of_America",
+            "iceV_max": 16940.0,
+            "latitude": 40.5,
+            "longitude": -106.5,
+            "survival_days": 542.1
+        },
+        {
+            "altitude": 797.99,
+            "country": "United_States_of_America",
+            "iceV_max": 5608.3,
+            "latitude": 46.5,
+            "longitude": -116.5,
+            "survival_days": 501.0
+        },
+        {
+            "altitude": 498.61,
+            "country": "United_States_of_America",
+            "iceV_max": 106144.7,
+            "latitude": 65.5,
+            "longitude": -142.5,
+            "survival_days": 475.3
+        },
+        {
+            "altitude": 1869.62,
+            "country": "United_States_of_America",
+            "iceV_max": 2954.7,
+            "latitude": 36.5,
+            "longitude": -110.5,
+            "survival_days": 444.4
+        },
+        {
+            "altitude": 1465.88,
+            "country": "United_States_of_America",
+            "iceV_max": 1806.5,
+            "latitude": 35.5,
+            "longitude": -113.5,
+            "survival_days": 400.0
+        },
+        {
+            "altitude": 661.41,
+            "country": "United_States_of_America",
+            "iceV_max": 6175.4,
+            "latitude": 45.5,
+            "longitude": -121.5,
+            "survival_days": 462.9
+        },
+        {
+            "altitude": 768.18,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 33.5,
+            "longitude": -111.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 418.03,
+            "country": "United_States_of_America",
+            "iceV_max": 11482.4,
+            "latitude": 44.5,
+            "longitude": -71.5,
+            "survival_days": 397.2
+        },
+        {
+            "altitude": 935.63,
+            "country": "United_States_of_America",
+            "iceV_max": 13269.9,
+            "latitude": 46.5,
+            "longitude": -121.5,
+            "survival_days": 531.6
+        },
+        {
+            "altitude": 612.09,
+            "country": "United_States_of_America",
+            "iceV_max": 71121.2,
+            "latitude": 68.5,
+            "longitude": -161.5,
+            "survival_days": 585.8
+        },
+        {
+            "altitude": 1093.98,
+            "country": "United_States_of_America",
+            "iceV_max": 85603.1,
+            "latitude": 62.5,
+            "longitude": -142.5,
+            "survival_days": 583.5
+        },
+        {
+            "altitude": 745.86,
+            "country": "United_States_of_America",
+            "iceV_max": 32256.7,
+            "latitude": 65.5,
+            "longitude": -146.5,
+            "survival_days": 597.0
+        },
+        {
+            "altitude": 1480.97,
+            "country": "United_States_of_America",
+            "iceV_max": 8687.6,
+            "latitude": 43.5,
+            "longitude": -121.5,
+            "survival_days": 525.0
+        },
+        {
+            "altitude": 501.2,
+            "country": "United_States_of_America",
+            "iceV_max": 3034.8,
+            "latitude": 45.5,
+            "longitude": -120.5,
+            "survival_days": 402.9
+        },
+        {
+            "altitude": 904.01,
+            "country": "United_States_of_America",
+            "iceV_max": 74206.9,
+            "latitude": 68.5,
+            "longitude": -142.5,
+            "survival_days": 490.8
+        },
+        {
+            "altitude": 577.1,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 34.5,
+            "longitude": -119.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 369.17,
+            "country": "United_States_of_America",
+            "iceV_max": 4485.2,
+            "latitude": 43.5,
+            "longitude": -72.5,
+            "survival_days": 159.0
+        },
+        {
+            "altitude": 649.49,
+            "country": "United_States_of_America",
+            "iceV_max": 57196.3,
+            "latitude": 68.5,
+            "longitude": -160.5,
+            "survival_days": 550.6
+        },
+        {
+            "altitude": 2042.77,
+            "country": "United_States_of_America",
+            "iceV_max": 7888.5,
+            "latitude": 38.5,
+            "longitude": -108.5,
+            "survival_days": 509.3
+        },
+        {
+            "altitude": 1039.34,
+            "country": "United_States_of_America",
+            "iceV_max": 105209.9,
+            "latitude": 68.5,
+            "longitude": -143.5,
+            "survival_days": 525.3
+        },
+        {
+            "altitude": 645.58,
+            "country": "United_States_of_America",
+            "iceV_max": 1708.4,
+            "latitude": 37.5,
+            "longitude": -80.5,
+            "survival_days": 320.8
+        },
+        {
+            "altitude": 445.01,
+            "country": "United_States_of_America",
+            "iceV_max": 51185.4,
+            "latitude": 66.5,
+            "longitude": -141.5,
+            "survival_days": 465.8
+        },
+        {
+            "altitude": 1129.38,
+            "country": "United_States_of_America",
+            "iceV_max": 39014.4,
+            "latitude": 63.5,
+            "longitude": -148.5,
+            "survival_days": 408.8
+        },
+        {
+            "altitude": 2326.59,
+            "country": "United_States_of_America",
+            "iceV_max": 7499.0,
+            "latitude": 41.5,
+            "longitude": -106.5,
+            "survival_days": 491.0
+        },
+        {
+            "altitude": 2250.37,
+            "country": "United_States_of_America",
+            "iceV_max": 7560.6,
+            "latitude": 36.5,
+            "longitude": -106.5,
+            "survival_days": 527.8
+        },
+        {
+            "altitude": 1128.56,
+            "country": "United_States_of_America",
+            "iceV_max": 301876.1,
+            "latitude": 68.5,
+            "longitude": -145.5,
+            "survival_days": 601.5
+        },
+        {
+            "altitude": 1711.26,
+            "country": "United_States_of_America",
+            "iceV_max": 7487.1,
+            "latitude": 41.5,
+            "longitude": -119.5,
+            "survival_days": 485.2
+        },
+        {
+            "altitude": 2822.24,
+            "country": "United_States_of_America",
+            "iceV_max": 26772.1,
+            "latitude": 38.5,
+            "longitude": -106.5,
+            "survival_days": 521.0
+        },
+        {
+            "altitude": 1766.0,
+            "country": "United_States_of_America",
+            "iceV_max": 7525.4,
+            "latitude": 37.5,
+            "longitude": -111.5,
+            "survival_days": 435.8
+        },
+        {
+            "altitude": 710.42,
+            "country": "United_States_of_America",
+            "iceV_max": 993.9,
+            "latitude": 36.5,
+            "longitude": -81.5,
+            "survival_days": 164.9
+        },
+        {
+            "altitude": 964.63,
+            "country": "United_States_of_America",
+            "iceV_max": 4776.2,
+            "latitude": 47.5,
+            "longitude": -120.5,
+            "survival_days": 204.2
+        },
+        {
+            "altitude": 1623.72,
+            "country": "United_States_of_America",
+            "iceV_max": 4515.9,
+            "latitude": 37.5,
+            "longitude": -115.5,
+            "survival_days": 445.5
+        },
+        {
+            "altitude": 1550.43,
+            "country": "United_States_of_America",
+            "iceV_max": 5640.5,
+            "latitude": 46.5,
+            "longitude": -113.5,
+            "survival_days": 236.0
+        },
+        {
+            "altitude": 1488.04,
+            "country": "United_States_of_America",
+            "iceV_max": 5756.8,
+            "latitude": 42.5,
+            "longitude": -113.5,
+            "survival_days": 463.8
+        },
+        {
+            "altitude": 2413.3,
+            "country": "United_States_of_America",
+            "iceV_max": 22317.6,
+            "latitude": 38.5,
+            "longitude": -107.5,
+            "survival_days": 547.0
+        },
+        {
+            "altitude": 920.66,
+            "country": "United_States_of_America",
+            "iceV_max": 29775.1,
+            "latitude": 60.5,
+            "longitude": -143.5,
+            "survival_days": 603.0
+        },
+        {
+            "altitude": 450.5,
+            "country": "United_States_of_America",
+            "iceV_max": 27208.2,
+            "latitude": 64.5,
+            "longitude": -159.5,
+            "survival_days": 474.4
+        },
+        {
+            "altitude": 2271.34,
+            "country": "United_States_of_America",
+            "iceV_max": 18639.0,
+            "latitude": 40.5,
+            "longitude": -105.5,
+            "survival_days": 547.8
+        },
+        {
+            "altitude": 1678.54,
+            "country": "United_States_of_America",
+            "iceV_max": 20673.6,
+            "latitude": 47.5,
+            "longitude": -113.5,
+            "survival_days": 450.8
+        },
+        {
+            "altitude": 1543.82,
+            "country": "United_States_of_America",
+            "iceV_max": 6042.2,
+            "latitude": 41.5,
+            "longitude": -117.5,
+            "survival_days": 446.2
+        },
+        {
+            "altitude": 1011.32,
+            "country": "United_States_of_America",
+            "iceV_max": 61331.2,
+            "latitude": 64.5,
+            "longitude": -143.5,
+            "survival_days": 382.8
+        },
+        {
+            "altitude": 524.66,
+            "country": "United_States_of_America",
+            "iceV_max": 60467.1,
+            "latitude": 69.5,
+            "longitude": -146.5,
+            "survival_days": 544.5
+        },
+        {
+            "altitude": 1158.0,
+            "country": "United_States_of_America",
+            "iceV_max": 3937.0,
+            "latitude": 40.5,
+            "longitude": -121.5,
+            "survival_days": 520.9
+        },
+        {
+            "altitude": 467.08,
+            "country": "United_States_of_America",
+            "iceV_max": 6541.3,
+            "latitude": 45.5,
+            "longitude": -70.5,
+            "survival_days": 147.9
+        },
+        {
+            "altitude": 445.85,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 39.5,
+            "longitude": -122.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1090.07,
+            "country": "United_States_of_America",
+            "iceV_max": 73935.6,
+            "latitude": 61.5,
+            "longitude": -143.5,
+            "survival_days": 608.0
+        },
+        {
+            "altitude": 535.94,
+            "country": "United_States_of_America",
+            "iceV_max": 49666.2,
+            "latitude": 67.5,
+            "longitude": -145.5,
+            "survival_days": 584.6
+        },
+        {
+            "altitude": 2056.39,
+            "country": "United_States_of_America",
+            "iceV_max": 7636.1,
+            "latitude": 36.5,
+            "longitude": -107.5,
+            "survival_days": 450.7
+        },
+        {
+            "altitude": 975.89,
+            "country": "United_States_of_America",
+            "iceV_max": 0,
+            "latitude": 29.5,
+            "longitude": -103.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1261.8105047318609,
+        "average_iceV": 27505.51608832807,
+        "average_survival_days": 421.32618296529955,
+        "max_iceV": 301876.1,
+        "min_iceV": 0,
+        "total_locations": 317
+    }
+}

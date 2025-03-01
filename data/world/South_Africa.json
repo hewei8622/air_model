@@ -1,0 +1,269 @@
+{
+    "country": "South_Africa",
+    "location_results": [
+        {
+            "altitude": 1382.44,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -31.5,
+            "longitude": 27.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1151.26,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -30.5,
+            "longitude": 29.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1838.53,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -30.5,
+            "longitude": 27.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1998.63,
+            "country": "South_Africa",
+            "iceV_max": 2840.2,
+            "latitude": -29.5,
+            "longitude": 29.5,
+            "survival_days": 590.0
+        },
+        {
+            "altitude": 1527.97,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -31.5,
+            "longitude": 26.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 780.55,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -33.5,
+            "longitude": 20.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1055.87,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -28.5,
+            "longitude": 30.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1322.16,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -25.5,
+            "longitude": 30.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 955.76,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -31.5,
+            "longitude": 28.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 858.31,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -32.5,
+            "longitude": 27.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 939.97,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -32.5,
+            "longitude": 24.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 627.61,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -27.5,
+            "longitude": 31.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1306.93,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -27.5,
+            "longitude": 30.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1150.52,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -32.5,
+            "longitude": 26.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1070.88,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -24.5,
+            "longitude": 29.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 901.01,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -29.5,
+            "longitude": 30.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 844.13,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -33.5,
+            "longitude": 23.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 963.42,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -32.5,
+            "longitude": 20.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1028.46,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -32.5,
+            "longitude": 25.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1857.26,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -30.5,
+            "longitude": 28.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1370.21,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -28.5,
+            "longitude": 29.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 588.81,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -28.5,
+            "longitude": 31.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1641.24,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -27.5,
+            "longitude": 29.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 609.43,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -33.5,
+            "longitude": 19.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 727.35,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -33.5,
+            "longitude": 22.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 856.22,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -24.5,
+            "longitude": 30.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 787.99,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -31.5,
+            "longitude": 19.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 561.73,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -32.5,
+            "longitude": 19.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1136.02,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -24.5,
+            "longitude": 27.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 521.34,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -29.5,
+            "longitude": 17.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1694.3,
+            "country": "South_Africa",
+            "iceV_max": 1772.9,
+            "latitude": -28.5,
+            "longitude": 28.5,
+            "survival_days": 218.4
+        },
+        {
+            "altitude": 1482.7,
+            "country": "South_Africa",
+            "iceV_max": 0,
+            "latitude": -31.5,
+            "longitude": 24.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1110.5940624999998,
+        "average_iceV": 144.159375,
+        "average_survival_days": 25.2625,
+        "max_iceV": 2840.2,
+        "min_iceV": 0,
+        "total_locations": 32
+    }
+}

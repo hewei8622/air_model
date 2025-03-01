@@ -1,0 +1,45 @@
+{
+    "country": "Greece",
+    "location_results": [
+        {
+            "altitude": 912.49,
+            "country": "Greece",
+            "iceV_max": 3160.8,
+            "latitude": 40.5,
+            "longitude": 21.5,
+            "survival_days": 220.2
+        },
+        {
+            "altitude": 917.95,
+            "country": "Greece",
+            "iceV_max": 3352.5,
+            "latitude": 41.5,
+            "longitude": 24.5,
+            "survival_days": 213.5
+        },
+        {
+            "altitude": 402.41,
+            "country": "Greece",
+            "iceV_max": 0,
+            "latitude": 37.5,
+            "longitude": 22.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 574.49,
+            "country": "Greece",
+            "iceV_max": 2886.2,
+            "latitude": 39.5,
+            "longitude": 21.5,
+            "survival_days": 731.0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 701.835,
+        "average_iceV": 2349.875,
+        "average_survival_days": 291.175,
+        "max_iceV": 3352.5,
+        "min_iceV": 0,
+        "total_locations": 4
+    }
+}

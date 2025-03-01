@@ -1,0 +1,29 @@
+{
+    "country": "Armenia",
+    "location_results": [
+        {
+            "altitude": 1937.44,
+            "country": "Armenia",
+            "iceV_max": 16169.4,
+            "latitude": 40.5,
+            "longitude": 44.5,
+            "survival_days": 471.9
+        },
+        {
+            "altitude": 1629.94,
+            "country": "Armenia",
+            "iceV_max": 12550.9,
+            "latitude": 39.5,
+            "longitude": 45.5,
+            "survival_days": 538.1
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1783.69,
+        "average_iceV": 14360.15,
+        "average_survival_days": 505.0,
+        "max_iceV": 16169.4,
+        "min_iceV": 12550.9,
+        "total_locations": 2
+    }
+}

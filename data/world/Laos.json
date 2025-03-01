@@ -1,0 +1,109 @@
+{
+    "country": "Laos",
+    "location_results": [
+        {
+            "altitude": 733.25,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 20.5,
+            "longitude": 100.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 981.06,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": 102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 509.76,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": 104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1094.26,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": 103.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 933.34,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 21.5,
+            "longitude": 102.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 785.47,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 19.5,
+            "longitude": 101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 928.78,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 20.5,
+            "longitude": 101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 446.93,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 18.5,
+            "longitude": 101.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 988.88,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 20.5,
+            "longitude": 103.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 573.92,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 15.5,
+            "longitude": 106.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 780.08,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 20.5,
+            "longitude": 104.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 931.45,
+            "country": "Laos",
+            "iceV_max": 0,
+            "latitude": 20.5,
+            "longitude": 102.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 807.2650000000002,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 12
+    }
+}

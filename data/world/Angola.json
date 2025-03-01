@@ -1,0 +1,125 @@
+{
+    "country": "Angola",
+    "location_results": [
+        {
+            "altitude": 662.4,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -7.5,
+            "longitude": 14.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1313.97,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -13.5,
+            "longitude": 14.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 754.58,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -6.5,
+            "longitude": 16.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 800.81,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -13.5,
+            "longitude": 13.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 345.12,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -9.5,
+            "longitude": 14.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 521.54,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -8.5,
+            "longitude": 14.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1051.34,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -16.5,
+            "longitude": 13.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 703.84,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -10.5,
+            "longitude": 14.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1297.1,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -12.5,
+            "longitude": 14.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 862.63,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -11.5,
+            "longitude": 14.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1631.52,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -11.5,
+            "longitude": 16.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1023.13,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -14.5,
+            "longitude": 13.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1657.19,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -12.5,
+            "longitude": 15.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1554.46,
+            "country": "Angola",
+            "iceV_max": 0,
+            "latitude": -11.5,
+            "longitude": 15.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1012.8307142857144,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 14
+    }
+}

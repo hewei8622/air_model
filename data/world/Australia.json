@@ -1,0 +1,149 @@
+{
+    "country": "Australia",
+    "location_results": [
+        {
+            "altitude": 728.13,
+            "country": "Australia",
+            "iceV_max": 1599.2,
+            "latitude": -36.5,
+            "longitude": 147.5,
+            "survival_days": 242.2
+        },
+        {
+            "altitude": 583.46,
+            "country": "Australia",
+            "iceV_max": 0,
+            "latitude": -31.5,
+            "longitude": 150.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 525.87,
+            "country": "Australia",
+            "iceV_max": 0,
+            "latitude": -29.5,
+            "longitude": 152.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 539.3,
+            "country": "Australia",
+            "iceV_max": 0,
+            "latitude": -30.5,
+            "longitude": 152.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 428.79,
+            "country": "Australia",
+            "iceV_max": 0,
+            "latitude": -42.5,
+            "longitude": 146.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 650.42,
+            "country": "Australia",
+            "iceV_max": 0,
+            "latitude": -31.5,
+            "longitude": 151.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 372.04,
+            "country": "Australia",
+            "iceV_max": 0,
+            "latitude": -37.5,
+            "longitude": 148.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 560.71,
+            "country": "Australia",
+            "iceV_max": 0,
+            "latitude": -30.5,
+            "longitude": 150.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 694.0,
+            "country": "Australia",
+            "iceV_max": 807.3,
+            "latitude": -35.5,
+            "longitude": 149.5,
+            "survival_days": 242.1
+        },
+        {
+            "altitude": 930.46,
+            "country": "Australia",
+            "iceV_max": 1462.7,
+            "latitude": -36.5,
+            "longitude": 148.5,
+            "survival_days": 223.2
+        },
+        {
+            "altitude": 547.95,
+            "country": "Australia",
+            "iceV_max": 0,
+            "latitude": -37.5,
+            "longitude": 147.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 739.71,
+            "country": "Australia",
+            "iceV_max": 0,
+            "latitude": -37.5,
+            "longitude": 146.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 472.98,
+            "country": "Australia",
+            "iceV_max": 535.2,
+            "latitude": -32.5,
+            "longitude": 149.5,
+            "survival_days": 144.1
+        },
+        {
+            "altitude": 522.16,
+            "country": "Australia",
+            "iceV_max": 0,
+            "latitude": -33.5,
+            "longitude": 150.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 517.15,
+            "country": "Australia",
+            "iceV_max": 0,
+            "latitude": -28.5,
+            "longitude": 152.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 770.88,
+            "country": "Australia",
+            "iceV_max": 1334.2,
+            "latitude": -35.5,
+            "longitude": 148.5,
+            "survival_days": 219.0
+        },
+        {
+            "altitude": 829.42,
+            "country": "Australia",
+            "iceV_max": 525.4,
+            "latitude": -33.5,
+            "longitude": 149.5,
+            "survival_days": 154.3
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 612.5547058823529,
+        "average_iceV": 368.4705882352941,
+        "average_survival_days": 72.05294117647058,
+        "max_iceV": 1599.2,
+        "min_iceV": 0,
+        "total_locations": 17
+    }
+}

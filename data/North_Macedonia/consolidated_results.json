@@ -1,0 +1,26 @@
+[
+    {
+        "altitude": 785.23,
+        "country": "North_Macedonia",
+        "iceV_max": 2835.1,
+        "latitude": 41.5,
+        "longitude": 21.5,
+        "survival_days": 602.3
+    },
+    {
+        "altitude": 908.85,
+        "country": "North_Macedonia",
+        "iceV_max": 3780.1,
+        "latitude": 41.5,
+        "longitude": 20.5,
+        "survival_days": 685.6
+    },
+    {
+        "altitude": 589.72,
+        "country": "North_Macedonia",
+        "iceV_max": 3599.4,
+        "latitude": 41.5,
+        "longitude": 22.5,
+        "survival_days": 432.7
+    }
+]

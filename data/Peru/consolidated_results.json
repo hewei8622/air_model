@@ -1,376 +1,434 @@
-{
-    "location_results": [
-        {
-            "altitude": 2414.83,
-            "iceV_max": 0,
-            "latitude": -17.5,
-            "longitude": -70.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2656.46,
-            "iceV_max": 0,
-            "latitude": -16.5,
-            "longitude": -71.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 949.57,
-            "iceV_max": 0,
-            "latitude": -16.5,
-            "longitude": -72.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 4140.18,
-            "iceV_max": 10482.6,
-            "latitude": -16.5,
-            "longitude": -69.5,
-            "survival_days": 461.0
-        },
-        {
-            "altitude": 4161.22,
-            "iceV_max": 21158.0,
-            "latitude": -16.5,
-            "longitude": -70.5,
-            "survival_days": 478.0
-        },
-        {
-            "altitude": 1408.14,
-            "iceV_max": 0,
-            "latitude": -15.5,
-            "longitude": -74.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 3792.99,
-            "iceV_max": 8085.9,
-            "latitude": -15.5,
-            "longitude": -69.5,
-            "survival_days": 437.0
-        },
-        {
-            "altitude": 4440.73,
-            "iceV_max": 17741.4,
-            "latitude": -15.5,
-            "longitude": -71.5,
-            "survival_days": 510.0
-        },
-        {
-            "altitude": 3728.56,
-            "iceV_max": 1588.1,
-            "latitude": -15.5,
-            "longitude": -72.5,
-            "survival_days": 65.0
-        },
-        {
-            "altitude": 2945.28,
-            "iceV_max": 0,
-            "latitude": -15.5,
-            "longitude": -73.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 4244.48,
-            "iceV_max": 12724.2,
-            "latitude": -15.5,
-            "longitude": -70.5,
-            "survival_days": 475.0
-        },
-        {
-            "altitude": 4261.96,
-            "iceV_max": 15576.9,
-            "latitude": -14.5,
-            "longitude": -71.5,
-            "survival_days": 475.0
-        },
-        {
-            "altitude": 4410.05,
-            "iceV_max": 16690.8,
-            "latitude": -14.5,
-            "longitude": -70.5,
-            "survival_days": 476.0
-        },
-        {
-            "altitude": 2831.33,
-            "iceV_max": 0,
-            "latitude": -14.5,
-            "longitude": -74.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 4250.56,
-            "iceV_max": 15305.5,
-            "latitude": -14.5,
-            "longitude": -73.5,
-            "survival_days": 475.0
-        },
-        {
-            "altitude": 3524.89,
-            "iceV_max": 0,
-            "latitude": -14.5,
-            "longitude": -69.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 4230.41,
-            "iceV_max": 13258.5,
-            "latitude": -14.5,
-            "longitude": -72.5,
-            "survival_days": 475.0
-        },
-        {
-            "altitude": 3434.76,
-            "iceV_max": 0,
-            "latitude": -13.5,
-            "longitude": -73.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2589.44,
-            "iceV_max": 0,
-            "latitude": -13.5,
-            "longitude": -75.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 3558.17,
-            "iceV_max": 0,
-            "latitude": -13.5,
-            "longitude": -72.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 746.5,
-            "iceV_max": 0,
-            "latitude": -13.5,
-            "longitude": -69.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 3559.03,
-            "iceV_max": 0,
-            "latitude": -13.5,
-            "longitude": -71.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2254.86,
-            "iceV_max": 0,
-            "latitude": -13.5,
-            "longitude": -70.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 3933.89,
-            "iceV_max": 17431.6,
-            "latitude": -13.5,
-            "longitude": -74.5,
-            "survival_days": 473.0
-        },
-        {
-            "altitude": 1477.56,
-            "iceV_max": 0,
-            "latitude": -12.5,
-            "longitude": -71.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1941.62,
-            "iceV_max": 0,
-            "latitude": -12.5,
-            "longitude": -72.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1611.73,
-            "iceV_max": 0,
-            "latitude": -12.5,
-            "longitude": -73.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 3745.77,
-            "iceV_max": 0,
-            "latitude": -12.5,
-            "longitude": -75.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1793.85,
-            "iceV_max": 0,
-            "latitude": -12.5,
-            "longitude": -76.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2908.36,
-            "iceV_max": 0,
-            "latitude": -12.5,
-            "longitude": -74.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2352.57,
-            "iceV_max": 0,
-            "latitude": -11.5,
-            "longitude": -74.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2851.37,
-            "iceV_max": 0,
-            "latitude": -11.5,
-            "longitude": -76.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 3898.44,
-            "iceV_max": 0,
-            "latitude": -11.5,
-            "longitude": -75.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1996.21,
-            "iceV_max": 0,
-            "latitude": -10.5,
-            "longitude": -77.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2411.1,
-            "iceV_max": 0,
-            "latitude": -10.5,
-            "longitude": -75.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 3891.23,
-            "iceV_max": 17212.1,
-            "latitude": -10.5,
-            "longitude": -76.5,
-            "survival_days": 400.0
-        },
-        {
-            "altitude": 2927.07,
-            "iceV_max": 0,
-            "latitude": -9.5,
-            "longitude": -77.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2981.9,
-            "iceV_max": 0,
-            "latitude": -9.5,
-            "longitude": -76.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2273.79,
-            "iceV_max": 0,
-            "latitude": -8.5,
-            "longitude": -76.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1633.86,
-            "iceV_max": 0,
-            "latitude": -8.5,
-            "longitude": -78.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 3258.42,
-            "iceV_max": 0,
-            "latitude": -8.5,
-            "longitude": -77.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2039.53,
-            "iceV_max": 0,
-            "latitude": -7.5,
-            "longitude": -78.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1014.8,
-            "iceV_max": 0,
-            "latitude": -7.5,
-            "longitude": -76.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1968.25,
-            "iceV_max": 0,
-            "latitude": -7.5,
-            "longitude": -77.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1125.71,
-            "iceV_max": 0,
-            "latitude": -6.5,
-            "longitude": -79.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2044.08,
-            "iceV_max": 0,
-            "latitude": -6.5,
-            "longitude": -77.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 999.63,
-            "iceV_max": 0,
-            "latitude": -6.5,
-            "longitude": -76.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 2355.74,
-            "iceV_max": 0,
-            "latitude": -6.5,
-            "longitude": -78.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1305.45,
-            "iceV_max": 0,
-            "latitude": -5.5,
-            "longitude": -77.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 919.4,
-            "iceV_max": 0,
-            "latitude": -5.5,
-            "longitude": -79.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1670.28,
-            "iceV_max": 0,
-            "latitude": -5.5,
-            "longitude": -78.5,
-            "survival_days": 0
-        },
-        {
-            "altitude": 1242.17,
-            "iceV_max": 0,
-            "latitude": -4.5,
-            "longitude": -78.5,
-            "survival_days": 0
-        }
-    ],
-    "summary_statistics": {
-        "average_altitude": 2675.157307692308,
-        "average_iceV": 3216.4538461538464,
-        "average_survival_days": 100.0,
-        "max_iceV": 21158.0,
-        "min_iceV": 0,
-        "total_locations": 52
+[
+    {
+        "altitude": 2352.57,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -11.5,
+        "longitude": -74.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1408.14,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -15.5,
+        "longitude": -74.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1125.71,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -6.5,
+        "longitude": -79.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1477.56,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -12.5,
+        "longitude": -71.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1941.62,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -12.5,
+        "longitude": -72.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2039.53,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -7.5,
+        "longitude": -78.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 3792.99,
+        "country": "Peru",
+        "iceV_max": 8153.7,
+        "latitude": -15.5,
+        "longitude": -69.5,
+        "survival_days": 559.0
+    },
+    {
+        "altitude": 1611.73,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -12.5,
+        "longitude": -73.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2273.79,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -8.5,
+        "longitude": -76.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1633.86,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -8.5,
+        "longitude": -78.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2044.08,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -6.5,
+        "longitude": -77.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 3745.77,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -12.5,
+        "longitude": -75.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 4440.73,
+        "country": "Peru",
+        "iceV_max": 22165.8,
+        "latitude": -15.5,
+        "longitude": -71.5,
+        "survival_days": 610.0
+    },
+    {
+        "altitude": 1305.45,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -5.5,
+        "longitude": -77.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 4261.96,
+        "country": "Peru",
+        "iceV_max": 18007.6,
+        "latitude": -14.5,
+        "longitude": -71.5,
+        "survival_days": 618.0
+    },
+    {
+        "altitude": 4410.05,
+        "country": "Peru",
+        "iceV_max": 17197.3,
+        "latitude": -14.5,
+        "longitude": -70.5,
+        "survival_days": 628.0
+    },
+    {
+        "altitude": 2656.46,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -16.5,
+        "longitude": -71.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2414.83,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -17.5,
+        "longitude": -70.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1151.4,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -9.5,
+        "longitude": -75.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 3434.76,
+        "country": "Peru",
+        "iceV_max": 12657.9,
+        "latitude": -13.5,
+        "longitude": -73.5,
+        "survival_days": 575.0
+    },
+    {
+        "altitude": 949.57,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -16.5,
+        "longitude": -72.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2851.37,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -11.5,
+        "longitude": -76.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 673.66,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -10.5,
+        "longitude": -74.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 4140.18,
+        "country": "Peru",
+        "iceV_max": 12448.4,
+        "latitude": -16.5,
+        "longitude": -69.5,
+        "survival_days": 609.0
+    },
+    {
+        "altitude": 2831.33,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -14.5,
+        "longitude": -74.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1996.21,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -10.5,
+        "longitude": -77.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 3258.42,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -8.5,
+        "longitude": -77.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 3728.56,
+        "country": "Peru",
+        "iceV_max": 15249.5,
+        "latitude": -15.5,
+        "longitude": -72.5,
+        "survival_days": 598.0
+    },
+    {
+        "altitude": 1014.8,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -7.5,
+        "longitude": -76.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 999.63,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -6.5,
+        "longitude": -76.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2355.74,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -6.5,
+        "longitude": -78.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2589.44,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -13.5,
+        "longitude": -75.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 3558.17,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -13.5,
+        "longitude": -72.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2411.1,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -10.5,
+        "longitude": -75.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 3891.23,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -10.5,
+        "longitude": -76.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 4161.22,
+        "country": "Peru",
+        "iceV_max": 28160.4,
+        "latitude": -16.5,
+        "longitude": -70.5,
+        "survival_days": 648.0
+    },
+    {
+        "altitude": 4250.56,
+        "country": "Peru",
+        "iceV_max": 17955.1,
+        "latitude": -14.5,
+        "longitude": -73.5,
+        "survival_days": 618.0
+    },
+    {
+        "altitude": 919.4,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -5.5,
+        "longitude": -79.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2945.28,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -15.5,
+        "longitude": -73.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 4244.48,
+        "country": "Peru",
+        "iceV_max": 13866.5,
+        "latitude": -15.5,
+        "longitude": -70.5,
+        "survival_days": 618.0
+    },
+    {
+        "altitude": 3898.44,
+        "country": "Peru",
+        "iceV_max": 9731.7,
+        "latitude": -11.5,
+        "longitude": -75.5,
+        "survival_days": 522.0
+    },
+    {
+        "altitude": 746.5,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -13.5,
+        "longitude": -69.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1793.85,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -12.5,
+        "longitude": -76.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 3524.89,
+        "country": "Peru",
+        "iceV_max": 9112.4,
+        "latitude": -14.5,
+        "longitude": -69.5,
+        "survival_days": 534.0
+    },
+    {
+        "altitude": 2927.07,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -9.5,
+        "longitude": -77.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 3559.03,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -13.5,
+        "longitude": -71.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1670.28,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -5.5,
+        "longitude": -78.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2981.9,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -9.5,
+        "longitude": -76.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1242.17,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -4.5,
+        "longitude": -78.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2908.36,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -12.5,
+        "longitude": -74.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 1968.25,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -7.5,
+        "longitude": -77.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 2254.86,
+        "country": "Peru",
+        "iceV_max": 0,
+        "latitude": -13.5,
+        "longitude": -70.5,
+        "survival_days": 0
+    },
+    {
+        "altitude": 4230.41,
+        "country": "Peru",
+        "iceV_max": 16824.8,
+        "latitude": -14.5,
+        "longitude": -72.5,
+        "survival_days": 618.0
+    },
+    {
+        "altitude": 3933.89,
+        "country": "Peru",
+        "iceV_max": 20792.3,
+        "latitude": -13.5,
+        "longitude": -74.5,
+        "survival_days": 581.0
     }
-}
+]

@@ -1,0 +1,93 @@
+{
+    "country": "Kenya",
+    "location_results": [
+        {
+            "altitude": 844.08,
+            "country": "Kenya",
+            "iceV_max": 0,
+            "latitude": 1.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1127.64,
+            "country": "Kenya",
+            "iceV_max": 0,
+            "latitude": 3.5,
+            "longitude": 34.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1331.53,
+            "country": "Kenya",
+            "iceV_max": 0,
+            "latitude": 0.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1650.92,
+            "country": "Kenya",
+            "iceV_max": 0,
+            "latitude": -1.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2156.56,
+            "country": "Kenya",
+            "iceV_max": 0,
+            "latitude": -0.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1019.9,
+            "country": "Kenya",
+            "iceV_max": 0,
+            "latitude": 1.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1384.63,
+            "country": "Kenya",
+            "iceV_max": 0,
+            "latitude": -0.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1494.9,
+            "country": "Kenya",
+            "iceV_max": 0,
+            "latitude": 0.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1978.03,
+            "country": "Kenya",
+            "iceV_max": 0,
+            "latitude": -0.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1164.83,
+            "country": "Kenya",
+            "iceV_max": 0,
+            "latitude": 1.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1415.302,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 10
+    }
+}

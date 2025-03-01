@@ -1,0 +1,29 @@
+{
+    "country": "Kosovo",
+    "location_results": [
+        {
+            "altitude": 787.1,
+            "country": "Kosovo",
+            "iceV_max": 1664.5,
+            "latitude": 42.5,
+            "longitude": 21.5,
+            "survival_days": 230.5
+        },
+        {
+            "altitude": 1048.62,
+            "country": "Kosovo",
+            "iceV_max": 3391.2,
+            "latitude": 42.5,
+            "longitude": 20.5,
+            "survival_days": 584.5
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 917.8599999999999,
+        "average_iceV": 2527.85,
+        "average_survival_days": 407.5,
+        "max_iceV": 3391.2,
+        "min_iceV": 1664.5,
+        "total_locations": 2
+    }
+}

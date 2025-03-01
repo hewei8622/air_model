@@ -1,0 +1,405 @@
+{
+    "country": "Ethiopia",
+    "location_results": [
+        {
+            "altitude": 1877.1,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 9.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1767.59,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 8.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1811.2,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1218.93,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 13.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2236.36,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1104.39,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 9.5,
+            "longitude": 34.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1396.93,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 13.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1201.13,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": 40.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1906.52,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 8.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1332.68,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1813.77,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": 38.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 989.1,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": 40.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1479.59,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": 38.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2033.12,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 12.5,
+            "longitude": 38.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1604.7,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 13.5,
+            "longitude": 38.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2435.31,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": 38.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1307.51,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 9.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2244.79,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 7.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1165.43,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1404.14,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1636.36,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 7.5,
+            "longitude": 40.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1582.58,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 8.5,
+            "longitude": 40.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2132.5,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 11.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1556.42,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 9.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1126.8,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 12.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1839.7,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 11.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1586.27,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 12.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2357.13,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 11.5,
+            "longitude": 38.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1563.53,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 11.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 946.57,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 8.5,
+            "longitude": 34.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1943.49,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 7.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1394.07,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1120.72,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1321.7,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 8.5,
+            "longitude": 41.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1032.55,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 14.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1494.78,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 9.5,
+            "longitude": 41.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 849.87,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1689.89,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 8.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2069.09,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 7.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1668.54,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": 38.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 731.19,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 5.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1597.69,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": 36.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1836.77,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 6.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 2315.96,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 9.5,
+            "longitude": 38.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1423.51,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 7.5,
+            "longitude": 35.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1699.41,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 12.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1766.03,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 8.5,
+            "longitude": 39.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 682.22,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 10.5,
+            "longitude": 34.5,
+            "survival_days": 0
+        },
+        {
+            "altitude": 1982.95,
+            "country": "Ethiopia",
+            "iceV_max": 0,
+            "latitude": 9.5,
+            "longitude": 37.5,
+            "survival_days": 0
+        }
+    ],
+    "summary_statistics": {
+        "average_altitude": 1577.1138775510206,
+        "average_iceV": 0.0,
+        "average_survival_days": 0.0,
+        "max_iceV": 0,
+        "min_iceV": 0,
+        "total_locations": 49
+    }
+}
