@@ -46,23 +46,23 @@ for ((i = 0; i < $TOTAL; i++)); do
     mkdir -p "$ERA5_FOLDER"
   fi
 
-  # # Step 1: Run make_dataset.py
-  # log_message "Running make_dataset.py..."
-  # python src/data/make_dataset.py --datadir "$FOLDER" 2>&1 | tee -a "$LOG_FILE"
-  #
-  # if [ ${PIPESTATUS[0]} -ne 0 ]; then
-  #   log_message "Error in make_dataset.py for $FOLDER"
-  #   FAILED+=("$FOLDER (make_dataset.py failed)")
-  #   continue
-  # fi
-  #
-  # # Wait for filesystem operations to complete
-  # log_message "Waiting for file operations to complete..."
-  # sleep 5
+  # Step 1: Run make_dataset.py
+  log_message "Running make_dataset.py..."
+  python src/data/make_dataset.py --country "$FOLDER" 2>&1 | tee -a "$LOG_FILE"
+
+  if [ ${PIPESTATUS[0]} -ne 0 ]; then
+    log_message "Error in make_dataset.py for $FOLDER"
+    FAILED+=("$FOLDER (make_dataset.py failed)")
+    continue
+  fi
+
+  # Wait for filesystem operations to complete
+  log_message "Waiting for file operations to complete..."
+  sleep 5
 
   # Step 2: Run userApp.py
   log_message "Running userApp.py..."
-  python src/models/userApp.py --datadir "$FOLDER" 2>&1 | tee -a "$LOG_FILE"
+  python src/models/userApp.py --country "$FOLDER" 2>&1 | tee -a "$LOG_FILE"
 
   if [ ${PIPESTATUS[0]} -ne 0 ]; then
     log_message "Error in userApp.py for $FOLDER"
