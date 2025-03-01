@@ -6,12 +6,33 @@ from shapely.geometry import Point
 import argparse
 import logging
 import sys
+import re
 
 # Locals
 dirname = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 sys.path.append(dirname)
 from src.utils import setup_logger
 import logging, coloredlogs
+
+def sanitize_filename(filename):
+    """
+    Sanitize filename by removing special characters and replacing spaces
+    
+    Args:
+        filename (str): Original filename
+    
+    Returns:
+        str: Sanitized filename safe for filesystem
+    """
+    # Remove or replace special characters
+    # Replace spaces with underscores
+    # Remove quotes
+    sanitized = re.sub(r'[^\w\-_\. ]', '_', filename)
+    sanitized = sanitized.replace(' ', '_')
+    sanitized = sanitized.replace("'", "")
+    sanitized = sanitized.replace('"', "")
+    
+    return sanitized.strip()
 
 def parse_coordinates(filename):
     """
@@ -118,12 +139,16 @@ def classify_by_country(input_folder, output_base_folder, min_alt=None, bounding
                     if point_gdf.within(country.geometry).values[0]:
                         country_name = country['ADMIN']  # Use ADMIN field for country name
                         
+                        # Sanitize country name to remove quotes and special characters
+                        sanitized_country_name = sanitize_filename(country_name)
+                        
                         # Create country folder and era5 subfolder if they don't exist
-                        country_folder = os.path.join(output_base_folder, country_name)
+                        country_folder = os.path.join(output_base_folder, sanitized_country_name)
                         era5_folder = os.path.join(country_folder, "era5")
+                        
                         if not os.path.exists(era5_folder):
                             os.makedirs(era5_folder)
-                            logger.info(f"Created era5 folder for {country_name}")
+                            logger.info(f"Created era5 folder for {sanitized_country_name}")
                         
                         # Copy file to country/era5 folder
                         output_path = os.path.join(era5_folder, filename)
@@ -131,9 +156,9 @@ def classify_by_country(input_folder, output_base_folder, min_alt=None, bounding
                         
                         # Update statistics
                         files_classified += 1
-                        country_counts[country_name] = country_counts.get(country_name, 0) + 1
+                        country_counts[sanitized_country_name] = country_counts.get(sanitized_country_name, 0) + 1
                         
-                        logger.debug(f"Classified {filename} as {country_name}")
+                        logger.debug(f"Classified {filename} as {sanitized_country_name}")
                         break
                 else:
                     logger.warning(f"Could not classify {filename} to any country")
