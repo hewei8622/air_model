@@ -40,18 +40,19 @@ for ((i = 0; i < $TOTAL; i++)); do
   log_message "==================================================="
 
   # Create era5 subfolder if it doesn't exist
-  ERA5_FOLDER="$FOLDER/era5"
+  ERA5_FOLDER="${FOLDER%/}/era5"
   if [ ! -d "$ERA5_FOLDER" ]; then
     log_message "Creating missing subfolder: $ERA5_FOLDER"
     mkdir -p "$ERA5_FOLDER"
   fi
 
   # Step 1: Run make_dataset.py
+  COUNTRY=$(basename "${FOLDER%/}") # Remove trailing slash before getting basename
   log_message "Running make_dataset.py..."
-  python src/data/make_dataset.py --country "$FOLDER" 2>&1 | tee -a "$LOG_FILE"
+  python src/data/make_dataset.py --country "$COUNTRY" 2>&1 | tee -a "$LOG_FILE"
 
   if [ ${PIPESTATUS[0]} -ne 0 ]; then
-    log_message "Error in make_dataset.py for $FOLDER"
+    log_message "Error in make_dataset.py for $COUNTRY"
     FAILED+=("$FOLDER (make_dataset.py failed)")
     continue
   fi
@@ -62,16 +63,16 @@ for ((i = 0; i < $TOTAL; i++)); do
 
   # Step 2: Run userApp.py
   log_message "Running userApp.py..."
-  python src/models/userApp.py --country "$FOLDER" 2>&1 | tee -a "$LOG_FILE"
+  python src/models/userApp.py --country "$COUNTRY" 2>&1 | tee -a "$LOG_FILE"
 
   if [ ${PIPESTATUS[0]} -ne 0 ]; then
-    log_message "Error in userApp.py for $FOLDER"
+    log_message "Error in userApp.py for $COUNTRY"
     FAILED+=("$FOLDER (userApp.py failed)")
     continue
   fi
 
-  log_message "Successfully processed $FOLDER"
-  SUCCESSFUL+=("$FOLDER")
+  log_message "Successfully processed $COUNTRY"
+  SUCCESSFUL+=("$COUNTRY")
 done
 
 # Print summary
