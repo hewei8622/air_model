@@ -220,8 +220,57 @@ def process_single_dataset(filename, args):
         logger.info(f"Completed processing {filename}")
         return True
     except Exception as e:
-        logger.error(f"Error processing {filename}: {str(e)}")
+        # Log the error
+        error_msg = str(e)
+        logger.error(f"Error processing {filename}: {error_msg}")
+        
+        # Record the error in data_errors.csv
+        record_processing_error(filename, args.country, error_msg)
+        
         return False
+
+def record_processing_error(filename, country, error_msg):
+    """
+    Record processing errors in a CSV file
+    
+    Args:
+        filename (str): Name of the file that failed processing
+        country (str): Country name
+        error_msg (str): Error message
+    """
+    # Create world directory if it doesn't exist
+    data_base_dir = os.path.join(dirname, 'data')
+    world_dir = os.path.join(data_base_dir, "world")
+    os.makedirs(world_dir, exist_ok=True)
+    
+    # Path to error log file
+    error_file = os.path.join(world_dir, "data_errors.csv")
+    
+    # Get country name without path
+    country_name = os.path.basename(country)
+    
+    # Get current timestamp
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    
+    # Prepare error data
+    error_data = {
+        'timestamp': timestamp,
+        'country': country_name,
+        'filename': filename,
+        'error': error_msg
+    }
+    
+    # Check if file exists
+    file_exists = os.path.isfile(error_file)
+    
+    # Write to CSV file
+    try:
+        with open(error_file, 'a', newline='') as f:
+            writer = pd.DataFrame([error_data]).to_csv(f, header=not file_exists, index=False)
+        logger.info(f"Recorded error for {filename} in {error_file}")
+    except Exception as e:
+        logger.error(f"Failed to record error in CSV: {str(e)}")
+
 
 if __name__ == "__main__":
     # Main logger
