@@ -1,0 +1,5 @@
+spray,ice_volume_max,water_use_efficiency,freezing_efficiency,stupa_retention_efficiency,direct_waste_ratio
+scheduled_field,66.48,39.23,0.0,,85.83
+unscheduled_field,53.29,4.5,0.0,,95.99
+scheduled_wue,40.33,371.21,0.0,,88.79
+scheduled_icv,59.75,9.57,0.0,,90.08
