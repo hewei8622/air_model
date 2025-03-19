@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import pandas as pd
 from sklearn.metrics import mean_squared_error
+import numpy as np
 
 
 # Locals
@@ -50,7 +51,8 @@ if __name__ == "__main__":
             icestupa.summary_figures()
 
             if location == "Guttannen 2022" and spray == "scheduled_field":
-                rmse = mean_squared_error(icestupa.df.T_bulk_meas, (icestupa.df.T_bulk + icestupa.df.T_s)/2, squared=False)
+                rmse = mean_squared_error(icestupa.df.T_bulk_meas, (icestupa.df.T_bulk + icestupa.df.T_s)/2)
+                rmse = np.sqrt(rmse)  # Manually calculate RMSE
                 nse = nse(icestupa.df.T_bulk, (icestupa.df.T_bulk + icestupa.df.T_s)/2)
                 print(f"Calculated NSE {nse} and RMSE {rmse}")
 

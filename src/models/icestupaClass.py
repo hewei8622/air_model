@@ -49,14 +49,19 @@ class Icestupa:
         df_f["Discharge"] = df_f[self.spray]
         df_f = df_f[["time", "Discharge"]]
         if np.count_nonzero(df_f["Discharge"]) <= 24:
-            logger.error("Less than 24 hours of spray")
-
-        # Perform discharge atleast one night check
-        self.df = self.df.set_index("time")
-        df_f = df_f.set_index("time")
-        self.df["Discharge"] = df_f["Discharge"]
-        self.df["Discharge"] = self.df["Discharge"].replace(np.NaN, 0)
-        self.df = self.df.reset_index()
+            logger.critical("No spray data in file")
+            # Set all values to 0
+            self.df = pd.merge(
+                left=self.df, right=df_f, how="left", left_on="time", right_on="time"
+            )
+            self.df["Discharge"] = self.df["Discharge"].replace(np.nan, 0)
+        else:
+            # Perform discharge atleast one night check
+            self.df = self.df.set_index("time")
+            df_f = df_f.set_index("time")
+            self.df["Discharge"] = df_f["Discharge"]
+            self.df["Discharge"] = self.df["Discharge"].replace(np.nan, 0)
+            self.df = self.df.reset_index()
 
         self.D_F = df_f.Discharge[df_f.Discharge != 0].mean()
         print("\n") 
@@ -93,7 +98,7 @@ class Icestupa:
 
         for i in range(len(unknown)):
             if unknown[i] in list(self.df.columns):
-                unknown[i] = np.NaN  # Removes known variable
+                unknown[i] = np.nan  # Removes known variable
             else:
                 logger.warning(" %s is unknown\n" % (unknown[i]))
                 self.df[unknown[i]] = 0
